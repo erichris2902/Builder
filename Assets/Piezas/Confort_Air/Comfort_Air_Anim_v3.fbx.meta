@@ -1,0 +1,3153 @@
+fileFormatVersion: 2
+guid: 4746b8d9e3c62fb44900dd5f36d907b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BAck
+    100002: Camara_de_aire_v1
+    100004: Camara_de_aire_v1 1
+    100006: Camara_de_aire_v2
+    100008: Camara_de_aire_v2 1
+    100010: center
+    100012: center 1
+    100014: Chamber_Air_1
+    100016: Chamber_Air_2
+    100018: Chamber_Air_3
+    100020: Chamber_Air_4
+    100022: //RootNode
+    100024: Front
+    100026: group1
+    100028: group1 1
+    100030: group2
+    100032: group2 1
+    100034: group3
+    100036: group3 1
+    100038: group4
+    100040: group4 1
+    100042: group5
+    100044: pC10
+    100046: pC11
+    100048: pC12
+    100050: pC14
+    100052: pC15
+    100054: pC23
+    100056: pC24
+    100058: pC25
+    100060: pC26
+    100062: pC31
+    100064: pC32
+    100066: pC33
+    100068: pC34
+    100070: pC35
+    100072: pC36
+    100074: pC37
+    100076: pC4
+    100078: pC5
+    100080: pCu11
+    100082: pCu12
+    100084: pCu13
+    100086: pCu14
+    100088: pCu2
+    100090: pCube11
+    100092: pCube12
+    100094: pCube13
+    100096: pCube14
+    100098: pCube2
+    100100: pCylinder10
+    100102: pCylinder11
+    100104: pCylinder12
+    100106: pCylinder14
+    100108: pCylinder15
+    100110: pCylinder23
+    100112: pCylinder24
+    100114: pCylinder25
+    100116: pCylinder26
+    100118: pCylinder31
+    100120: pCylinder32
+    100122: pCylinder33
+    100124: pCylinder34
+    100126: pCylinder35
+    100128: pCylinder36
+    100130: pCylinder37
+    100132: pCylinder4
+    100134: pCylinder5
+    100136: polySurface100
+    100138: polySurface101
+    100140: polySurface102
+    100142: polySurface103
+    100144: polySurface104
+    100146: polySurface105
+    100148: polySurface106
+    100150: polySurface107
+    100152: polySurface108
+    100154: polySurface109
+    100156: polySurface110
+    100158: polySurface111
+    100160: polySurface112
+    100162: polySurface113
+    100164: polySurface114
+    100166: polySurface115
+    100168: polySurface116
+    100170: polySurface117
+    100172: polySurface118
+    100174: polySurface119
+    100176: polySurface120
+    100178: polySurface121
+    100180: polySurface122
+    100182: polySurface123
+    100184: polySurface126
+    100186: polySurface127
+    100188: polySurface130
+    100190: polySurface131
+    100192: polySurface132
+    100194: polySurface133
+    100196: polySurface134
+    100198: polySurface135
+    100200: polySurface136
+    100202: polySurface137
+    100204: polySurface142
+    100206: polySurface146
+    100208: polySurface147
+    100210: polySurface148
+    100212: polySurface149
+    100214: polySurface150
+    100216: polySurface151
+    100218: polySurface152
+    100220: polySurface153
+    100222: polySurface154
+    100224: polySurface155
+    100226: polySurface156
+    100228: polySurface157
+    100230: polySurface158
+    100232: polySurface159
+    100234: polySurface160
+    100236: polySurface161
+    100238: polySurface162
+    100240: polySurface163
+    100242: polySurface164
+    100244: polySurface165
+    100246: polySurface166
+    100248: polySurface173
+    100250: polySurface174
+    100252: polySurface177
+    100254: polySurface179
+    100256: polySurface180
+    100258: polySurface181
+    100260: polySurface182
+    100262: polySurface183
+    100264: polySurface184
+    100266: polySurface185
+    100268: polySurface190
+    100270: polySurface194
+    100272: polySurface195
+    100274: polySurface196
+    100276: polySurface197
+    100278: polySurface198
+    100280: polySurface199
+    100282: polySurface200
+    100284: polySurface201
+    100286: polySurface202
+    100288: polySurface203
+    100290: polySurface204
+    100292: polySurface205
+    100294: polySurface206
+    100296: polySurface207
+    100298: polySurface208
+    100300: polySurface209
+    100302: polySurface210
+    100304: polySurface211
+    100306: polySurface212
+    100308: polySurface213
+    100310: polySurface214
+    100312: polySurface221
+    100314: polySurface222
+    100316: polySurface225
+    100318: polySurface227
+    100320: polySurface228
+    100322: polySurface229
+    100324: polySurface230
+    100326: polySurface231
+    100328: polySurface232
+    100330: polySurface233
+    100332: polySurface234
+    100334: polySurface235
+    100336: polySurface236
+    100338: polySurface237
+    100340: polySurface238
+    100342: polySurface239
+    100344: polySurface240
+    100346: polySurface241
+    100348: polySurface243
+    100350: polySurface244
+    100352: polySurface245
+    100354: polySurface250
+    100356: polySurface251
+    100358: polySurface252
+    100360: polySurface253
+    100362: polySurface254
+    100364: polySurface256
+    100366: polySurface258
+    100368: polySurface259
+    100370: polySurface260
+    100372: polySurface261
+    100374: polySurface262
+    100376: polySurface263
+    100378: polySurface264
+    100380: polySurface265
+    100382: polySurface266
+    100384: polySurface267
+    100386: polySurface268
+    100388: polySurface269
+    100390: polySurface41
+    100392: polySurface45
+    100394: polySurface45 1
+    100396: polySurface46
+    100398: polySurface46 1
+    100400: polySurface52
+    100402: polySurface52 1
+    100404: polySurface53
+    100406: polySurface53 1
+    100408: polySurface82
+    100410: polySurface83
+    100412: polySurface88
+    100414: polySurface93
+    100416: polySurface94
+    100418: polySurface95
+    100420: polySurface96
+    100422: polySurface97
+    100424: pPi1
+    100426: pPi10
+    100428: pPi12
+    100430: pPi13
+    100432: pPi20
+    100434: pPi21
+    100436: pPi22
+    100438: pPi23
+    100440: pPi3
+    100442: pPi55
+    100444: pPi56
+    100446: pPi57
+    100448: pPi58
+    100450: pPi59
+    100452: pPi60
+    100454: pPi61
+    100456: pPi62
+    100458: pPi63
+    100460: pPi64
+    100462: pPi65
+    100464: pPi66
+    100466: pPi67
+    100468: pPi68
+    100470: pPi69
+    100472: pPi70
+    100474: pPi71
+    100476: pPi73
+    100478: pPi74
+    100480: pPi75
+    100482: pPi76
+    100484: pPipe1
+    100486: pPipe10
+    100488: pPipe12
+    100490: pPipe13
+    100492: pPipe20
+    100494: pPipe21
+    100496: pPipe22
+    100498: pPipe23
+    100500: pPipe3
+    100502: pPipe55
+    100504: pPipe56
+    100506: pPipe57
+    100508: pPipe58
+    100510: pPipe59
+    100512: pPipe60
+    100514: pPipe61
+    100516: pPipe62
+    100518: pPipe63
+    100520: pPipe64
+    100522: pPipe65
+    100524: pPipe66
+    100526: pPipe67
+    100528: pPipe68
+    100530: pPipe69
+    100532: pPipe70
+    100534: pPipe73
+    100536: ps100
+    100538: ps101
+    100540: ps102
+    100542: ps103
+    100544: ps104
+    100546: ps105
+    100548: ps106
+    100550: ps107
+    100552: ps108
+    100554: ps109
+    100556: ps110
+    100558: ps111
+    100560: ps112
+    100562: ps113
+    100564: ps114
+    100566: ps115
+    100568: ps116
+    100570: ps117
+    100572: ps118
+    100574: ps119
+    100576: ps120
+    100578: ps121
+    100580: ps122
+    100582: ps123
+    100584: ps126
+    100586: ps127
+    100588: ps130
+    100590: ps131
+    100592: ps132
+    100594: ps133
+    100596: ps134
+    100598: ps135
+    100600: ps136
+    100602: ps137
+    100604: ps142
+    100606: ps147
+    100608: ps148
+    100610: ps149
+    100612: ps150
+    100614: ps151
+    100616: ps152
+    100618: ps153
+    100620: ps154
+    100622: ps155
+    100624: ps156
+    100626: ps157
+    100628: ps158
+    100630: ps159
+    100632: ps160
+    100634: ps161
+    100636: ps162
+    100638: ps163
+    100640: ps164
+    100642: ps165
+    100644: ps166
+    100646: ps173
+    100648: ps174
+    100650: ps177
+    100652: ps179
+    100654: ps180
+    100656: ps181
+    100658: ps182
+    100660: ps183
+    100662: ps184
+    100664: ps185
+    100666: ps190
+    100668: ps194
+    100670: ps195
+    100672: ps196
+    100674: ps197
+    100676: ps198
+    100678: ps199
+    100680: ps200
+    100682: ps201
+    100684: ps202
+    100686: ps203
+    100688: ps204
+    100690: ps205
+    100692: ps206
+    100694: ps207
+    100696: ps208
+    100698: ps209
+    100700: ps210
+    100702: ps211
+    100704: ps212
+    100706: ps213
+    100708: ps214
+    100710: ps221
+    100712: ps222
+    100714: ps225
+    100716: ps227
+    100718: ps228
+    100720: ps229
+    100722: ps230
+    100724: ps231
+    100726: ps232
+    100728: ps233
+    100730: ps234
+    100732: ps235
+    100734: ps236
+    100736: ps237
+    100738: ps238
+    100740: ps239
+    100742: ps240
+    100744: ps241
+    100746: ps243
+    100748: ps244
+    100750: ps245
+    100752: ps250
+    100754: ps251
+    100756: ps252
+    100758: ps253
+    100760: ps254
+    100762: ps256
+    100764: ps258
+    100766: ps259
+    100768: ps260
+    100770: ps261
+    100772: ps262
+    100774: ps263
+    100776: ps264
+    100778: ps265
+    100780: ps266
+    100782: ps267
+    100784: ps268
+    100786: ps269
+    100788: ps270
+    100790: ps41
+    100792: ps45
+    100794: ps45 1
+    100796: ps46
+    100798: ps46 1
+    100800: ps52
+    100802: ps52 1
+    100804: ps53
+    100806: ps53 1
+    100808: ps82
+    100810: ps83
+    100812: ps88
+    100814: ps93
+    100816: ps94
+    100818: ps95
+    100820: ps96
+    100822: ps97
+    100824: Sc_Threads_c
+    100826: Sc_Threads_c1
+    100828: Sc_Threads_c1 1
+    100830: Sc_Threads_c10
+    100832: Sc_Threads_c10 1
+    100834: Sc_Threads_c11
+    100836: Sc_Threads_c11 1
+    100838: Sc_Threads_c12
+    100840: Sc_Threads_c12 1
+    100842: Sc_Threads_c13
+    100844: Sc_Threads_c13 1
+    100846: Sc_Threads_c14
+    100848: Sc_Threads_c14 1
+    100850: Sc_Threads_c15
+    100852: Sc_Threads_c15 1
+    100854: Sc_Threads_c16
+    100856: Sc_Threads_c16 1
+    100858: Sc_Threads_c17
+    100860: Sc_Threads_c17 1
+    100862: Sc_Threads_c18
+    100864: Sc_Threads_c18 1
+    100866: Sc_Threads_c19
+    100868: Sc_Threads_c19 1
+    100870: Sc_Threads_c2
+    100872: Sc_Threads_c2 1
+    100874: Sc_Threads_c20
+    100876: Sc_Threads_c20 1
+    100878: Sc_Threads_c21
+    100880: Sc_Threads_c21 1
+    100882: Sc_Threads_c22
+    100884: Sc_Threads_c23
+    100886: Sc_Threads_c24
+    100888: Sc_Threads_c25
+    100890: Sc_Threads_c3
+    100892: Sc_Threads_c3 1
+    100894: Sc_Threads_c4
+    100896: Sc_Threads_c4 1
+    100898: Sc_Threads_c5
+    100900: Sc_Threads_c5 1
+    100902: Sc_Threads_c6
+    100904: Sc_Threads_c6 1
+    100906: Sc_Threads_c7
+    100908: Sc_Threads_c7 1
+    100910: Sc_Threads_c8
+    100912: Sc_Threads_c8 1
+    100914: Sc_Threads_c9
+    100916: Sc_Threads_c9 1
+    100918: Sc_Threads_L
+    100920: Sc_Threads_L 1
+    100922: Sc_Threads_L 10
+    100924: Sc_Threads_L 11
+    100926: Sc_Threads_L 12
+    100928: Sc_Threads_L 13
+    100930: Sc_Threads_L 14
+    100932: Sc_Threads_L 15
+    100934: Sc_Threads_L 16
+    100936: Sc_Threads_L 17
+    100938: Sc_Threads_L 18
+    100940: Sc_Threads_L 19
+    100942: Sc_Threads_L 2
+    100944: Sc_Threads_L 20
+    100946: Sc_Threads_L 21
+    100948: Sc_Threads_L 22
+    100950: Sc_Threads_L 23
+    100952: Sc_Threads_L 24
+    100954: Sc_Threads_L 25
+    100956: Sc_Threads_L 26
+    100958: Sc_Threads_L 27
+    100960: Sc_Threads_L 28
+    100962: Sc_Threads_L 29
+    100964: Sc_Threads_L 3
+    100966: Sc_Threads_L 30
+    100968: Sc_Threads_L 31
+    100970: Sc_Threads_L 32
+    100972: Sc_Threads_L 33
+    100974: Sc_Threads_L 34
+    100976: Sc_Threads_L 35
+    100978: Sc_Threads_L 36
+    100980: Sc_Threads_L 37
+    100982: Sc_Threads_L 38
+    100984: Sc_Threads_L 39
+    100986: Sc_Threads_L 4
+    100988: Sc_Threads_L 40
+    100990: Sc_Threads_L 5
+    100992: Sc_Threads_L 6
+    100994: Sc_Threads_L 7
+    100996: Sc_Threads_L 8
+    100998: Sc_Threads_L 9
+    101000: Sc_Threads_L1
+    101002: Sc_Threads_L10
+    101004: Sc_Threads_L11
+    101006: Sc_Threads_L12
+    101008: Sc_Threads_L13
+    101010: Sc_Threads_L14
+    101012: Sc_Threads_L15
+    101014: Sc_Threads_L16
+    101016: Sc_Threads_L2
+    101018: Sc_Threads_L3
+    101020: Sc_Threads_L4
+    101022: Sc_Threads_L5
+    101024: Sc_Threads_L5 1
+    101026: Sc_Threads_L6
+    101028: Sc_Threads_L6 1
+    101030: Sc_Threads_L7
+    101032: Sc_Threads_L7 1
+    101034: Sc_Threads_L8
+    101036: Sc_Threads_L8 1
+    101038: Sc_Threads_L9
+    101040: Screw_Threads_c
+    101042: Screw_Threads_c1
+    101044: Screw_Threads_c1 1
+    101046: Screw_Threads_c10
+    101048: Screw_Threads_c10 1
+    101050: Screw_Threads_c11
+    101052: Screw_Threads_c11 1
+    101054: Screw_Threads_c12
+    101056: Screw_Threads_c12 1
+    101058: Screw_Threads_c13
+    101060: Screw_Threads_c13 1
+    101062: Screw_Threads_c14
+    101064: Screw_Threads_c14 1
+    101066: Screw_Threads_c15
+    101068: Screw_Threads_c15 1
+    101070: Screw_Threads_c16
+    101072: Screw_Threads_c16 1
+    101074: Screw_Threads_c17
+    101076: Screw_Threads_c17 1
+    101078: Screw_Threads_c18
+    101080: Screw_Threads_c18 1
+    101082: Screw_Threads_c19
+    101084: Screw_Threads_c19 1
+    101086: Screw_Threads_c2
+    101088: Screw_Threads_c2 1
+    101090: Screw_Threads_c20
+    101092: Screw_Threads_c20 1
+    101094: Screw_Threads_c21
+    101096: Screw_Threads_c21 1
+    101098: Screw_Threads_c22
+    101100: Screw_Threads_c23
+    101102: Screw_Threads_c24
+    101104: Screw_Threads_c25
+    101106: Screw_Threads_c3
+    101108: Screw_Threads_c3 1
+    101110: Screw_Threads_c4
+    101112: Screw_Threads_c4 1
+    101114: Screw_Threads_c5
+    101116: Screw_Threads_c5 1
+    101118: Screw_Threads_c6
+    101120: Screw_Threads_c6 1
+    101122: Screw_Threads_c7
+    101124: Screw_Threads_c7 1
+    101126: Screw_Threads_c8
+    101128: Screw_Threads_c8 1
+    101130: Screw_Threads_c9
+    101132: Screw_Threads_c9 1
+    101134: Screw_Threads_L
+    101136: Screw_Threads_L 1
+    101138: Screw_Threads_L 10
+    101140: Screw_Threads_L 11
+    101142: Screw_Threads_L 12
+    101144: Screw_Threads_L 13
+    101146: Screw_Threads_L 14
+    101148: Screw_Threads_L 15
+    101150: Screw_Threads_L 16
+    101152: Screw_Threads_L 17
+    101154: Screw_Threads_L 18
+    101156: Screw_Threads_L 19
+    101158: Screw_Threads_L 2
+    101160: Screw_Threads_L 20
+    101162: Screw_Threads_L 21
+    101164: Screw_Threads_L 22
+    101166: Screw_Threads_L 23
+    101168: Screw_Threads_L 24
+    101170: Screw_Threads_L 25
+    101172: Screw_Threads_L 26
+    101174: Screw_Threads_L 27
+    101176: Screw_Threads_L 28
+    101178: Screw_Threads_L 29
+    101180: Screw_Threads_L 3
+    101182: Screw_Threads_L 30
+    101184: Screw_Threads_L 31
+    101186: Screw_Threads_L 32
+    101188: Screw_Threads_L 33
+    101190: Screw_Threads_L 34
+    101192: Screw_Threads_L 35
+    101194: Screw_Threads_L 36
+    101196: Screw_Threads_L 37
+    101198: Screw_Threads_L 38
+    101200: Screw_Threads_L 39
+    101202: Screw_Threads_L 4
+    101204: Screw_Threads_L 40
+    101206: Screw_Threads_L 41
+    101208: Screw_Threads_L 42
+    101210: Screw_Threads_L 43
+    101212: Screw_Threads_L 44
+    101214: Screw_Threads_L 45
+    101216: Screw_Threads_L 5
+    101218: Screw_Threads_L 6
+    101220: Screw_Threads_L 7
+    101222: Screw_Threads_L 8
+    101224: Screw_Threads_L 9
+    101226: Screws_L
+    101228: Screws_L 1
+    101230: Screws_R
+    101232: Screws_R 1
+    101234: Side_L
+    101236: Side_L 1
+    101238: Side_R
+    101240: Side_R 1
+    400000: BAck
+    400002: Camara_de_aire_v1
+    400004: Camara_de_aire_v1 1
+    400006: Camara_de_aire_v2
+    400008: Camara_de_aire_v2 1
+    400010: center
+    400012: center 1
+    400014: Chamber_Air_1
+    400016: Chamber_Air_2
+    400018: Chamber_Air_3
+    400020: Chamber_Air_4
+    400022: //RootNode
+    400024: Front
+    400026: group1
+    400028: group1 1
+    400030: group2
+    400032: group2 1
+    400034: group3
+    400036: group3 1
+    400038: group4
+    400040: group4 1
+    400042: group5
+    400044: pC10
+    400046: pC11
+    400048: pC12
+    400050: pC14
+    400052: pC15
+    400054: pC23
+    400056: pC24
+    400058: pC25
+    400060: pC26
+    400062: pC31
+    400064: pC32
+    400066: pC33
+    400068: pC34
+    400070: pC35
+    400072: pC36
+    400074: pC37
+    400076: pC4
+    400078: pC5
+    400080: pCu11
+    400082: pCu12
+    400084: pCu13
+    400086: pCu14
+    400088: pCu2
+    400090: pCube11
+    400092: pCube12
+    400094: pCube13
+    400096: pCube14
+    400098: pCube2
+    400100: pCylinder10
+    400102: pCylinder11
+    400104: pCylinder12
+    400106: pCylinder14
+    400108: pCylinder15
+    400110: pCylinder23
+    400112: pCylinder24
+    400114: pCylinder25
+    400116: pCylinder26
+    400118: pCylinder31
+    400120: pCylinder32
+    400122: pCylinder33
+    400124: pCylinder34
+    400126: pCylinder35
+    400128: pCylinder36
+    400130: pCylinder37
+    400132: pCylinder4
+    400134: pCylinder5
+    400136: polySurface100
+    400138: polySurface101
+    400140: polySurface102
+    400142: polySurface103
+    400144: polySurface104
+    400146: polySurface105
+    400148: polySurface106
+    400150: polySurface107
+    400152: polySurface108
+    400154: polySurface109
+    400156: polySurface110
+    400158: polySurface111
+    400160: polySurface112
+    400162: polySurface113
+    400164: polySurface114
+    400166: polySurface115
+    400168: polySurface116
+    400170: polySurface117
+    400172: polySurface118
+    400174: polySurface119
+    400176: polySurface120
+    400178: polySurface121
+    400180: polySurface122
+    400182: polySurface123
+    400184: polySurface126
+    400186: polySurface127
+    400188: polySurface130
+    400190: polySurface131
+    400192: polySurface132
+    400194: polySurface133
+    400196: polySurface134
+    400198: polySurface135
+    400200: polySurface136
+    400202: polySurface137
+    400204: polySurface142
+    400206: polySurface146
+    400208: polySurface147
+    400210: polySurface148
+    400212: polySurface149
+    400214: polySurface150
+    400216: polySurface151
+    400218: polySurface152
+    400220: polySurface153
+    400222: polySurface154
+    400224: polySurface155
+    400226: polySurface156
+    400228: polySurface157
+    400230: polySurface158
+    400232: polySurface159
+    400234: polySurface160
+    400236: polySurface161
+    400238: polySurface162
+    400240: polySurface163
+    400242: polySurface164
+    400244: polySurface165
+    400246: polySurface166
+    400248: polySurface173
+    400250: polySurface174
+    400252: polySurface177
+    400254: polySurface179
+    400256: polySurface180
+    400258: polySurface181
+    400260: polySurface182
+    400262: polySurface183
+    400264: polySurface184
+    400266: polySurface185
+    400268: polySurface190
+    400270: polySurface194
+    400272: polySurface195
+    400274: polySurface196
+    400276: polySurface197
+    400278: polySurface198
+    400280: polySurface199
+    400282: polySurface200
+    400284: polySurface201
+    400286: polySurface202
+    400288: polySurface203
+    400290: polySurface204
+    400292: polySurface205
+    400294: polySurface206
+    400296: polySurface207
+    400298: polySurface208
+    400300: polySurface209
+    400302: polySurface210
+    400304: polySurface211
+    400306: polySurface212
+    400308: polySurface213
+    400310: polySurface214
+    400312: polySurface221
+    400314: polySurface222
+    400316: polySurface225
+    400318: polySurface227
+    400320: polySurface228
+    400322: polySurface229
+    400324: polySurface230
+    400326: polySurface231
+    400328: polySurface232
+    400330: polySurface233
+    400332: polySurface234
+    400334: polySurface235
+    400336: polySurface236
+    400338: polySurface237
+    400340: polySurface238
+    400342: polySurface239
+    400344: polySurface240
+    400346: polySurface241
+    400348: polySurface243
+    400350: polySurface244
+    400352: polySurface245
+    400354: polySurface250
+    400356: polySurface251
+    400358: polySurface252
+    400360: polySurface253
+    400362: polySurface254
+    400364: polySurface256
+    400366: polySurface258
+    400368: polySurface259
+    400370: polySurface260
+    400372: polySurface261
+    400374: polySurface262
+    400376: polySurface263
+    400378: polySurface264
+    400380: polySurface265
+    400382: polySurface266
+    400384: polySurface267
+    400386: polySurface268
+    400388: polySurface269
+    400390: polySurface41
+    400392: polySurface45
+    400394: polySurface45 1
+    400396: polySurface46
+    400398: polySurface46 1
+    400400: polySurface52
+    400402: polySurface52 1
+    400404: polySurface53
+    400406: polySurface53 1
+    400408: polySurface82
+    400410: polySurface83
+    400412: polySurface88
+    400414: polySurface93
+    400416: polySurface94
+    400418: polySurface95
+    400420: polySurface96
+    400422: polySurface97
+    400424: pPi1
+    400426: pPi10
+    400428: pPi12
+    400430: pPi13
+    400432: pPi20
+    400434: pPi21
+    400436: pPi22
+    400438: pPi23
+    400440: pPi3
+    400442: pPi55
+    400444: pPi56
+    400446: pPi57
+    400448: pPi58
+    400450: pPi59
+    400452: pPi60
+    400454: pPi61
+    400456: pPi62
+    400458: pPi63
+    400460: pPi64
+    400462: pPi65
+    400464: pPi66
+    400466: pPi67
+    400468: pPi68
+    400470: pPi69
+    400472: pPi70
+    400474: pPi71
+    400476: pPi73
+    400478: pPi74
+    400480: pPi75
+    400482: pPi76
+    400484: pPipe1
+    400486: pPipe10
+    400488: pPipe12
+    400490: pPipe13
+    400492: pPipe20
+    400494: pPipe21
+    400496: pPipe22
+    400498: pPipe23
+    400500: pPipe3
+    400502: pPipe55
+    400504: pPipe56
+    400506: pPipe57
+    400508: pPipe58
+    400510: pPipe59
+    400512: pPipe60
+    400514: pPipe61
+    400516: pPipe62
+    400518: pPipe63
+    400520: pPipe64
+    400522: pPipe65
+    400524: pPipe66
+    400526: pPipe67
+    400528: pPipe68
+    400530: pPipe69
+    400532: pPipe70
+    400534: pPipe73
+    400536: ps100
+    400538: ps101
+    400540: ps102
+    400542: ps103
+    400544: ps104
+    400546: ps105
+    400548: ps106
+    400550: ps107
+    400552: ps108
+    400554: ps109
+    400556: ps110
+    400558: ps111
+    400560: ps112
+    400562: ps113
+    400564: ps114
+    400566: ps115
+    400568: ps116
+    400570: ps117
+    400572: ps118
+    400574: ps119
+    400576: ps120
+    400578: ps121
+    400580: ps122
+    400582: ps123
+    400584: ps126
+    400586: ps127
+    400588: ps130
+    400590: ps131
+    400592: ps132
+    400594: ps133
+    400596: ps134
+    400598: ps135
+    400600: ps136
+    400602: ps137
+    400604: ps142
+    400606: ps147
+    400608: ps148
+    400610: ps149
+    400612: ps150
+    400614: ps151
+    400616: ps152
+    400618: ps153
+    400620: ps154
+    400622: ps155
+    400624: ps156
+    400626: ps157
+    400628: ps158
+    400630: ps159
+    400632: ps160
+    400634: ps161
+    400636: ps162
+    400638: ps163
+    400640: ps164
+    400642: ps165
+    400644: ps166
+    400646: ps173
+    400648: ps174
+    400650: ps177
+    400652: ps179
+    400654: ps180
+    400656: ps181
+    400658: ps182
+    400660: ps183
+    400662: ps184
+    400664: ps185
+    400666: ps190
+    400668: ps194
+    400670: ps195
+    400672: ps196
+    400674: ps197
+    400676: ps198
+    400678: ps199
+    400680: ps200
+    400682: ps201
+    400684: ps202
+    400686: ps203
+    400688: ps204
+    400690: ps205
+    400692: ps206
+    400694: ps207
+    400696: ps208
+    400698: ps209
+    400700: ps210
+    400702: ps211
+    400704: ps212
+    400706: ps213
+    400708: ps214
+    400710: ps221
+    400712: ps222
+    400714: ps225
+    400716: ps227
+    400718: ps228
+    400720: ps229
+    400722: ps230
+    400724: ps231
+    400726: ps232
+    400728: ps233
+    400730: ps234
+    400732: ps235
+    400734: ps236
+    400736: ps237
+    400738: ps238
+    400740: ps239
+    400742: ps240
+    400744: ps241
+    400746: ps243
+    400748: ps244
+    400750: ps245
+    400752: ps250
+    400754: ps251
+    400756: ps252
+    400758: ps253
+    400760: ps254
+    400762: ps256
+    400764: ps258
+    400766: ps259
+    400768: ps260
+    400770: ps261
+    400772: ps262
+    400774: ps263
+    400776: ps264
+    400778: ps265
+    400780: ps266
+    400782: ps267
+    400784: ps268
+    400786: ps269
+    400788: ps270
+    400790: ps41
+    400792: ps45
+    400794: ps45 1
+    400796: ps46
+    400798: ps46 1
+    400800: ps52
+    400802: ps52 1
+    400804: ps53
+    400806: ps53 1
+    400808: ps82
+    400810: ps83
+    400812: ps88
+    400814: ps93
+    400816: ps94
+    400818: ps95
+    400820: ps96
+    400822: ps97
+    400824: Sc_Threads_c
+    400826: Sc_Threads_c1
+    400828: Sc_Threads_c1 1
+    400830: Sc_Threads_c10
+    400832: Sc_Threads_c10 1
+    400834: Sc_Threads_c11
+    400836: Sc_Threads_c11 1
+    400838: Sc_Threads_c12
+    400840: Sc_Threads_c12 1
+    400842: Sc_Threads_c13
+    400844: Sc_Threads_c13 1
+    400846: Sc_Threads_c14
+    400848: Sc_Threads_c14 1
+    400850: Sc_Threads_c15
+    400852: Sc_Threads_c15 1
+    400854: Sc_Threads_c16
+    400856: Sc_Threads_c16 1
+    400858: Sc_Threads_c17
+    400860: Sc_Threads_c17 1
+    400862: Sc_Threads_c18
+    400864: Sc_Threads_c18 1
+    400866: Sc_Threads_c19
+    400868: Sc_Threads_c19 1
+    400870: Sc_Threads_c2
+    400872: Sc_Threads_c2 1
+    400874: Sc_Threads_c20
+    400876: Sc_Threads_c20 1
+    400878: Sc_Threads_c21
+    400880: Sc_Threads_c21 1
+    400882: Sc_Threads_c22
+    400884: Sc_Threads_c23
+    400886: Sc_Threads_c24
+    400888: Sc_Threads_c25
+    400890: Sc_Threads_c3
+    400892: Sc_Threads_c3 1
+    400894: Sc_Threads_c4
+    400896: Sc_Threads_c4 1
+    400898: Sc_Threads_c5
+    400900: Sc_Threads_c5 1
+    400902: Sc_Threads_c6
+    400904: Sc_Threads_c6 1
+    400906: Sc_Threads_c7
+    400908: Sc_Threads_c7 1
+    400910: Sc_Threads_c8
+    400912: Sc_Threads_c8 1
+    400914: Sc_Threads_c9
+    400916: Sc_Threads_c9 1
+    400918: Sc_Threads_L
+    400920: Sc_Threads_L 1
+    400922: Sc_Threads_L 10
+    400924: Sc_Threads_L 11
+    400926: Sc_Threads_L 12
+    400928: Sc_Threads_L 13
+    400930: Sc_Threads_L 14
+    400932: Sc_Threads_L 15
+    400934: Sc_Threads_L 16
+    400936: Sc_Threads_L 17
+    400938: Sc_Threads_L 18
+    400940: Sc_Threads_L 19
+    400942: Sc_Threads_L 2
+    400944: Sc_Threads_L 20
+    400946: Sc_Threads_L 21
+    400948: Sc_Threads_L 22
+    400950: Sc_Threads_L 23
+    400952: Sc_Threads_L 24
+    400954: Sc_Threads_L 25
+    400956: Sc_Threads_L 26
+    400958: Sc_Threads_L 27
+    400960: Sc_Threads_L 28
+    400962: Sc_Threads_L 29
+    400964: Sc_Threads_L 3
+    400966: Sc_Threads_L 30
+    400968: Sc_Threads_L 31
+    400970: Sc_Threads_L 32
+    400972: Sc_Threads_L 33
+    400974: Sc_Threads_L 34
+    400976: Sc_Threads_L 35
+    400978: Sc_Threads_L 36
+    400980: Sc_Threads_L 37
+    400982: Sc_Threads_L 38
+    400984: Sc_Threads_L 39
+    400986: Sc_Threads_L 4
+    400988: Sc_Threads_L 40
+    400990: Sc_Threads_L 5
+    400992: Sc_Threads_L 6
+    400994: Sc_Threads_L 7
+    400996: Sc_Threads_L 8
+    400998: Sc_Threads_L 9
+    401000: Sc_Threads_L1
+    401002: Sc_Threads_L10
+    401004: Sc_Threads_L11
+    401006: Sc_Threads_L12
+    401008: Sc_Threads_L13
+    401010: Sc_Threads_L14
+    401012: Sc_Threads_L15
+    401014: Sc_Threads_L16
+    401016: Sc_Threads_L2
+    401018: Sc_Threads_L3
+    401020: Sc_Threads_L4
+    401022: Sc_Threads_L5
+    401024: Sc_Threads_L5 1
+    401026: Sc_Threads_L6
+    401028: Sc_Threads_L6 1
+    401030: Sc_Threads_L7
+    401032: Sc_Threads_L7 1
+    401034: Sc_Threads_L8
+    401036: Sc_Threads_L8 1
+    401038: Sc_Threads_L9
+    401040: Screw_Threads_c
+    401042: Screw_Threads_c1
+    401044: Screw_Threads_c1 1
+    401046: Screw_Threads_c10
+    401048: Screw_Threads_c10 1
+    401050: Screw_Threads_c11
+    401052: Screw_Threads_c11 1
+    401054: Screw_Threads_c12
+    401056: Screw_Threads_c12 1
+    401058: Screw_Threads_c13
+    401060: Screw_Threads_c13 1
+    401062: Screw_Threads_c14
+    401064: Screw_Threads_c14 1
+    401066: Screw_Threads_c15
+    401068: Screw_Threads_c15 1
+    401070: Screw_Threads_c16
+    401072: Screw_Threads_c16 1
+    401074: Screw_Threads_c17
+    401076: Screw_Threads_c17 1
+    401078: Screw_Threads_c18
+    401080: Screw_Threads_c18 1
+    401082: Screw_Threads_c19
+    401084: Screw_Threads_c19 1
+    401086: Screw_Threads_c2
+    401088: Screw_Threads_c2 1
+    401090: Screw_Threads_c20
+    401092: Screw_Threads_c20 1
+    401094: Screw_Threads_c21
+    401096: Screw_Threads_c21 1
+    401098: Screw_Threads_c22
+    401100: Screw_Threads_c23
+    401102: Screw_Threads_c24
+    401104: Screw_Threads_c25
+    401106: Screw_Threads_c3
+    401108: Screw_Threads_c3 1
+    401110: Screw_Threads_c4
+    401112: Screw_Threads_c4 1
+    401114: Screw_Threads_c5
+    401116: Screw_Threads_c5 1
+    401118: Screw_Threads_c6
+    401120: Screw_Threads_c6 1
+    401122: Screw_Threads_c7
+    401124: Screw_Threads_c7 1
+    401126: Screw_Threads_c8
+    401128: Screw_Threads_c8 1
+    401130: Screw_Threads_c9
+    401132: Screw_Threads_c9 1
+    401134: Screw_Threads_L
+    401136: Screw_Threads_L 1
+    401138: Screw_Threads_L 10
+    401140: Screw_Threads_L 11
+    401142: Screw_Threads_L 12
+    401144: Screw_Threads_L 13
+    401146: Screw_Threads_L 14
+    401148: Screw_Threads_L 15
+    401150: Screw_Threads_L 16
+    401152: Screw_Threads_L 17
+    401154: Screw_Threads_L 18
+    401156: Screw_Threads_L 19
+    401158: Screw_Threads_L 2
+    401160: Screw_Threads_L 20
+    401162: Screw_Threads_L 21
+    401164: Screw_Threads_L 22
+    401166: Screw_Threads_L 23
+    401168: Screw_Threads_L 24
+    401170: Screw_Threads_L 25
+    401172: Screw_Threads_L 26
+    401174: Screw_Threads_L 27
+    401176: Screw_Threads_L 28
+    401178: Screw_Threads_L 29
+    401180: Screw_Threads_L 3
+    401182: Screw_Threads_L 30
+    401184: Screw_Threads_L 31
+    401186: Screw_Threads_L 32
+    401188: Screw_Threads_L 33
+    401190: Screw_Threads_L 34
+    401192: Screw_Threads_L 35
+    401194: Screw_Threads_L 36
+    401196: Screw_Threads_L 37
+    401198: Screw_Threads_L 38
+    401200: Screw_Threads_L 39
+    401202: Screw_Threads_L 4
+    401204: Screw_Threads_L 40
+    401206: Screw_Threads_L 41
+    401208: Screw_Threads_L 42
+    401210: Screw_Threads_L 43
+    401212: Screw_Threads_L 44
+    401214: Screw_Threads_L 45
+    401216: Screw_Threads_L 5
+    401218: Screw_Threads_L 6
+    401220: Screw_Threads_L 7
+    401222: Screw_Threads_L 8
+    401224: Screw_Threads_L 9
+    401226: Screws_L
+    401228: Screws_L 1
+    401230: Screws_R
+    401232: Screws_R 1
+    401234: Side_L
+    401236: Side_L 1
+    401238: Side_R
+    401240: Side_R 1
+    2100000: MetalGS_Red_Mat
+    2100002: Plastic_Black_1_Mat
+    2100004: MetalGS_Aluminiun_Dark_Mat
+    2100006: lambert1
+    2100008: MetalGS_Aluminiun_Mat
+    2100010: Screws_Threads
+    2100012: AirChambers_Mat
+    2300000: Camara_de_aire_v1
+    2300002: Camara_de_aire_v1 1
+    2300004: Camara_de_aire_v2
+    2300006: Camara_de_aire_v2 1
+    2300008: pC10
+    2300010: pC11
+    2300012: pC12
+    2300014: pC14
+    2300016: pC15
+    2300018: pC23
+    2300020: pC24
+    2300022: pC25
+    2300024: pC26
+    2300026: pC31
+    2300028: pC32
+    2300030: pC33
+    2300032: pC34
+    2300034: pC35
+    2300036: pC36
+    2300038: pC37
+    2300040: pC4
+    2300042: pC5
+    2300044: pCu11
+    2300046: pCu12
+    2300048: pCu13
+    2300050: pCu14
+    2300052: pCu2
+    2300054: pCube11
+    2300056: pCube12
+    2300058: pCube13
+    2300060: pCube14
+    2300062: pCube2
+    2300064: pCylinder10
+    2300066: pCylinder11
+    2300068: pCylinder12
+    2300070: pCylinder14
+    2300072: pCylinder15
+    2300074: pCylinder23
+    2300076: pCylinder24
+    2300078: pCylinder25
+    2300080: pCylinder26
+    2300082: pCylinder31
+    2300084: pCylinder32
+    2300086: pCylinder33
+    2300088: pCylinder34
+    2300090: pCylinder35
+    2300092: pCylinder36
+    2300094: pCylinder37
+    2300096: pCylinder4
+    2300098: pCylinder5
+    2300100: polySurface100
+    2300102: polySurface101
+    2300104: polySurface102
+    2300106: polySurface103
+    2300108: polySurface104
+    2300110: polySurface105
+    2300112: polySurface106
+    2300114: polySurface107
+    2300116: polySurface108
+    2300118: polySurface109
+    2300120: polySurface110
+    2300122: polySurface111
+    2300124: polySurface112
+    2300126: polySurface113
+    2300128: polySurface114
+    2300130: polySurface115
+    2300132: polySurface116
+    2300134: polySurface117
+    2300136: polySurface118
+    2300138: polySurface119
+    2300140: polySurface120
+    2300142: polySurface121
+    2300144: polySurface122
+    2300146: polySurface123
+    2300148: polySurface126
+    2300150: polySurface127
+    2300152: polySurface130
+    2300154: polySurface131
+    2300156: polySurface132
+    2300158: polySurface133
+    2300160: polySurface134
+    2300162: polySurface135
+    2300164: polySurface136
+    2300166: polySurface137
+    2300168: polySurface142
+    2300170: polySurface146
+    2300172: polySurface147
+    2300174: polySurface148
+    2300176: polySurface149
+    2300178: polySurface150
+    2300180: polySurface151
+    2300182: polySurface152
+    2300184: polySurface153
+    2300186: polySurface154
+    2300188: polySurface155
+    2300190: polySurface156
+    2300192: polySurface157
+    2300194: polySurface158
+    2300196: polySurface159
+    2300198: polySurface160
+    2300200: polySurface161
+    2300202: polySurface162
+    2300204: polySurface163
+    2300206: polySurface164
+    2300208: polySurface165
+    2300210: polySurface166
+    2300212: polySurface173
+    2300214: polySurface174
+    2300216: polySurface177
+    2300218: polySurface179
+    2300220: polySurface180
+    2300222: polySurface181
+    2300224: polySurface182
+    2300226: polySurface183
+    2300228: polySurface184
+    2300230: polySurface185
+    2300232: polySurface190
+    2300234: polySurface194
+    2300236: polySurface195
+    2300238: polySurface196
+    2300240: polySurface197
+    2300242: polySurface198
+    2300244: polySurface199
+    2300246: polySurface200
+    2300248: polySurface201
+    2300250: polySurface202
+    2300252: polySurface203
+    2300254: polySurface204
+    2300256: polySurface205
+    2300258: polySurface206
+    2300260: polySurface207
+    2300262: polySurface208
+    2300264: polySurface209
+    2300266: polySurface210
+    2300268: polySurface211
+    2300270: polySurface212
+    2300272: polySurface213
+    2300274: polySurface214
+    2300276: polySurface221
+    2300278: polySurface222
+    2300280: polySurface225
+    2300282: polySurface227
+    2300284: polySurface228
+    2300286: polySurface229
+    2300288: polySurface230
+    2300290: polySurface231
+    2300292: polySurface232
+    2300294: polySurface233
+    2300296: polySurface234
+    2300298: polySurface235
+    2300300: polySurface236
+    2300302: polySurface237
+    2300304: polySurface238
+    2300306: polySurface239
+    2300308: polySurface240
+    2300310: polySurface241
+    2300312: polySurface243
+    2300314: polySurface244
+    2300316: polySurface245
+    2300318: polySurface250
+    2300320: polySurface251
+    2300322: polySurface252
+    2300324: polySurface253
+    2300326: polySurface254
+    2300328: polySurface256
+    2300330: polySurface258
+    2300332: polySurface259
+    2300334: polySurface260
+    2300336: polySurface261
+    2300338: polySurface262
+    2300340: polySurface263
+    2300342: polySurface264
+    2300344: polySurface265
+    2300346: polySurface266
+    2300348: polySurface267
+    2300350: polySurface268
+    2300352: polySurface269
+    2300354: polySurface41
+    2300356: polySurface45
+    2300358: polySurface45 1
+    2300360: polySurface46
+    2300362: polySurface46 1
+    2300364: polySurface52
+    2300366: polySurface52 1
+    2300368: polySurface53
+    2300370: polySurface53 1
+    2300372: polySurface82
+    2300374: polySurface83
+    2300376: polySurface88
+    2300378: polySurface93
+    2300380: polySurface94
+    2300382: polySurface95
+    2300384: polySurface96
+    2300386: polySurface97
+    2300388: pPi1
+    2300390: pPi10
+    2300392: pPi12
+    2300394: pPi13
+    2300396: pPi20
+    2300398: pPi21
+    2300400: pPi22
+    2300402: pPi23
+    2300404: pPi3
+    2300406: pPi55
+    2300408: pPi56
+    2300410: pPi57
+    2300412: pPi58
+    2300414: pPi59
+    2300416: pPi60
+    2300418: pPi61
+    2300420: pPi62
+    2300422: pPi63
+    2300424: pPi64
+    2300426: pPi65
+    2300428: pPi66
+    2300430: pPi67
+    2300432: pPi68
+    2300434: pPi69
+    2300436: pPi70
+    2300438: pPi71
+    2300440: pPi73
+    2300442: pPi74
+    2300444: pPi75
+    2300446: pPi76
+    2300448: pPipe1
+    2300450: pPipe10
+    2300452: pPipe12
+    2300454: pPipe13
+    2300456: pPipe20
+    2300458: pPipe21
+    2300460: pPipe22
+    2300462: pPipe23
+    2300464: pPipe3
+    2300466: pPipe55
+    2300468: pPipe56
+    2300470: pPipe57
+    2300472: pPipe58
+    2300474: pPipe59
+    2300476: pPipe60
+    2300478: pPipe61
+    2300480: pPipe62
+    2300482: pPipe63
+    2300484: pPipe64
+    2300486: pPipe65
+    2300488: pPipe66
+    2300490: pPipe67
+    2300492: pPipe68
+    2300494: pPipe69
+    2300496: pPipe70
+    2300498: pPipe73
+    2300500: ps100
+    2300502: ps101
+    2300504: ps102
+    2300506: ps103
+    2300508: ps104
+    2300510: ps105
+    2300512: ps106
+    2300514: ps107
+    2300516: ps108
+    2300518: ps109
+    2300520: ps110
+    2300522: ps111
+    2300524: ps112
+    2300526: ps113
+    2300528: ps114
+    2300530: ps115
+    2300532: ps116
+    2300534: ps117
+    2300536: ps118
+    2300538: ps119
+    2300540: ps120
+    2300542: ps121
+    2300544: ps122
+    2300546: ps123
+    2300548: ps126
+    2300550: ps127
+    2300552: ps130
+    2300554: ps131
+    2300556: ps132
+    2300558: ps133
+    2300560: ps134
+    2300562: ps135
+    2300564: ps136
+    2300566: ps137
+    2300568: ps142
+    2300570: ps147
+    2300572: ps148
+    2300574: ps149
+    2300576: ps150
+    2300578: ps151
+    2300580: ps152
+    2300582: ps153
+    2300584: ps154
+    2300586: ps155
+    2300588: ps156
+    2300590: ps157
+    2300592: ps158
+    2300594: ps159
+    2300596: ps160
+    2300598: ps161
+    2300600: ps162
+    2300602: ps163
+    2300604: ps164
+    2300606: ps165
+    2300608: ps166
+    2300610: ps173
+    2300612: ps174
+    2300614: ps177
+    2300616: ps179
+    2300618: ps180
+    2300620: ps181
+    2300622: ps182
+    2300624: ps183
+    2300626: ps184
+    2300628: ps185
+    2300630: ps190
+    2300632: ps194
+    2300634: ps195
+    2300636: ps196
+    2300638: ps197
+    2300640: ps198
+    2300642: ps199
+    2300644: ps200
+    2300646: ps201
+    2300648: ps202
+    2300650: ps203
+    2300652: ps204
+    2300654: ps205
+    2300656: ps206
+    2300658: ps207
+    2300660: ps208
+    2300662: ps209
+    2300664: ps210
+    2300666: ps211
+    2300668: ps212
+    2300670: ps213
+    2300672: ps214
+    2300674: ps221
+    2300676: ps222
+    2300678: ps225
+    2300680: ps227
+    2300682: ps228
+    2300684: ps229
+    2300686: ps230
+    2300688: ps231
+    2300690: ps232
+    2300692: ps233
+    2300694: ps234
+    2300696: ps235
+    2300698: ps236
+    2300700: ps237
+    2300702: ps238
+    2300704: ps239
+    2300706: ps240
+    2300708: ps241
+    2300710: ps243
+    2300712: ps244
+    2300714: ps245
+    2300716: ps250
+    2300718: ps251
+    2300720: ps252
+    2300722: ps253
+    2300724: ps254
+    2300726: ps256
+    2300728: ps258
+    2300730: ps259
+    2300732: ps260
+    2300734: ps261
+    2300736: ps262
+    2300738: ps263
+    2300740: ps264
+    2300742: ps265
+    2300744: ps266
+    2300746: ps267
+    2300748: ps268
+    2300750: ps269
+    2300752: ps270
+    2300754: ps41
+    2300756: ps45
+    2300758: ps45 1
+    2300760: ps46
+    2300762: ps46 1
+    2300764: ps52
+    2300766: ps52 1
+    2300768: ps53
+    2300770: ps53 1
+    2300772: ps82
+    2300774: ps83
+    2300776: ps88
+    2300778: ps93
+    2300780: ps94
+    2300782: ps95
+    2300784: ps96
+    2300786: ps97
+    2300788: Sc_Threads_c
+    2300790: Sc_Threads_c1
+    2300792: Sc_Threads_c1 1
+    2300794: Sc_Threads_c10
+    2300796: Sc_Threads_c10 1
+    2300798: Sc_Threads_c11
+    2300800: Sc_Threads_c11 1
+    2300802: Sc_Threads_c12
+    2300804: Sc_Threads_c12 1
+    2300806: Sc_Threads_c13
+    2300808: Sc_Threads_c13 1
+    2300810: Sc_Threads_c14
+    2300812: Sc_Threads_c14 1
+    2300814: Sc_Threads_c15
+    2300816: Sc_Threads_c15 1
+    2300818: Sc_Threads_c16
+    2300820: Sc_Threads_c16 1
+    2300822: Sc_Threads_c17
+    2300824: Sc_Threads_c17 1
+    2300826: Sc_Threads_c18
+    2300828: Sc_Threads_c18 1
+    2300830: Sc_Threads_c19
+    2300832: Sc_Threads_c19 1
+    2300834: Sc_Threads_c2
+    2300836: Sc_Threads_c2 1
+    2300838: Sc_Threads_c20
+    2300840: Sc_Threads_c20 1
+    2300842: Sc_Threads_c21
+    2300844: Sc_Threads_c21 1
+    2300846: Sc_Threads_c22
+    2300848: Sc_Threads_c23
+    2300850: Sc_Threads_c24
+    2300852: Sc_Threads_c25
+    2300854: Sc_Threads_c3
+    2300856: Sc_Threads_c3 1
+    2300858: Sc_Threads_c4
+    2300860: Sc_Threads_c4 1
+    2300862: Sc_Threads_c5
+    2300864: Sc_Threads_c5 1
+    2300866: Sc_Threads_c6
+    2300868: Sc_Threads_c6 1
+    2300870: Sc_Threads_c7
+    2300872: Sc_Threads_c7 1
+    2300874: Sc_Threads_c8
+    2300876: Sc_Threads_c8 1
+    2300878: Sc_Threads_c9
+    2300880: Sc_Threads_c9 1
+    2300882: Sc_Threads_L
+    2300884: Sc_Threads_L 1
+    2300886: Sc_Threads_L 10
+    2300888: Sc_Threads_L 11
+    2300890: Sc_Threads_L 12
+    2300892: Sc_Threads_L 13
+    2300894: Sc_Threads_L 14
+    2300896: Sc_Threads_L 15
+    2300898: Sc_Threads_L 16
+    2300900: Sc_Threads_L 17
+    2300902: Sc_Threads_L 18
+    2300904: Sc_Threads_L 19
+    2300906: Sc_Threads_L 2
+    2300908: Sc_Threads_L 20
+    2300910: Sc_Threads_L 21
+    2300912: Sc_Threads_L 22
+    2300914: Sc_Threads_L 23
+    2300916: Sc_Threads_L 24
+    2300918: Sc_Threads_L 25
+    2300920: Sc_Threads_L 26
+    2300922: Sc_Threads_L 27
+    2300924: Sc_Threads_L 28
+    2300926: Sc_Threads_L 29
+    2300928: Sc_Threads_L 3
+    2300930: Sc_Threads_L 30
+    2300932: Sc_Threads_L 31
+    2300934: Sc_Threads_L 32
+    2300936: Sc_Threads_L 33
+    2300938: Sc_Threads_L 34
+    2300940: Sc_Threads_L 35
+    2300942: Sc_Threads_L 36
+    2300944: Sc_Threads_L 37
+    2300946: Sc_Threads_L 38
+    2300948: Sc_Threads_L 39
+    2300950: Sc_Threads_L 4
+    2300952: Sc_Threads_L 40
+    2300954: Sc_Threads_L 5
+    2300956: Sc_Threads_L 6
+    2300958: Sc_Threads_L 7
+    2300960: Sc_Threads_L 8
+    2300962: Sc_Threads_L 9
+    2300964: Sc_Threads_L1
+    2300966: Sc_Threads_L10
+    2300968: Sc_Threads_L11
+    2300970: Sc_Threads_L12
+    2300972: Sc_Threads_L13
+    2300974: Sc_Threads_L14
+    2300976: Sc_Threads_L15
+    2300978: Sc_Threads_L16
+    2300980: Sc_Threads_L2
+    2300982: Sc_Threads_L3
+    2300984: Sc_Threads_L4
+    2300986: Sc_Threads_L5
+    2300988: Sc_Threads_L5 1
+    2300990: Sc_Threads_L6
+    2300992: Sc_Threads_L6 1
+    2300994: Sc_Threads_L7
+    2300996: Sc_Threads_L7 1
+    2300998: Sc_Threads_L8
+    2301000: Sc_Threads_L8 1
+    2301002: Sc_Threads_L9
+    2301004: Screw_Threads_c
+    2301006: Screw_Threads_c1
+    2301008: Screw_Threads_c1 1
+    2301010: Screw_Threads_c10
+    2301012: Screw_Threads_c10 1
+    2301014: Screw_Threads_c11
+    2301016: Screw_Threads_c11 1
+    2301018: Screw_Threads_c12
+    2301020: Screw_Threads_c12 1
+    2301022: Screw_Threads_c13
+    2301024: Screw_Threads_c13 1
+    2301026: Screw_Threads_c14
+    2301028: Screw_Threads_c14 1
+    2301030: Screw_Threads_c15
+    2301032: Screw_Threads_c15 1
+    2301034: Screw_Threads_c16
+    2301036: Screw_Threads_c16 1
+    2301038: Screw_Threads_c17
+    2301040: Screw_Threads_c17 1
+    2301042: Screw_Threads_c18
+    2301044: Screw_Threads_c18 1
+    2301046: Screw_Threads_c19
+    2301048: Screw_Threads_c19 1
+    2301050: Screw_Threads_c2
+    2301052: Screw_Threads_c2 1
+    2301054: Screw_Threads_c20
+    2301056: Screw_Threads_c20 1
+    2301058: Screw_Threads_c21
+    2301060: Screw_Threads_c21 1
+    2301062: Screw_Threads_c22
+    2301064: Screw_Threads_c23
+    2301066: Screw_Threads_c24
+    2301068: Screw_Threads_c25
+    2301070: Screw_Threads_c3
+    2301072: Screw_Threads_c3 1
+    2301074: Screw_Threads_c4
+    2301076: Screw_Threads_c4 1
+    2301078: Screw_Threads_c5
+    2301080: Screw_Threads_c5 1
+    2301082: Screw_Threads_c6
+    2301084: Screw_Threads_c6 1
+    2301086: Screw_Threads_c7
+    2301088: Screw_Threads_c7 1
+    2301090: Screw_Threads_c8
+    2301092: Screw_Threads_c8 1
+    2301094: Screw_Threads_c9
+    2301096: Screw_Threads_c9 1
+    2301098: Screw_Threads_L
+    2301100: Screw_Threads_L 1
+    2301102: Screw_Threads_L 10
+    2301104: Screw_Threads_L 11
+    2301106: Screw_Threads_L 12
+    2301108: Screw_Threads_L 13
+    2301110: Screw_Threads_L 14
+    2301112: Screw_Threads_L 15
+    2301114: Screw_Threads_L 16
+    2301116: Screw_Threads_L 17
+    2301118: Screw_Threads_L 18
+    2301120: Screw_Threads_L 19
+    2301122: Screw_Threads_L 2
+    2301124: Screw_Threads_L 20
+    2301126: Screw_Threads_L 21
+    2301128: Screw_Threads_L 22
+    2301130: Screw_Threads_L 23
+    2301132: Screw_Threads_L 24
+    2301134: Screw_Threads_L 25
+    2301136: Screw_Threads_L 26
+    2301138: Screw_Threads_L 27
+    2301140: Screw_Threads_L 28
+    2301142: Screw_Threads_L 29
+    2301144: Screw_Threads_L 3
+    2301146: Screw_Threads_L 30
+    2301148: Screw_Threads_L 31
+    2301150: Screw_Threads_L 32
+    2301152: Screw_Threads_L 33
+    2301154: Screw_Threads_L 34
+    2301156: Screw_Threads_L 35
+    2301158: Screw_Threads_L 36
+    2301160: Screw_Threads_L 37
+    2301162: Screw_Threads_L 38
+    2301164: Screw_Threads_L 39
+    2301166: Screw_Threads_L 4
+    2301168: Screw_Threads_L 40
+    2301170: Screw_Threads_L 41
+    2301172: Screw_Threads_L 42
+    2301174: Screw_Threads_L 43
+    2301176: Screw_Threads_L 44
+    2301178: Screw_Threads_L 45
+    2301180: Screw_Threads_L 5
+    2301182: Screw_Threads_L 6
+    2301184: Screw_Threads_L 7
+    2301186: Screw_Threads_L 8
+    2301188: Screw_Threads_L 9
+    3300000: Camara_de_aire_v1
+    3300002: Camara_de_aire_v1 1
+    3300004: Camara_de_aire_v2
+    3300006: Camara_de_aire_v2 1
+    3300008: pC10
+    3300010: pC11
+    3300012: pC12
+    3300014: pC14
+    3300016: pC15
+    3300018: pC23
+    3300020: pC24
+    3300022: pC25
+    3300024: pC26
+    3300026: pC31
+    3300028: pC32
+    3300030: pC33
+    3300032: pC34
+    3300034: pC35
+    3300036: pC36
+    3300038: pC37
+    3300040: pC4
+    3300042: pC5
+    3300044: pCu11
+    3300046: pCu12
+    3300048: pCu13
+    3300050: pCu14
+    3300052: pCu2
+    3300054: pCube11
+    3300056: pCube12
+    3300058: pCube13
+    3300060: pCube14
+    3300062: pCube2
+    3300064: pCylinder10
+    3300066: pCylinder11
+    3300068: pCylinder12
+    3300070: pCylinder14
+    3300072: pCylinder15
+    3300074: pCylinder23
+    3300076: pCylinder24
+    3300078: pCylinder25
+    3300080: pCylinder26
+    3300082: pCylinder31
+    3300084: pCylinder32
+    3300086: pCylinder33
+    3300088: pCylinder34
+    3300090: pCylinder35
+    3300092: pCylinder36
+    3300094: pCylinder37
+    3300096: pCylinder4
+    3300098: pCylinder5
+    3300100: polySurface100
+    3300102: polySurface101
+    3300104: polySurface102
+    3300106: polySurface103
+    3300108: polySurface104
+    3300110: polySurface105
+    3300112: polySurface106
+    3300114: polySurface107
+    3300116: polySurface108
+    3300118: polySurface109
+    3300120: polySurface110
+    3300122: polySurface111
+    3300124: polySurface112
+    3300126: polySurface113
+    3300128: polySurface114
+    3300130: polySurface115
+    3300132: polySurface116
+    3300134: polySurface117
+    3300136: polySurface118
+    3300138: polySurface119
+    3300140: polySurface120
+    3300142: polySurface121
+    3300144: polySurface122
+    3300146: polySurface123
+    3300148: polySurface126
+    3300150: polySurface127
+    3300152: polySurface130
+    3300154: polySurface131
+    3300156: polySurface132
+    3300158: polySurface133
+    3300160: polySurface134
+    3300162: polySurface135
+    3300164: polySurface136
+    3300166: polySurface137
+    3300168: polySurface142
+    3300170: polySurface146
+    3300172: polySurface147
+    3300174: polySurface148
+    3300176: polySurface149
+    3300178: polySurface150
+    3300180: polySurface151
+    3300182: polySurface152
+    3300184: polySurface153
+    3300186: polySurface154
+    3300188: polySurface155
+    3300190: polySurface156
+    3300192: polySurface157
+    3300194: polySurface158
+    3300196: polySurface159
+    3300198: polySurface160
+    3300200: polySurface161
+    3300202: polySurface162
+    3300204: polySurface163
+    3300206: polySurface164
+    3300208: polySurface165
+    3300210: polySurface166
+    3300212: polySurface173
+    3300214: polySurface174
+    3300216: polySurface177
+    3300218: polySurface179
+    3300220: polySurface180
+    3300222: polySurface181
+    3300224: polySurface182
+    3300226: polySurface183
+    3300228: polySurface184
+    3300230: polySurface185
+    3300232: polySurface190
+    3300234: polySurface194
+    3300236: polySurface195
+    3300238: polySurface196
+    3300240: polySurface197
+    3300242: polySurface198
+    3300244: polySurface199
+    3300246: polySurface200
+    3300248: polySurface201
+    3300250: polySurface202
+    3300252: polySurface203
+    3300254: polySurface204
+    3300256: polySurface205
+    3300258: polySurface206
+    3300260: polySurface207
+    3300262: polySurface208
+    3300264: polySurface209
+    3300266: polySurface210
+    3300268: polySurface211
+    3300270: polySurface212
+    3300272: polySurface213
+    3300274: polySurface214
+    3300276: polySurface221
+    3300278: polySurface222
+    3300280: polySurface225
+    3300282: polySurface227
+    3300284: polySurface228
+    3300286: polySurface229
+    3300288: polySurface230
+    3300290: polySurface231
+    3300292: polySurface232
+    3300294: polySurface233
+    3300296: polySurface234
+    3300298: polySurface235
+    3300300: polySurface236
+    3300302: polySurface237
+    3300304: polySurface238
+    3300306: polySurface239
+    3300308: polySurface240
+    3300310: polySurface241
+    3300312: polySurface243
+    3300314: polySurface244
+    3300316: polySurface245
+    3300318: polySurface250
+    3300320: polySurface251
+    3300322: polySurface252
+    3300324: polySurface253
+    3300326: polySurface254
+    3300328: polySurface256
+    3300330: polySurface258
+    3300332: polySurface259
+    3300334: polySurface260
+    3300336: polySurface261
+    3300338: polySurface262
+    3300340: polySurface263
+    3300342: polySurface264
+    3300344: polySurface265
+    3300346: polySurface266
+    3300348: polySurface267
+    3300350: polySurface268
+    3300352: polySurface269
+    3300354: polySurface41
+    3300356: polySurface45
+    3300358: polySurface45 1
+    3300360: polySurface46
+    3300362: polySurface46 1
+    3300364: polySurface52
+    3300366: polySurface52 1
+    3300368: polySurface53
+    3300370: polySurface53 1
+    3300372: polySurface82
+    3300374: polySurface83
+    3300376: polySurface88
+    3300378: polySurface93
+    3300380: polySurface94
+    3300382: polySurface95
+    3300384: polySurface96
+    3300386: polySurface97
+    3300388: pPi1
+    3300390: pPi10
+    3300392: pPi12
+    3300394: pPi13
+    3300396: pPi20
+    3300398: pPi21
+    3300400: pPi22
+    3300402: pPi23
+    3300404: pPi3
+    3300406: pPi55
+    3300408: pPi56
+    3300410: pPi57
+    3300412: pPi58
+    3300414: pPi59
+    3300416: pPi60
+    3300418: pPi61
+    3300420: pPi62
+    3300422: pPi63
+    3300424: pPi64
+    3300426: pPi65
+    3300428: pPi66
+    3300430: pPi67
+    3300432: pPi68
+    3300434: pPi69
+    3300436: pPi70
+    3300438: pPi71
+    3300440: pPi73
+    3300442: pPi74
+    3300444: pPi75
+    3300446: pPi76
+    3300448: pPipe1
+    3300450: pPipe10
+    3300452: pPipe12
+    3300454: pPipe13
+    3300456: pPipe20
+    3300458: pPipe21
+    3300460: pPipe22
+    3300462: pPipe23
+    3300464: pPipe3
+    3300466: pPipe55
+    3300468: pPipe56
+    3300470: pPipe57
+    3300472: pPipe58
+    3300474: pPipe59
+    3300476: pPipe60
+    3300478: pPipe61
+    3300480: pPipe62
+    3300482: pPipe63
+    3300484: pPipe64
+    3300486: pPipe65
+    3300488: pPipe66
+    3300490: pPipe67
+    3300492: pPipe68
+    3300494: pPipe69
+    3300496: pPipe70
+    3300498: pPipe73
+    3300500: ps100
+    3300502: ps101
+    3300504: ps102
+    3300506: ps103
+    3300508: ps104
+    3300510: ps105
+    3300512: ps106
+    3300514: ps107
+    3300516: ps108
+    3300518: ps109
+    3300520: ps110
+    3300522: ps111
+    3300524: ps112
+    3300526: ps113
+    3300528: ps114
+    3300530: ps115
+    3300532: ps116
+    3300534: ps117
+    3300536: ps118
+    3300538: ps119
+    3300540: ps120
+    3300542: ps121
+    3300544: ps122
+    3300546: ps123
+    3300548: ps126
+    3300550: ps127
+    3300552: ps130
+    3300554: ps131
+    3300556: ps132
+    3300558: ps133
+    3300560: ps134
+    3300562: ps135
+    3300564: ps136
+    3300566: ps137
+    3300568: ps142
+    3300570: ps147
+    3300572: ps148
+    3300574: ps149
+    3300576: ps150
+    3300578: ps151
+    3300580: ps152
+    3300582: ps153
+    3300584: ps154
+    3300586: ps155
+    3300588: ps156
+    3300590: ps157
+    3300592: ps158
+    3300594: ps159
+    3300596: ps160
+    3300598: ps161
+    3300600: ps162
+    3300602: ps163
+    3300604: ps164
+    3300606: ps165
+    3300608: ps166
+    3300610: ps173
+    3300612: ps174
+    3300614: ps177
+    3300616: ps179
+    3300618: ps180
+    3300620: ps181
+    3300622: ps182
+    3300624: ps183
+    3300626: ps184
+    3300628: ps185
+    3300630: ps190
+    3300632: ps194
+    3300634: ps195
+    3300636: ps196
+    3300638: ps197
+    3300640: ps198
+    3300642: ps199
+    3300644: ps200
+    3300646: ps201
+    3300648: ps202
+    3300650: ps203
+    3300652: ps204
+    3300654: ps205
+    3300656: ps206
+    3300658: ps207
+    3300660: ps208
+    3300662: ps209
+    3300664: ps210
+    3300666: ps211
+    3300668: ps212
+    3300670: ps213
+    3300672: ps214
+    3300674: ps221
+    3300676: ps222
+    3300678: ps225
+    3300680: ps227
+    3300682: ps228
+    3300684: ps229
+    3300686: ps230
+    3300688: ps231
+    3300690: ps232
+    3300692: ps233
+    3300694: ps234
+    3300696: ps235
+    3300698: ps236
+    3300700: ps237
+    3300702: ps238
+    3300704: ps239
+    3300706: ps240
+    3300708: ps241
+    3300710: ps243
+    3300712: ps244
+    3300714: ps245
+    3300716: ps250
+    3300718: ps251
+    3300720: ps252
+    3300722: ps253
+    3300724: ps254
+    3300726: ps256
+    3300728: ps258
+    3300730: ps259
+    3300732: ps260
+    3300734: ps261
+    3300736: ps262
+    3300738: ps263
+    3300740: ps264
+    3300742: ps265
+    3300744: ps266
+    3300746: ps267
+    3300748: ps268
+    3300750: ps269
+    3300752: ps270
+    3300754: ps41
+    3300756: ps45
+    3300758: ps45 1
+    3300760: ps46
+    3300762: ps46 1
+    3300764: ps52
+    3300766: ps52 1
+    3300768: ps53
+    3300770: ps53 1
+    3300772: ps82
+    3300774: ps83
+    3300776: ps88
+    3300778: ps93
+    3300780: ps94
+    3300782: ps95
+    3300784: ps96
+    3300786: ps97
+    3300788: Sc_Threads_c
+    3300790: Sc_Threads_c1
+    3300792: Sc_Threads_c1 1
+    3300794: Sc_Threads_c10
+    3300796: Sc_Threads_c10 1
+    3300798: Sc_Threads_c11
+    3300800: Sc_Threads_c11 1
+    3300802: Sc_Threads_c12
+    3300804: Sc_Threads_c12 1
+    3300806: Sc_Threads_c13
+    3300808: Sc_Threads_c13 1
+    3300810: Sc_Threads_c14
+    3300812: Sc_Threads_c14 1
+    3300814: Sc_Threads_c15
+    3300816: Sc_Threads_c15 1
+    3300818: Sc_Threads_c16
+    3300820: Sc_Threads_c16 1
+    3300822: Sc_Threads_c17
+    3300824: Sc_Threads_c17 1
+    3300826: Sc_Threads_c18
+    3300828: Sc_Threads_c18 1
+    3300830: Sc_Threads_c19
+    3300832: Sc_Threads_c19 1
+    3300834: Sc_Threads_c2
+    3300836: Sc_Threads_c2 1
+    3300838: Sc_Threads_c20
+    3300840: Sc_Threads_c20 1
+    3300842: Sc_Threads_c21
+    3300844: Sc_Threads_c21 1
+    3300846: Sc_Threads_c22
+    3300848: Sc_Threads_c23
+    3300850: Sc_Threads_c24
+    3300852: Sc_Threads_c25
+    3300854: Sc_Threads_c3
+    3300856: Sc_Threads_c3 1
+    3300858: Sc_Threads_c4
+    3300860: Sc_Threads_c4 1
+    3300862: Sc_Threads_c5
+    3300864: Sc_Threads_c5 1
+    3300866: Sc_Threads_c6
+    3300868: Sc_Threads_c6 1
+    3300870: Sc_Threads_c7
+    3300872: Sc_Threads_c7 1
+    3300874: Sc_Threads_c8
+    3300876: Sc_Threads_c8 1
+    3300878: Sc_Threads_c9
+    3300880: Sc_Threads_c9 1
+    3300882: Sc_Threads_L
+    3300884: Sc_Threads_L 1
+    3300886: Sc_Threads_L 10
+    3300888: Sc_Threads_L 11
+    3300890: Sc_Threads_L 12
+    3300892: Sc_Threads_L 13
+    3300894: Sc_Threads_L 14
+    3300896: Sc_Threads_L 15
+    3300898: Sc_Threads_L 16
+    3300900: Sc_Threads_L 17
+    3300902: Sc_Threads_L 18
+    3300904: Sc_Threads_L 19
+    3300906: Sc_Threads_L 2
+    3300908: Sc_Threads_L 20
+    3300910: Sc_Threads_L 21
+    3300912: Sc_Threads_L 22
+    3300914: Sc_Threads_L 23
+    3300916: Sc_Threads_L 24
+    3300918: Sc_Threads_L 25
+    3300920: Sc_Threads_L 26
+    3300922: Sc_Threads_L 27
+    3300924: Sc_Threads_L 28
+    3300926: Sc_Threads_L 29
+    3300928: Sc_Threads_L 3
+    3300930: Sc_Threads_L 30
+    3300932: Sc_Threads_L 31
+    3300934: Sc_Threads_L 32
+    3300936: Sc_Threads_L 33
+    3300938: Sc_Threads_L 34
+    3300940: Sc_Threads_L 35
+    3300942: Sc_Threads_L 36
+    3300944: Sc_Threads_L 37
+    3300946: Sc_Threads_L 38
+    3300948: Sc_Threads_L 39
+    3300950: Sc_Threads_L 4
+    3300952: Sc_Threads_L 40
+    3300954: Sc_Threads_L 5
+    3300956: Sc_Threads_L 6
+    3300958: Sc_Threads_L 7
+    3300960: Sc_Threads_L 8
+    3300962: Sc_Threads_L 9
+    3300964: Sc_Threads_L1
+    3300966: Sc_Threads_L10
+    3300968: Sc_Threads_L11
+    3300970: Sc_Threads_L12
+    3300972: Sc_Threads_L13
+    3300974: Sc_Threads_L14
+    3300976: Sc_Threads_L15
+    3300978: Sc_Threads_L16
+    3300980: Sc_Threads_L2
+    3300982: Sc_Threads_L3
+    3300984: Sc_Threads_L4
+    3300986: Sc_Threads_L5
+    3300988: Sc_Threads_L5 1
+    3300990: Sc_Threads_L6
+    3300992: Sc_Threads_L6 1
+    3300994: Sc_Threads_L7
+    3300996: Sc_Threads_L7 1
+    3300998: Sc_Threads_L8
+    3301000: Sc_Threads_L8 1
+    3301002: Sc_Threads_L9
+    3301004: Screw_Threads_c
+    3301006: Screw_Threads_c1
+    3301008: Screw_Threads_c1 1
+    3301010: Screw_Threads_c10
+    3301012: Screw_Threads_c10 1
+    3301014: Screw_Threads_c11
+    3301016: Screw_Threads_c11 1
+    3301018: Screw_Threads_c12
+    3301020: Screw_Threads_c12 1
+    3301022: Screw_Threads_c13
+    3301024: Screw_Threads_c13 1
+    3301026: Screw_Threads_c14
+    3301028: Screw_Threads_c14 1
+    3301030: Screw_Threads_c15
+    3301032: Screw_Threads_c15 1
+    3301034: Screw_Threads_c16
+    3301036: Screw_Threads_c16 1
+    3301038: Screw_Threads_c17
+    3301040: Screw_Threads_c17 1
+    3301042: Screw_Threads_c18
+    3301044: Screw_Threads_c18 1
+    3301046: Screw_Threads_c19
+    3301048: Screw_Threads_c19 1
+    3301050: Screw_Threads_c2
+    3301052: Screw_Threads_c2 1
+    3301054: Screw_Threads_c20
+    3301056: Screw_Threads_c20 1
+    3301058: Screw_Threads_c21
+    3301060: Screw_Threads_c21 1
+    3301062: Screw_Threads_c22
+    3301064: Screw_Threads_c23
+    3301066: Screw_Threads_c24
+    3301068: Screw_Threads_c25
+    3301070: Screw_Threads_c3
+    3301072: Screw_Threads_c3 1
+    3301074: Screw_Threads_c4
+    3301076: Screw_Threads_c4 1
+    3301078: Screw_Threads_c5
+    3301080: Screw_Threads_c5 1
+    3301082: Screw_Threads_c6
+    3301084: Screw_Threads_c6 1
+    3301086: Screw_Threads_c7
+    3301088: Screw_Threads_c7 1
+    3301090: Screw_Threads_c8
+    3301092: Screw_Threads_c8 1
+    3301094: Screw_Threads_c9
+    3301096: Screw_Threads_c9 1
+    3301098: Screw_Threads_L
+    3301100: Screw_Threads_L 1
+    3301102: Screw_Threads_L 10
+    3301104: Screw_Threads_L 11
+    3301106: Screw_Threads_L 12
+    3301108: Screw_Threads_L 13
+    3301110: Screw_Threads_L 14
+    3301112: Screw_Threads_L 15
+    3301114: Screw_Threads_L 16
+    3301116: Screw_Threads_L 17
+    3301118: Screw_Threads_L 18
+    3301120: Screw_Threads_L 19
+    3301122: Screw_Threads_L 2
+    3301124: Screw_Threads_L 20
+    3301126: Screw_Threads_L 21
+    3301128: Screw_Threads_L 22
+    3301130: Screw_Threads_L 23
+    3301132: Screw_Threads_L 24
+    3301134: Screw_Threads_L 25
+    3301136: Screw_Threads_L 26
+    3301138: Screw_Threads_L 27
+    3301140: Screw_Threads_L 28
+    3301142: Screw_Threads_L 29
+    3301144: Screw_Threads_L 3
+    3301146: Screw_Threads_L 30
+    3301148: Screw_Threads_L 31
+    3301150: Screw_Threads_L 32
+    3301152: Screw_Threads_L 33
+    3301154: Screw_Threads_L 34
+    3301156: Screw_Threads_L 35
+    3301158: Screw_Threads_L 36
+    3301160: Screw_Threads_L 37
+    3301162: Screw_Threads_L 38
+    3301164: Screw_Threads_L 39
+    3301166: Screw_Threads_L 4
+    3301168: Screw_Threads_L 40
+    3301170: Screw_Threads_L 41
+    3301172: Screw_Threads_L 42
+    3301174: Screw_Threads_L 43
+    3301176: Screw_Threads_L 44
+    3301178: Screw_Threads_L 45
+    3301180: Screw_Threads_L 5
+    3301182: Screw_Threads_L 6
+    3301184: Screw_Threads_L 7
+    3301186: Screw_Threads_L 8
+    3301188: Screw_Threads_L 9
+    4300000: pCube14
+    4300002: pCube2
+    4300004: polySurface101
+    4300006: polySurface97
+    4300008: pPipe69
+    4300010: pPipe68
+    4300012: polySurface236
+    4300014: pCylinder36
+    4300016: pCylinder4
+    4300018: pCylinder10
+    4300020: polySurface268
+    4300022: pCube11
+    4300024: pCube12
+    4300026: pCylinder12
+    4300028: pCylinder11
+    4300030: polySurface88
+    4300032: polySurface94
+    4300034: pCube13
+    4300036: pPipe10
+    4300038: polySurface95
+    4300040: polySurface93
+    4300042: pPipe67
+    4300044: pCylinder35
+    4300046: pCylinder34
+    4300048: pPipe66
+    4300050: pPipe64
+    4300052: pPipe63
+    4300054: pCylinder32
+    4300056: pCylinder31
+    4300058: pCylinder25
+    4300060: pPipe22
+    4300062: pPipe23
+    4300064: pCylinder26
+    4300066: polySurface105
+    4300068: pPipe3
+    4300070: polySurface103
+    4300072: polySurface83
+    4300074: polySurface82
+    4300076: polySurface109
+    4300078: polySurface231
+    4300080: polySurface113
+    4300082: polySurface111
+    4300084: polySurface117
+    4300086: polySurface115
+    4300088: polySurface121
+    4300090: polySurface119
+    4300092: polySurface123
+    4300094: polySurface194
+    4300096: polySurface222
+    4300098: polySurface232
+    4300100: polySurface234
+    4300102: polySurface229
+    4300104: Screw_Threads_c21
+    4300106: Screw_Threads_L
+    4300108: Screw_Threads_c20
+    4300110: Screw_Threads_L
+    4300112: Screw_Threads_c19
+    4300114: Screw_Threads_L
+    4300116: Screw_Threads_c18
+    4300118: Screw_Threads_L
+    4300120: Screw_Threads_c17
+    4300122: Screw_Threads_L
+    4300124: Screw_Threads_c16
+    4300126: Screw_Threads_L
+    4300128: Screw_Threads_c15
+    4300130: Screw_Threads_L
+    4300132: Screw_Threads_c14
+    4300134: Screw_Threads_L
+    4300136: Screw_Threads_c13
+    4300138: Screw_Threads_L
+    4300140: Screw_Threads_c12
+    4300142: Screw_Threads_L
+    4300144: Screw_Threads_c11
+    4300146: Screw_Threads_L
+    4300148: Screw_Threads_c10
+    4300150: Screw_Threads_L
+    4300152: Screw_Threads_c9
+    4300154: Screw_Threads_L
+    4300156: Screw_Threads_c8
+    4300158: Screw_Threads_L
+    4300160: Screw_Threads_c7
+    4300162: Screw_Threads_L
+    4300164: Screw_Threads_c6
+    4300166: Screw_Threads_L
+    4300168: Screw_Threads_c5
+    4300170: Screw_Threads_L
+    4300172: Screw_Threads_c4
+    4300174: Screw_Threads_L
+    4300176: Screw_Threads_c3
+    4300178: Screw_Threads_L
+    4300180: Screw_Threads_c2
+    4300182: Screw_Threads_L
+    4300184: Screw_Threads_c1
+    4300186: Screw_Threads_L
+    4300188: Screw_Threads_c22
+    4300190: Screw_Threads_L
+    4300192: Screw_Threads_c23
+    4300194: Screw_Threads_L
+    4300196: polySurface262
+    4300198: polySurface263
+    4300200: polySurface264
+    4300202: polySurface265
+    4300204: Screw_Threads_c24
+    4300206: Screw_Threads_L
+    4300208: Screw_Threads_c25
+    4300210: Screw_Threads_L
+    4300212: pPipe55
+    4300214: pPipe56
+    4300216: polySurface245
+    4300218: polySurface252
+    4300220: polySurface253
+    4300222: polySurface256
+    4300224: polySurface221
+    4300226: polySurface190
+    4300228: polySurface183
+    4300230: polySurface184
+    4300232: polySurface185
+    4300234: polySurface182
+    4300236: polySurface227
+    4300238: polySurface225
+    4300240: polySurface180
+    4300242: polySurface181
+    4300244: pPipe57
+    4300246: pPipe58
+    4300248: pPipe62
+    4300250: pPipe61
+    4300252: pPipe60
+    4300254: pPipe59
+    4300256: polySurface131
+    4300258: polySurface130
+    4300260: polySurface214
+    4300262: polySurface213
+    4300264: polySurface205
+    4300266: polySurface207
+    4300268: polySurface210
+    4300270: polySurface201
+    4300272: polySurface203
+    4300274: polySurface198
+    4300276: polySurface199
+    4300278: polySurface195
+    4300280: polySurface209
+    4300282: polySurface212
+    4300284: polySurface211
+    4300286: polySurface206
+    4300288: polySurface208
+    4300290: polySurface202
+    4300292: polySurface204
+    4300294: polySurface196
+    4300296: polySurface200
+    4300298: polySurface197
+    4300300: pCylinder37
+    4300302: pPipe70
+    4300304: polySurface46
+    4300306: polySurface45
+    4300308: polySurface52
+    4300310: polySurface53
+    4300312: polySurface107
+    4300314: Camara_de_aire_v2
+    4300316: polySurface241
+    4300318: polySurface239
+    4300320: polySurface269
+    4300322: polySurface244
+    4300324: polySurface100
+    4300326: polySurface96
+    4300328: polySurface237
+    4300330: pPipe1
+    4300332: pCylinder5
+    4300334: pPipe65
+    4300336: pCylinder33
+    4300338: pCylinder14
+    4300340: pCylinder15
+    4300342: pPipe12
+    4300344: polySurface104
+    4300346: polySurface102
+    4300348: polySurface41
+    4300350: polySurface108
+    4300352: polySurface254
+    4300354: polySurface230
+    4300356: polySurface112
+    4300358: polySurface110
+    4300360: polySurface116
+    4300362: polySurface114
+    4300364: polySurface120
+    4300366: polySurface118
+    4300368: polySurface122
+    4300370: polySurface136
+    4300372: polySurface135
+    4300374: polySurface233
+    4300376: polySurface235
+    4300378: polySurface228
+    4300380: pCylinder23
+    4300382: pPipe20
+    4300384: pPipe21
+    4300386: pCylinder24
+    4300388: Screw_Threads_c21
+    4300390: Screw_Threads_L
+    4300392: Screw_Threads_c20
+    4300394: Screw_Threads_L
+    4300396: Screw_Threads_c19
+    4300398: Screw_Threads_L
+    4300400: Screw_Threads_c18
+    4300402: Screw_Threads_L
+    4300404: Screw_Threads_c17
+    4300406: Screw_Threads_L
+    4300408: Screw_Threads_c16
+    4300410: Screw_Threads_L
+    4300412: Screw_Threads_c15
+    4300414: Screw_Threads_L
+    4300416: Screw_Threads_c14
+    4300418: Screw_Threads_L
+    4300420: Screw_Threads_c13
+    4300422: Screw_Threads_L
+    4300424: Screw_Threads_c12
+    4300426: Screw_Threads_L
+    4300428: Screw_Threads_c11
+    4300430: Screw_Threads_L
+    4300432: Screw_Threads_c10
+    4300434: Screw_Threads_L
+    4300436: Screw_Threads_c9
+    4300438: Screw_Threads_L
+    4300440: Screw_Threads_c8
+    4300442: Screw_Threads_L
+    4300444: Screw_Threads_c7
+    4300446: Screw_Threads_L
+    4300448: Screw_Threads_c6
+    4300450: Screw_Threads_L
+    4300452: Screw_Threads_c5
+    4300454: Screw_Threads_L
+    4300456: Screw_Threads_c4
+    4300458: Screw_Threads_L
+    4300460: Screw_Threads_c3
+    4300462: Screw_Threads_L
+    4300464: Screw_Threads_c2
+    4300466: Screw_Threads_L
+    4300468: Screw_Threads_c1
+    4300470: Screw_Threads_L
+    4300472: polySurface258
+    4300474: polySurface259
+    4300476: polySurface260
+    4300478: polySurface261
+    4300480: polySurface166
+    4300482: polySurface165
+    4300484: polySurface162
+    4300486: polySurface157
+    4300488: polySurface159
+    4300490: polySurface150
+    4300492: polySurface151
+    4300494: polySurface147
+    4300496: polySurface155
+    4300498: polySurface153
+    4300500: polySurface158
+    4300502: polySurface160
+    4300504: polySurface163
+    4300506: polySurface164
+    4300508: polySurface161
+    4300510: polySurface149
+    4300512: polySurface154
+    4300514: polySurface156
+    4300516: polySurface152
+    4300518: polySurface148
+    4300520: polySurface126
+    4300522: polySurface127
+    4300524: polySurface142
+    4300526: polySurface173
+    4300528: polySurface250
+    4300530: polySurface251
+    4300532: polySurface132
+    4300534: polySurface133
+    4300536: polySurface134
+    4300538: polySurface179
+    4300540: polySurface146
+    4300542: polySurface174
+    4300544: polySurface137
+    4300546: polySurface177
+    4300548: polySurface266
+    4300550: pPipe13
+    4300552: polySurface243
+    4300554: polySurface46
+    4300556: polySurface45
+    4300558: polySurface52
+    4300560: polySurface53
+    4300562: pPipe73
+    4300564: Screw_Threads_c
+    4300566: polySurface240
+    4300568: polySurface238
+    4300570: Camara_de_aire_v1
+    4300572: polySurface267
+    4300574: polySurface106
+    4300576: pCu14
+    4300578: pCu2
+    4300580: ps101
+    4300582: ps97
+    4300584: ps236
+    4300586: pC36
+    4300588: ps268
+    4300590: pCu11
+    4300592: pCu12
+    4300594: pC12
+    4300596: pC11
+    4300598: ps88
+    4300600: ps94
+    4300602: pCu13
+    4300604: pPi10
+    4300606: ps95
+    4300608: ps93
+    4300610: pPi67
+    4300612: pC35
+    4300614: pC34
+    4300616: pPi66
+    4300618: pPi64
+    4300620: pPi63
+    4300622: pC32
+    4300624: pC31
+    4300626: pC25
+    4300628: pPi22
+    4300630: pPi23
+    4300632: pC26
+    4300634: ps105
+    4300636: ps103
+    4300638: ps109
+    4300640: ps231
+    4300642: ps113
+    4300644: ps111
+    4300646: ps117
+    4300648: ps115
+    4300650: ps121
+    4300652: Sc_Threads_L7
+    4300654: Sc_Threads_L5
+    4300656: Sc_Threads_L9
+    4300658: Sc_Threads_L10
+    4300660: ps119
+    4300662: Sc_Threads_L6
+    4300664: Sc_Threads_L8
+    4300666: Sc_Threads_L11
+    4300668: Sc_Threads_L12
+    4300670: ps123
+    4300672: ps232
+    4300674: ps234
+    4300676: ps229
+    4300678: Sc_Threads_c21
+    4300680: Sc_Threads_L
+    4300682: Sc_Threads_c20
+    4300684: Sc_Threads_L
+    4300686: Sc_Threads_c19
+    4300688: Sc_Threads_L
+    4300690: Sc_Threads_c18
+    4300692: Sc_Threads_L
+    4300694: Sc_Threads_c17
+    4300696: Sc_Threads_L
+    4300698: Sc_Threads_c16
+    4300700: Sc_Threads_L
+    4300702: Sc_Threads_c15
+    4300704: Sc_Threads_L
+    4300706: Sc_Threads_c14
+    4300708: Sc_Threads_L
+    4300710: Sc_Threads_c13
+    4300712: Sc_Threads_L
+    4300714: Sc_Threads_c12
+    4300716: Sc_Threads_L
+    4300718: Sc_Threads_c11
+    4300720: Sc_Threads_L
+    4300722: Sc_Threads_c10
+    4300724: Sc_Threads_L
+    4300726: Sc_Threads_c5
+    4300728: Sc_Threads_L
+    4300730: Sc_Threads_c4
+    4300732: Sc_Threads_L
+    4300734: Sc_Threads_c3
+    4300736: Sc_Threads_L
+    4300738: Sc_Threads_c2
+    4300740: Sc_Threads_L
+    4300742: Sc_Threads_c1
+    4300744: Sc_Threads_L
+    4300746: ps262
+    4300748: ps263
+    4300750: ps264
+    4300752: ps265
+    4300754: ps245
+    4300756: ps252
+    4300758: ps253
+    4300760: ps256
+    4300762: ps221
+    4300764: ps190
+    4300766: ps183
+    4300768: ps184
+    4300770: ps227
+    4300772: ps225
+    4300774: pPi62
+    4300776: pPi59
+    4300778: ps131
+    4300780: ps130
+    4300782: ps214
+    4300784: ps213
+    4300786: ps205
+    4300788: ps207
+    4300790: ps210
+    4300792: ps201
+    4300794: ps203
+    4300796: ps198
+    4300798: ps199
+    4300800: ps195
+    4300802: ps209
+    4300804: ps212
+    4300806: ps211
+    4300808: ps206
+    4300810: ps208
+    4300812: ps202
+    4300814: ps204
+    4300816: ps196
+    4300818: ps200
+    4300820: ps197
+    4300822: pC37
+    4300824: pPi70
+    4300826: ps46
+    4300828: ps45
+    4300830: ps52
+    4300832: ps53
+    4300834: pPi71
+    4300836: ps181
+    4300838: ps180
+    4300840: pPi58
+    4300842: pPi57
+    4300844: ps185
+    4300846: ps182
+    4300848: Sc_Threads_c6
+    4300850: Sc_Threads_L
+    4300852: Sc_Threads_c7
+    4300854: Sc_Threads_L1
+    4300856: Sc_Threads_c8
+    4300858: Sc_Threads_L2
+    4300860: Sc_Threads_c9
+    4300862: Sc_Threads_L3
+    4300864: Sc_Threads_L4
+    4300866: ps83
+    4300868: pPi3
+    4300870: pC10
+    4300872: Sc_Threads_c23
+    4300874: pPi60
+    4300876: Sc_Threads_c22
+    4300878: Sc_Threads_L
+    4300880: pPi61
+    4300882: ps194
+    4300884: ps222
+    4300886: pPi69
+    4300888: pPi55
+    4300890: ps82
+    4300892: pC4
+    4300894: Sc_Threads_c25
+    4300896: Sc_Threads_L
+    4300898: pPi68
+    4300900: pPi56
+    4300902: Sc_Threads_c24
+    4300904: ps270
+    4300906: ps107
+    4300908: Camara_de_aire_v2
+    4300910: ps241
+    4300912: ps239
+    4300914: ps244
+    4300916: ps269
+    4300918: pPi74
+    4300920: pPi75
+    4300922: pPi76
+    4300924: ps100
+    4300926: ps96
+    4300928: ps237
+    4300930: pPi1
+    4300932: pC5
+    4300934: pPi65
+    4300936: pC33
+    4300938: pC14
+    4300940: pC15
+    4300942: pPi12
+    4300944: ps104
+    4300946: ps102
+    4300948: ps41
+    4300950: ps108
+    4300952: ps254
+    4300954: ps230
+    4300956: ps112
+    4300958: ps110
+    4300960: ps116
+    4300962: ps114
+    4300964: ps120
+    4300966: Sc_Threads_L5
+    4300968: Sc_Threads_L7
+    4300970: Sc_Threads_L13
+    4300972: Sc_Threads_L14
+    4300974: ps118
+    4300976: Sc_Threads_L6
+    4300978: Sc_Threads_L8
+    4300980: Sc_Threads_L15
+    4300982: Sc_Threads_L16
+    4300984: ps122
+    4300986: ps136
+    4300988: ps135
+    4300990: ps233
+    4300992: ps235
+    4300994: ps228
+    4300996: pC23
+    4300998: pPi20
+    4301000: pPi21
+    4301002: pC24
+    4301004: Sc_Threads_c21
+    4301006: Sc_Threads_L
+    4301008: Sc_Threads_c20
+    4301010: Sc_Threads_L
+    4301012: Sc_Threads_c19
+    4301014: Sc_Threads_L
+    4301016: Sc_Threads_c18
+    4301018: Sc_Threads_L
+    4301020: Sc_Threads_c17
+    4301022: Sc_Threads_L
+    4301024: Sc_Threads_c16
+    4301026: Sc_Threads_L
+    4301028: Sc_Threads_c15
+    4301030: Sc_Threads_L
+    4301032: Sc_Threads_c14
+    4301034: Sc_Threads_L
+    4301036: Sc_Threads_c13
+    4301038: Sc_Threads_L
+    4301040: Sc_Threads_c12
+    4301042: Sc_Threads_L
+    4301044: Sc_Threads_c11
+    4301046: Sc_Threads_L
+    4301048: Sc_Threads_c10
+    4301050: Sc_Threads_L
+    4301052: Sc_Threads_c9
+    4301054: Sc_Threads_L
+    4301056: Sc_Threads_c8
+    4301058: Sc_Threads_L
+    4301060: Sc_Threads_c7
+    4301062: Sc_Threads_L
+    4301064: Sc_Threads_c6
+    4301066: Sc_Threads_L
+    4301068: Sc_Threads_c5
+    4301070: Sc_Threads_L
+    4301072: Sc_Threads_c4
+    4301074: Sc_Threads_L
+    4301076: Sc_Threads_c3
+    4301078: Sc_Threads_L
+    4301080: Sc_Threads_c2
+    4301082: Sc_Threads_L
+    4301084: Sc_Threads_c1
+    4301086: Sc_Threads_L
+    4301088: ps258
+    4301090: ps259
+    4301092: ps260
+    4301094: ps261
+    4301096: ps166
+    4301098: ps165
+    4301100: ps162
+    4301102: ps157
+    4301104: ps159
+    4301106: ps150
+    4301108: ps151
+    4301110: ps147
+    4301112: ps155
+    4301114: ps153
+    4301116: ps158
+    4301118: ps160
+    4301120: ps163
+    4301122: ps164
+    4301124: ps161
+    4301126: ps149
+    4301128: ps154
+    4301130: ps156
+    4301132: ps152
+    4301134: ps148
+    4301136: ps126
+    4301138: ps127
+    4301140: ps142
+    4301142: ps173
+    4301144: ps250
+    4301146: ps251
+    4301148: ps132
+    4301150: ps133
+    4301152: ps134
+    4301154: ps179
+    4301156: ps174
+    4301158: ps137
+    4301160: ps177
+    4301162: ps266
+    4301164: pPi13
+    4301166: ps243
+    4301168: ps46
+    4301170: ps45
+    4301172: ps52
+    4301174: ps53
+    4301176: pPi73
+    4301178: ps106
+    4301180: Camara_de_aire_v1
+    4301182: ps240
+    4301184: ps238
+    4301186: Sc_Threads_c
+    4301188: ps267
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AirChambers_Mat
+    second: {fileID: 2100000, guid: dbaa2312d27965f4d9b8ffdce58d3d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Dark_Mat
+    second: {fileID: 2100000, guid: 41351b7c3d340a3489093eb21201dbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Mat
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Red_Mat
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black_1_Mat
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws_Threads
+    second: {fileID: 2100000, guid: 99aa1f96931c82b4e94bddd74e8a7c5f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

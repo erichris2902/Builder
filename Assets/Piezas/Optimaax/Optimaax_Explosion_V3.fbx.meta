@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 43a9067151ffab942870c6d87d605074
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Air_Chamber
+    100002: Air_Chamber 1
+    100004: Air_Chamber1
+    100006: Air_Chamber_Base
+    100008: Air_Chamber_Base 1
+    100010: Air_Chamber_Cap
+    100012: Air_Chamber_Cap 1
+    100014: AirChamber_1_Grp
+    100016: AirChamber_1_Grp 1
+    100018: JointSupp_7
+    100020: JointSupp_7 1
+    100022: OMiddle_Grp
+    100024: //RootNode
+    100026: OSide_1
+    100028: OSide_2
+    100030: pCube17
+    100032: pCube19
+    100034: pCube19 1
+    100036: pCube20
+    100038: pCube20 1
+    100040: pCube48
+    100042: pCube48 1
+    100044: pCube49
+    100046: pCube49 1
+    100048: pCylinder47
+    100050: pCylinder47 1
+    100052: pCylinder65
+    100054: pCylinder65 1
+    100056: pCylinder66
+    100058: pCylinder66 1
+    100060: pCylinder67
+    100062: pCylinder67 1
+    100064: pCylinder68
+    100066: pCylinder68 1
+    100068: pCylinder69
+    100070: pCylinder69 1
+    100072: pCylinder70
+    100074: pCylinder70 1
+    100076: pCylinder71
+    100078: pCylinder71 1
+    100080: pCylinder72
+    100082: pCylinder72 1
+    100084: Pivot_Grp
+    100086: Pivot_Grp 1
+    100088: polySurface4697
+    100090: polySurface4697 1
+    100092: polySurface4698
+    100094: polySurface4698 1
+    100096: polySurface4699
+    100098: polySurface4699 1
+    100100: polySurface4701
+    100102: polySurface4701 1
+    100104: polySurface4702
+    100106: polySurface4702 1
+    100108: polySurface4707
+    100110: polySurface4707 1
+    100112: polySurface4714
+    100114: polySurface4714 1
+    100116: polySurface4724
+    100118: polySurface4724 1
+    100120: polySurface4727
+    100122: polySurface4727 1
+    100124: polySurface4730
+    100126: polySurface4735
+    100128: polySurface4735 1
+    100130: polySurface4736
+    100132: polySurface4736 1
+    100134: polySurface4738
+    100136: polySurface4738 1
+    100138: polySurface4744
+    100140: polySurface4744 1
+    100142: polySurface4745
+    100144: polySurface4745 1
+    100146: polySurface4747
+    100148: polySurface4747 1
+    100150: polySurface4748
+    100152: polySurface4748 1
+    100154: polySurface4749
+    100156: polySurface4749 1
+    100158: Screw_1
+    100160: Screw_1 1
+    100162: Screw_2
+    100164: Screw_2 1
+    100166: Screw_2_Base
+    100168: Screw_2_Base 1
+    100170: Screw_2_Base 10
+    100172: Screw_2_Base 11
+    100174: Screw_2_Base 12
+    100176: Screw_2_Base 13
+    100178: Screw_2_Base 14
+    100180: Screw_2_Base 15
+    100182: Screw_2_Base 2
+    100184: Screw_2_Base 3
+    100186: Screw_2_Base 4
+    100188: Screw_2_Base 5
+    100190: Screw_2_Base 6
+    100192: Screw_2_Base 7
+    100194: Screw_2_Base 8
+    100196: Screw_2_Base 9
+    100198: Screw_2_Base2
+    100200: Screw_2_Base2 1
+    100202: Screw_2_Base3
+    100204: Screw_2_Base3 1
+    100206: Screw_2_Base4
+    100208: Screw_2_Base4 1
+    100210: Screw_2_Nut
+    100212: Screw_2_Nut 1
+    100214: Screw_2_Nut 2
+    100216: Screw_2_Nut 3
+    100218: Screw_2_Nut 4
+    100220: Screw_2_Nut 5
+    100222: Screw_2_Nut 6
+    100224: Screw_2_Nut 7
+    100226: Screw_2_Nut1
+    100228: Screw_2_Nut1 1
+    100230: Screw_2_Washer
+    100232: Screw_2_Washer 1
+    100234: Screw_2_Washer 2
+    100236: Screw_2_Washer 3
+    100238: Screw_2_Washer1
+    100240: Screw_2_Washer1 1
+    100242: Screw_2_Washer1 2
+    100244: Screw_2_Washer1 3
+    100246: Screw_2_Washer1 4
+    100248: Screw_2_Washer1 5
+    100250: Screw_2_Washer1 6
+    100252: Screw_2_Washer1 7
+    100254: Screw_2_Washer1 8
+    100256: Screw_2_Washer1 9
+    100258: Screw_2_Washer2
+    100260: Screw_2_Washer2 1
+    100262: Screw_2_Washer2 2
+    100264: Screw_2_Washer2 3
+    100266: Screw_2_Washer3
+    100268: Screw_2_Washer3 1
+    100270: Screw_2_Washer4
+    100272: Screw_2_Washer4 1
+    100274: Screw_3
+    100276: Screw_3 1
+    100278: Screw_4
+    100280: Screw_4 1
+    100282: Screw_5
+    100284: Screw_5 1
+    100286: Screw_6
+    100288: Screw_6 1
+    100290: Screw_7
+    100292: Screw_7 1
+    100294: Screw_8
+    100296: Screw_8 1
+    100298: Screws_Grp
+    100300: Screws_Grp 1
+    100302: SCylinder_Base3
+    100304: SCylinder_Base3 1
+    100306: SCylinder_Base4
+    100308: SCylinder_Base4 1
+    100310: SPiston_Base1
+    100312: SPiston_Base1 1
+    100314: Suspension
+    100316: Suspension 1
+    100318: Trifunctional
+    100320: Trifunctional 1
+    400000: Air_Chamber
+    400002: Air_Chamber 1
+    400004: Air_Chamber1
+    400006: Air_Chamber_Base
+    400008: Air_Chamber_Base 1
+    400010: Air_Chamber_Cap
+    400012: Air_Chamber_Cap 1
+    400014: AirChamber_1_Grp
+    400016: AirChamber_1_Grp 1
+    400018: JointSupp_7
+    400020: JointSupp_7 1
+    400022: OMiddle_Grp
+    400024: //RootNode
+    400026: OSide_1
+    400028: OSide_2
+    400030: pCube17
+    400032: pCube19
+    400034: pCube19 1
+    400036: pCube20
+    400038: pCube20 1
+    400040: pCube48
+    400042: pCube48 1
+    400044: pCube49
+    400046: pCube49 1
+    400048: pCylinder47
+    400050: pCylinder47 1
+    400052: pCylinder65
+    400054: pCylinder65 1
+    400056: pCylinder66
+    400058: pCylinder66 1
+    400060: pCylinder67
+    400062: pCylinder67 1
+    400064: pCylinder68
+    400066: pCylinder68 1
+    400068: pCylinder69
+    400070: pCylinder69 1
+    400072: pCylinder70
+    400074: pCylinder70 1
+    400076: pCylinder71
+    400078: pCylinder71 1
+    400080: pCylinder72
+    400082: pCylinder72 1
+    400084: Pivot_Grp
+    400086: Pivot_Grp 1
+    400088: polySurface4697
+    400090: polySurface4697 1
+    400092: polySurface4698
+    400094: polySurface4698 1
+    400096: polySurface4699
+    400098: polySurface4699 1
+    400100: polySurface4701
+    400102: polySurface4701 1
+    400104: polySurface4702
+    400106: polySurface4702 1
+    400108: polySurface4707
+    400110: polySurface4707 1
+    400112: polySurface4714
+    400114: polySurface4714 1
+    400116: polySurface4724
+    400118: polySurface4724 1
+    400120: polySurface4727
+    400122: polySurface4727 1
+    400124: polySurface4730
+    400126: polySurface4735
+    400128: polySurface4735 1
+    400130: polySurface4736
+    400132: polySurface4736 1
+    400134: polySurface4738
+    400136: polySurface4738 1
+    400138: polySurface4744
+    400140: polySurface4744 1
+    400142: polySurface4745
+    400144: polySurface4745 1
+    400146: polySurface4747
+    400148: polySurface4747 1
+    400150: polySurface4748
+    400152: polySurface4748 1
+    400154: polySurface4749
+    400156: polySurface4749 1
+    400158: Screw_1
+    400160: Screw_1 1
+    400162: Screw_2
+    400164: Screw_2 1
+    400166: Screw_2_Base
+    400168: Screw_2_Base 1
+    400170: Screw_2_Base 10
+    400172: Screw_2_Base 11
+    400174: Screw_2_Base 12
+    400176: Screw_2_Base 13
+    400178: Screw_2_Base 14
+    400180: Screw_2_Base 15
+    400182: Screw_2_Base 2
+    400184: Screw_2_Base 3
+    400186: Screw_2_Base 4
+    400188: Screw_2_Base 5
+    400190: Screw_2_Base 6
+    400192: Screw_2_Base 7
+    400194: Screw_2_Base 8
+    400196: Screw_2_Base 9
+    400198: Screw_2_Base2
+    400200: Screw_2_Base2 1
+    400202: Screw_2_Base3
+    400204: Screw_2_Base3 1
+    400206: Screw_2_Base4
+    400208: Screw_2_Base4 1
+    400210: Screw_2_Nut
+    400212: Screw_2_Nut 1
+    400214: Screw_2_Nut 2
+    400216: Screw_2_Nut 3
+    400218: Screw_2_Nut 4
+    400220: Screw_2_Nut 5
+    400222: Screw_2_Nut 6
+    400224: Screw_2_Nut 7
+    400226: Screw_2_Nut1
+    400228: Screw_2_Nut1 1
+    400230: Screw_2_Washer
+    400232: Screw_2_Washer 1
+    400234: Screw_2_Washer 2
+    400236: Screw_2_Washer 3
+    400238: Screw_2_Washer1
+    400240: Screw_2_Washer1 1
+    400242: Screw_2_Washer1 2
+    400244: Screw_2_Washer1 3
+    400246: Screw_2_Washer1 4
+    400248: Screw_2_Washer1 5
+    400250: Screw_2_Washer1 6
+    400252: Screw_2_Washer1 7
+    400254: Screw_2_Washer1 8
+    400256: Screw_2_Washer1 9
+    400258: Screw_2_Washer2
+    400260: Screw_2_Washer2 1
+    400262: Screw_2_Washer2 2
+    400264: Screw_2_Washer2 3
+    400266: Screw_2_Washer3
+    400268: Screw_2_Washer3 1
+    400270: Screw_2_Washer4
+    400272: Screw_2_Washer4 1
+    400274: Screw_3
+    400276: Screw_3 1
+    400278: Screw_4
+    400280: Screw_4 1
+    400282: Screw_5
+    400284: Screw_5 1
+    400286: Screw_6
+    400288: Screw_6 1
+    400290: Screw_7
+    400292: Screw_7 1
+    400294: Screw_8
+    400296: Screw_8 1
+    400298: Screws_Grp
+    400300: Screws_Grp 1
+    400302: SCylinder_Base3
+    400304: SCylinder_Base3 1
+    400306: SCylinder_Base4
+    400308: SCylinder_Base4 1
+    400310: SPiston_Base1
+    400312: SPiston_Base1 1
+    400314: Suspension
+    400316: Suspension 1
+    400318: Trifunctional
+    400320: Trifunctional 1
+    2100000: GsMetal_Red_Mat3
+    2100002: GsMetal_Aluminium_Mat3
+    2100004: HAirChamber_Mat12
+    2100006: Plastic_Grey_Mat3
+    2100008: Plastic_Grey_Mat
+    2100010: GsMetal_Red_Mat
+    2100012: GsMetal_Aluminium_Mat
+    2100014: Axis_Thread_Mat
+    2300000: Air_Chamber
+    2300002: Air_Chamber 1
+    2300004: Air_Chamber1
+    2300006: Air_Chamber_Base
+    2300008: Air_Chamber_Base 1
+    2300010: Air_Chamber_Cap
+    2300012: Air_Chamber_Cap 1
+    2300014: JointSupp_7
+    2300016: JointSupp_7 1
+    2300018: pCube17
+    2300020: pCube19
+    2300022: pCube19 1
+    2300024: pCube20
+    2300026: pCube20 1
+    2300028: pCube48
+    2300030: pCube48 1
+    2300032: pCube49
+    2300034: pCube49 1
+    2300036: pCylinder47
+    2300038: pCylinder47 1
+    2300040: pCylinder65
+    2300042: pCylinder65 1
+    2300044: pCylinder66
+    2300046: pCylinder66 1
+    2300048: pCylinder67
+    2300050: pCylinder67 1
+    2300052: pCylinder68
+    2300054: pCylinder68 1
+    2300056: pCylinder69
+    2300058: pCylinder69 1
+    2300060: pCylinder70
+    2300062: pCylinder70 1
+    2300064: pCylinder72
+    2300066: pCylinder72 1
+    2300068: polySurface4697
+    2300070: polySurface4697 1
+    2300072: polySurface4698
+    2300074: polySurface4698 1
+    2300076: polySurface4699
+    2300078: polySurface4699 1
+    2300080: polySurface4701
+    2300082: polySurface4701 1
+    2300084: polySurface4702
+    2300086: polySurface4702 1
+    2300088: polySurface4707
+    2300090: polySurface4707 1
+    2300092: polySurface4714
+    2300094: polySurface4714 1
+    2300096: polySurface4724
+    2300098: polySurface4724 1
+    2300100: polySurface4727
+    2300102: polySurface4727 1
+    2300104: polySurface4730
+    2300106: polySurface4735
+    2300108: polySurface4735 1
+    2300110: polySurface4736
+    2300112: polySurface4736 1
+    2300114: polySurface4738
+    2300116: polySurface4738 1
+    2300118: polySurface4744
+    2300120: polySurface4744 1
+    2300122: polySurface4745
+    2300124: polySurface4745 1
+    2300126: polySurface4747
+    2300128: polySurface4747 1
+    2300130: polySurface4748
+    2300132: polySurface4748 1
+    2300134: polySurface4749
+    2300136: polySurface4749 1
+    2300138: Screw_2_Base
+    2300140: Screw_2_Base 1
+    2300142: Screw_2_Base 10
+    2300144: Screw_2_Base 11
+    2300146: Screw_2_Base 12
+    2300148: Screw_2_Base 13
+    2300150: Screw_2_Base 14
+    2300152: Screw_2_Base 15
+    2300154: Screw_2_Base 2
+    2300156: Screw_2_Base 3
+    2300158: Screw_2_Base 4
+    2300160: Screw_2_Base 5
+    2300162: Screw_2_Base 6
+    2300164: Screw_2_Base 7
+    2300166: Screw_2_Base 8
+    2300168: Screw_2_Base 9
+    2300170: Screw_2_Base2
+    2300172: Screw_2_Base2 1
+    2300174: Screw_2_Base3
+    2300176: Screw_2_Base3 1
+    2300178: Screw_2_Base4
+    2300180: Screw_2_Base4 1
+    2300182: Screw_2_Nut
+    2300184: Screw_2_Nut 1
+    2300186: Screw_2_Nut 2
+    2300188: Screw_2_Nut 3
+    2300190: Screw_2_Nut 4
+    2300192: Screw_2_Nut 5
+    2300194: Screw_2_Nut 6
+    2300196: Screw_2_Nut 7
+    2300198: Screw_2_Nut1
+    2300200: Screw_2_Nut1 1
+    2300202: Screw_2_Washer
+    2300204: Screw_2_Washer 1
+    2300206: Screw_2_Washer 2
+    2300208: Screw_2_Washer 3
+    2300210: Screw_2_Washer1
+    2300212: Screw_2_Washer1 1
+    2300214: Screw_2_Washer1 2
+    2300216: Screw_2_Washer1 3
+    2300218: Screw_2_Washer1 4
+    2300220: Screw_2_Washer1 5
+    2300222: Screw_2_Washer1 6
+    2300224: Screw_2_Washer1 7
+    2300226: Screw_2_Washer1 8
+    2300228: Screw_2_Washer1 9
+    2300230: Screw_2_Washer2
+    2300232: Screw_2_Washer2 1
+    2300234: Screw_2_Washer2 2
+    2300236: Screw_2_Washer2 3
+    2300238: Screw_2_Washer3
+    2300240: Screw_2_Washer3 1
+    2300242: Screw_2_Washer4
+    2300244: Screw_2_Washer4 1
+    2300246: SCylinder_Base3
+    2300248: SCylinder_Base3 1
+    2300250: SCylinder_Base4
+    2300252: SCylinder_Base4 1
+    2300254: SPiston_Base1
+    2300256: SPiston_Base1 1
+    2300258: Trifunctional
+    2300260: Trifunctional 1
+    3300000: Air_Chamber
+    3300002: Air_Chamber 1
+    3300004: Air_Chamber1
+    3300006: Air_Chamber_Base
+    3300008: Air_Chamber_Base 1
+    3300010: Air_Chamber_Cap
+    3300012: Air_Chamber_Cap 1
+    3300014: JointSupp_7
+    3300016: JointSupp_7 1
+    3300018: pCube17
+    3300020: pCube19
+    3300022: pCube19 1
+    3300024: pCube20
+    3300026: pCube20 1
+    3300028: pCube48
+    3300030: pCube48 1
+    3300032: pCube49
+    3300034: pCube49 1
+    3300036: pCylinder47
+    3300038: pCylinder47 1
+    3300040: pCylinder65
+    3300042: pCylinder65 1
+    3300044: pCylinder66
+    3300046: pCylinder66 1
+    3300048: pCylinder67
+    3300050: pCylinder67 1
+    3300052: pCylinder68
+    3300054: pCylinder68 1
+    3300056: pCylinder69
+    3300058: pCylinder69 1
+    3300060: pCylinder70
+    3300062: pCylinder70 1
+    3300064: pCylinder72
+    3300066: pCylinder72 1
+    3300068: polySurface4697
+    3300070: polySurface4697 1
+    3300072: polySurface4698
+    3300074: polySurface4698 1
+    3300076: polySurface4699
+    3300078: polySurface4699 1
+    3300080: polySurface4701
+    3300082: polySurface4701 1
+    3300084: polySurface4702
+    3300086: polySurface4702 1
+    3300088: polySurface4707
+    3300090: polySurface4707 1
+    3300092: polySurface4714
+    3300094: polySurface4714 1
+    3300096: polySurface4724
+    3300098: polySurface4724 1
+    3300100: polySurface4727
+    3300102: polySurface4727 1
+    3300104: polySurface4730
+    3300106: polySurface4735
+    3300108: polySurface4735 1
+    3300110: polySurface4736
+    3300112: polySurface4736 1
+    3300114: polySurface4738
+    3300116: polySurface4738 1
+    3300118: polySurface4744
+    3300120: polySurface4744 1
+    3300122: polySurface4745
+    3300124: polySurface4745 1
+    3300126: polySurface4747
+    3300128: polySurface4747 1
+    3300130: polySurface4748
+    3300132: polySurface4748 1
+    3300134: polySurface4749
+    3300136: polySurface4749 1
+    3300138: Screw_2_Base
+    3300140: Screw_2_Base 1
+    3300142: Screw_2_Base 10
+    3300144: Screw_2_Base 11
+    3300146: Screw_2_Base 12
+    3300148: Screw_2_Base 13
+    3300150: Screw_2_Base 14
+    3300152: Screw_2_Base 15
+    3300154: Screw_2_Base 2
+    3300156: Screw_2_Base 3
+    3300158: Screw_2_Base 4
+    3300160: Screw_2_Base 5
+    3300162: Screw_2_Base 6
+    3300164: Screw_2_Base 7
+    3300166: Screw_2_Base 8
+    3300168: Screw_2_Base 9
+    3300170: Screw_2_Base2
+    3300172: Screw_2_Base2 1
+    3300174: Screw_2_Base3
+    3300176: Screw_2_Base3 1
+    3300178: Screw_2_Base4
+    3300180: Screw_2_Base4 1
+    3300182: Screw_2_Nut
+    3300184: Screw_2_Nut 1
+    3300186: Screw_2_Nut 2
+    3300188: Screw_2_Nut 3
+    3300190: Screw_2_Nut 4
+    3300192: Screw_2_Nut 5
+    3300194: Screw_2_Nut 6
+    3300196: Screw_2_Nut 7
+    3300198: Screw_2_Nut1
+    3300200: Screw_2_Nut1 1
+    3300202: Screw_2_Washer
+    3300204: Screw_2_Washer 1
+    3300206: Screw_2_Washer 2
+    3300208: Screw_2_Washer 3
+    3300210: Screw_2_Washer1
+    3300212: Screw_2_Washer1 1
+    3300214: Screw_2_Washer1 2
+    3300216: Screw_2_Washer1 3
+    3300218: Screw_2_Washer1 4
+    3300220: Screw_2_Washer1 5
+    3300222: Screw_2_Washer1 6
+    3300224: Screw_2_Washer1 7
+    3300226: Screw_2_Washer1 8
+    3300228: Screw_2_Washer1 9
+    3300230: Screw_2_Washer2
+    3300232: Screw_2_Washer2 1
+    3300234: Screw_2_Washer2 2
+    3300236: Screw_2_Washer2 3
+    3300238: Screw_2_Washer3
+    3300240: Screw_2_Washer3 1
+    3300242: Screw_2_Washer4
+    3300244: Screw_2_Washer4 1
+    3300246: SCylinder_Base3
+    3300248: SCylinder_Base3 1
+    3300250: SCylinder_Base4
+    3300252: SCylinder_Base4 1
+    3300254: SPiston_Base1
+    3300256: SPiston_Base1 1
+    3300258: Trifunctional
+    3300260: Trifunctional 1
+    4300000: pCube17
+    4300002: polySurface4730
+    4300004: pCylinder47
+    4300006: pCylinder65
+    4300008: polySurface4697
+    4300010: polySurface4698
+    4300012: pCube19
+    4300014: pCube20
+    4300016: Air_Chamber_Base
+    4300018: Air_Chamber
+    4300020: Air_Chamber_Cap
+    4300022: polySurface4707
+    4300024: pCylinder67
+    4300026: polySurface4701
+    4300028: polySurface4699
+    4300030: SPiston_Base1
+    4300032: SCylinder_Base4
+    4300034: SCylinder_Base3
+    4300036: polySurface4747
+    4300038: polySurface4702
+    4300040: polySurface4724
+    4300042: polySurface4727
+    4300044: polySurface4735
+    4300046: polySurface4744
+    4300048: Screw_2_Base
+    4300050: pCylinder66
+    4300052: polySurface4738
+    4300054: polySurface4745
+    4300056: Screw_2_Base3
+    4300058: Screw_2_Base4
+    4300060: polySurface4714
+    4300062: polySurface4736
+    4300064: pCylinder68
+    4300066: pCube48
+    4300068: pCube49
+    4300070: Screw_2_Base2
+    4300072: pCylinder69
+    4300074: pCylinder70
+    4300076: polySurface4748
+    4300078: polySurface4749
+    4300080: Trifunctional
+    4300082: JointSupp_7
+    4300084: Screw_2_Base
+    4300086: Screw_2_Nut
+    4300088: Screw_2_Washer1
+    4300090: Screw_2_Base
+    4300092: Screw_2_Nut
+    4300094: Screw_2_Washer1
+    4300096: Screw_2_Washer2
+    4300098: Screw_2_Base
+    4300100: Screw_2_Nut
+    4300102: Screw_2_Washer1
+    4300104: Screw_2_Washer2
+    4300106: Screw_2_Washer3
+    4300108: Screw_2_Nut1
+    4300110: Screw_2_Washer4
+    4300112: Screw_2_Base
+    4300114: Screw_2_Washer1
+    4300116: Screw_2_Base
+    4300118: Screw_2_Washer1
+    4300120: Screw_2_Base
+    4300122: Screw_2_Washer
+    4300124: Screw_2_Base
+    4300126: Screw_2_Washer
+    4300128: Screw_2_Nut
+    4300130: pCylinder72
+    4300132: Air_Chamber1
+    4300134: pCylinder47
+    4300136: pCylinder65
+    4300138: polySurface4697
+    4300140: polySurface4698
+    4300142: pCube19
+    4300144: pCube20
+    4300146: Air_Chamber_Base
+    4300148: Air_Chamber
+    4300150: Air_Chamber_Cap
+    4300152: polySurface4707
+    4300154: pCylinder67
+    4300156: polySurface4701
+    4300158: polySurface4699
+    4300160: SPiston_Base1
+    4300162: SCylinder_Base4
+    4300164: SCylinder_Base3
+    4300166: polySurface4747
+    4300168: polySurface4702
+    4300170: polySurface4724
+    4300172: polySurface4727
+    4300174: polySurface4735
+    4300176: polySurface4744
+    4300178: Screw_2_Base
+    4300180: pCylinder66
+    4300182: polySurface4738
+    4300184: polySurface4745
+    4300186: Screw_2_Base3
+    4300188: Screw_2_Base4
+    4300190: polySurface4714
+    4300192: polySurface4736
+    4300194: pCylinder68
+    4300196: pCube48
+    4300198: pCube49
+    4300200: Screw_2_Base2
+    4300202: pCylinder69
+    4300204: pCylinder70
+    4300206: polySurface4748
+    4300208: polySurface4749
+    4300210: Trifunctional
+    4300212: JointSupp_7
+    4300214: Screw_2_Base
+    4300216: Screw_2_Nut
+    4300218: Screw_2_Washer1
+    4300220: Screw_2_Base
+    4300222: Screw_2_Nut
+    4300224: Screw_2_Washer1
+    4300226: Screw_2_Washer2
+    4300228: Screw_2_Base
+    4300230: Screw_2_Nut
+    4300232: Screw_2_Washer1
+    4300234: Screw_2_Washer2
+    4300236: Screw_2_Washer3
+    4300238: Screw_2_Nut1
+    4300240: Screw_2_Washer4
+    4300242: Screw_2_Base
+    4300244: Screw_2_Washer1
+    4300246: Screw_2_Base
+    4300248: Screw_2_Washer1
+    4300250: Screw_2_Base
+    4300252: Screw_2_Washer
+    4300254: Screw_2_Base
+    4300256: Screw_2_Washer
+    4300258: Screw_2_Nut
+    4300260: pCylinder72
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axis_Thread_Mat
+    second: {fileID: 2100000, guid: 4a5466706755af34498a7f529146a7bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Aluminium_Mat
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Aluminium_Mat3
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Red_Mat
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Red_Mat3
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HAirChamber_Mat12
+    second: {fileID: 2100000, guid: dbaa2312d27965f4d9b8ffdce58d3d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Grey_Mat
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Grey_Mat3
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

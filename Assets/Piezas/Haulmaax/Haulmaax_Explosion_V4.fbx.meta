@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 2a7992519ccc1644081f08116be3e7af
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_1
+    100002: Arm_1 1
+    100004: Arm_Base
+    100006: Arm_Base 1
+    100008: Arm_Base 2
+    100010: Arm_Base 3
+    100012: Arm_Tread_1
+    100014: Arm_Tread_1 1
+    100016: Arm_Tread_1 2
+    100018: Arm_Tread_1 3
+    100020: Arm_Tread_2
+    100022: Arm_Tread_2 1
+    100024: Arm_Tread_5
+    100026: Arm_Tread_5 1
+    100028: Arm_Tread_6
+    100030: Arm_Tread_6 1
+    100032: Arm_Tread_7
+    100034: Arm_Tread_7 1
+    100036: Bearing_Base
+    100038: Bearing_Base 1
+    100040: Bot_Bearing
+    100042: Bot_Bearing 1
+    100044: Bot_Bearing 2
+    100046: Bot_Bearing 3
+    100048: Bot_Bearing_1_Grp
+    100050: Bot_Bearing_1_Grp 1
+    100052: Bot_Bearing_2_Grp
+    100054: Bot_Bearing_2_Grp 1
+    100056: Bot_Bearing_Supp_1
+    100058: Bot_Bearing_Supp_1 1
+    100060: Bot_Bearing_Supp_1 2
+    100062: Bot_Bearing_Supp_1 3
+    100064: Bot_Part_1
+    100066: Bot_Part_1 1
+    100068: Bot_Tread_1
+    100070: Bot_Tread_1 1
+    100072: Bot_Tread_1 2
+    100074: Bot_Tread_1 3
+    100076: Cylinder_1
+    100078: Cylinder_1 1
+    100080: //RootNode
+    100082: Joint_Base
+    100084: Joint_Base 1
+    100086: Joint_Base 2
+    100088: Joint_Base 3
+    100090: Middle_Parts_Grp
+    100092: Middle_Parts_Grp 1
+    100094: Middle_Supp_1
+    100096: Middle_Supp_1 1
+    100098: Nut_1
+    100100: Nut_1 1
+    100102: Nut_2
+    100104: Nut_2 1
+    100106: Plate_1
+    100108: Plate_1 1
+    100110: Plate_2
+    100112: Plate_2 1
+    100114: Plate_3
+    100116: Plate_3 1
+    100118: Screw_1
+    100120: Screw_1 1
+    100122: Screw_1 10
+    100124: Screw_1 11
+    100126: Screw_1 12
+    100128: Screw_1 13
+    100130: Screw_1 14
+    100132: Screw_1 15
+    100134: Screw_1 16
+    100136: Screw_1 17
+    100138: Screw_1 18
+    100140: Screw_1 19
+    100142: Screw_1 2
+    100144: Screw_1 20
+    100146: Screw_1 21
+    100148: Screw_1 3
+    100150: Screw_1 4
+    100152: Screw_1 5
+    100154: Screw_1 6
+    100156: Screw_1 7
+    100158: Screw_1 8
+    100160: Screw_1 9
+    100162: Screw_10
+    100164: Screw_10 1
+    100166: Screw_10 2
+    100168: Screw_10 3
+    100170: Screw_11
+    100172: Screw_11 1
+    100174: Screw_11 2
+    100176: Screw_11 3
+    100178: Screw_12
+    100180: Screw_12 1
+    100182: Screw_12 2
+    100184: Screw_12 3
+    100186: Screw_2
+    100188: Screw_2 1
+    100190: Screw_2 10
+    100192: Screw_2 11
+    100194: Screw_2 12
+    100196: Screw_2 13
+    100198: Screw_2 14
+    100200: Screw_2 15
+    100202: Screw_2 16
+    100204: Screw_2 17
+    100206: Screw_2 2
+    100208: Screw_2 3
+    100210: Screw_2 4
+    100212: Screw_2 5
+    100214: Screw_2 6
+    100216: Screw_2 7
+    100218: Screw_2 8
+    100220: Screw_2 9
+    100222: Screw_2_Base
+    100224: Screw_2_Base 1
+    100226: Screw_2_Base 10
+    100228: Screw_2_Base 11
+    100230: Screw_2_Base 12
+    100232: Screw_2_Base 13
+    100234: Screw_2_Base 14
+    100236: Screw_2_Base 15
+    100238: Screw_2_Base 16
+    100240: Screw_2_Base 17
+    100242: Screw_2_Base 18
+    100244: Screw_2_Base 19
+    100246: Screw_2_Base 2
+    100248: Screw_2_Base 20
+    100250: Screw_2_Base 21
+    100252: Screw_2_Base 22
+    100254: Screw_2_Base 23
+    100256: Screw_2_Base 24
+    100258: Screw_2_Base 25
+    100260: Screw_2_Base 26
+    100262: Screw_2_Base 27
+    100264: Screw_2_Base 28
+    100266: Screw_2_Base 29
+    100268: Screw_2_Base 3
+    100270: Screw_2_Base 4
+    100272: Screw_2_Base 5
+    100274: Screw_2_Base 6
+    100276: Screw_2_Base 7
+    100278: Screw_2_Base 8
+    100280: Screw_2_Base 9
+    100282: Screw_2_Nut
+    100284: Screw_2_Nut 1
+    100286: Screw_2_Nut 10
+    100288: Screw_2_Nut 11
+    100290: Screw_2_Nut 12
+    100292: Screw_2_Nut 13
+    100294: Screw_2_Nut 14
+    100296: Screw_2_Nut 15
+    100298: Screw_2_Nut 16
+    100300: Screw_2_Nut 17
+    100302: Screw_2_Nut 18
+    100304: Screw_2_Nut 19
+    100306: Screw_2_Nut 2
+    100308: Screw_2_Nut 20
+    100310: Screw_2_Nut 21
+    100312: Screw_2_Nut 22
+    100314: Screw_2_Nut 23
+    100316: Screw_2_Nut 24
+    100318: Screw_2_Nut 25
+    100320: Screw_2_Nut 26
+    100322: Screw_2_Nut 27
+    100324: Screw_2_Nut 28
+    100326: Screw_2_Nut 29
+    100328: Screw_2_Nut 3
+    100330: Screw_2_Nut 4
+    100332: Screw_2_Nut 5
+    100334: Screw_2_Nut 6
+    100336: Screw_2_Nut 7
+    100338: Screw_2_Nut 8
+    100340: Screw_2_Nut 9
+    100342: Screw_2_Washer
+    100344: Screw_2_Washer 1
+    100346: Screw_2_Washer 10
+    100348: Screw_2_Washer 11
+    100350: Screw_2_Washer 12
+    100352: Screw_2_Washer 13
+    100354: Screw_2_Washer 14
+    100356: Screw_2_Washer 15
+    100358: Screw_2_Washer 16
+    100360: Screw_2_Washer 17
+    100362: Screw_2_Washer 18
+    100364: Screw_2_Washer 19
+    100366: Screw_2_Washer 2
+    100368: Screw_2_Washer 20
+    100370: Screw_2_Washer 21
+    100372: Screw_2_Washer 22
+    100374: Screw_2_Washer 23
+    100376: Screw_2_Washer 24
+    100378: Screw_2_Washer 25
+    100380: Screw_2_Washer 26
+    100382: Screw_2_Washer 27
+    100384: Screw_2_Washer 3
+    100386: Screw_2_Washer 4
+    100388: Screw_2_Washer 5
+    100390: Screw_2_Washer 6
+    100392: Screw_2_Washer 7
+    100394: Screw_2_Washer 8
+    100396: Screw_2_Washer 9
+    100398: Screw_2_Washer1
+    100400: Screw_2_Washer1 1
+    100402: Screw_2_Washer1 10
+    100404: Screw_2_Washer1 11
+    100406: Screw_2_Washer1 12
+    100408: Screw_2_Washer1 13
+    100410: Screw_2_Washer1 14
+    100412: Screw_2_Washer1 15
+    100414: Screw_2_Washer1 2
+    100416: Screw_2_Washer1 3
+    100418: Screw_2_Washer1 4
+    100420: Screw_2_Washer1 5
+    100422: Screw_2_Washer1 6
+    100424: Screw_2_Washer1 7
+    100426: Screw_2_Washer1 8
+    100428: Screw_2_Washer1 9
+    100430: Screw_2_Washer_2
+    100432: Screw_2_Washer_2 1
+    100434: Screw_2_Washer_2 10
+    100436: Screw_2_Washer_2 11
+    100438: Screw_2_Washer_2 2
+    100440: Screw_2_Washer_2 3
+    100442: Screw_2_Washer_2 4
+    100444: Screw_2_Washer_2 5
+    100446: Screw_2_Washer_2 6
+    100448: Screw_2_Washer_2 7
+    100450: Screw_2_Washer_2 8
+    100452: Screw_2_Washer_2 9
+    100454: Screw_3
+    100456: Screw_3 1
+    100458: Screw_3 2
+    100460: Screw_3 3
+    100462: Screw_3 4
+    100464: Screw_3 5
+    100466: Screw_3 6
+    100468: Screw_3 7
+    100470: Screw_4
+    100472: Screw_4 1
+    100474: Screw_4 2
+    100476: Screw_4 3
+    100478: Screw_4 4
+    100480: Screw_4 5
+    100482: Screw_4 6
+    100484: Screw_4 7
+    100486: Screw_5
+    100488: Screw_5 1
+    100490: Screw_5 2
+    100492: Screw_5 3
+    100494: Screw_5 4
+    100496: Screw_5 5
+    100498: Screw_5 6
+    100500: Screw_5 7
+    100502: Screw_6
+    100504: Screw_6 1
+    100506: Screw_6 2
+    100508: Screw_6 3
+    100510: Screw_6 4
+    100512: Screw_6 5
+    100514: Screw_6 6
+    100516: Screw_6 7
+    100518: Screw_7
+    100520: Screw_7 1
+    100522: Screw_7 2
+    100524: Screw_7 3
+    100526: Screw_9
+    100528: Screw_9 1
+    100530: Screw_9 2
+    100532: Screw_9 3
+    100534: Screw_9 4
+    100536: Screw_9 5
+    100538: Screw_9 6
+    100540: Screw_9 7
+    100542: Screw_Base
+    100544: Screw_Base 1
+    100546: Screw_Base 10
+    100548: Screw_Base 11
+    100550: Screw_Base 12
+    100552: Screw_Base 13
+    100554: Screw_Base 14
+    100556: Screw_Base 15
+    100558: Screw_Base 16
+    100560: Screw_Base 17
+    100562: Screw_Base 18
+    100564: Screw_Base 19
+    100566: Screw_Base 2
+    100568: Screw_Base 20
+    100570: Screw_Base 21
+    100572: Screw_Base 22
+    100574: Screw_Base 23
+    100576: Screw_Base 24
+    100578: Screw_Base 25
+    100580: Screw_Base 26
+    100582: Screw_Base 27
+    100584: Screw_Base 28
+    100586: Screw_Base 29
+    100588: Screw_Base 3
+    100590: Screw_Base 30
+    100592: Screw_Base 31
+    100594: Screw_Base 32
+    100596: Screw_Base 33
+    100598: Screw_Base 34
+    100600: Screw_Base 35
+    100602: Screw_Base 36
+    100604: Screw_Base 37
+    100606: Screw_Base 38
+    100608: Screw_Base 39
+    100610: Screw_Base 4
+    100612: Screw_Base 40
+    100614: Screw_Base 41
+    100616: Screw_Base 42
+    100618: Screw_Base 43
+    100620: Screw_Base 44
+    100622: Screw_Base 45
+    100624: Screw_Base 46
+    100626: Screw_Base 47
+    100628: Screw_Base 48
+    100630: Screw_Base 49
+    100632: Screw_Base 5
+    100634: Screw_Base 50
+    100636: Screw_Base 51
+    100638: Screw_Base 52
+    100640: Screw_Base 53
+    100642: Screw_Base 54
+    100644: Screw_Base 55
+    100646: Screw_Base 56
+    100648: Screw_Base 57
+    100650: Screw_Base 58
+    100652: Screw_Base 59
+    100654: Screw_Base 6
+    100656: Screw_Base 60
+    100658: Screw_Base 61
+    100660: Screw_Base 62
+    100662: Screw_Base 63
+    100664: Screw_Base 7
+    100666: Screw_Base 8
+    100668: Screw_Base 9
+    100670: Screw_Nut
+    100672: Screw_Nut 1
+    100674: Screw_Nut 10
+    100676: Screw_Nut 11
+    100678: Screw_Nut 12
+    100680: Screw_Nut 13
+    100682: Screw_Nut 14
+    100684: Screw_Nut 15
+    100686: Screw_Nut 16
+    100688: Screw_Nut 17
+    100690: Screw_Nut 18
+    100692: Screw_Nut 19
+    100694: Screw_Nut 2
+    100696: Screw_Nut 20
+    100698: Screw_Nut 21
+    100700: Screw_Nut 22
+    100702: Screw_Nut 23
+    100704: Screw_Nut 24
+    100706: Screw_Nut 25
+    100708: Screw_Nut 26
+    100710: Screw_Nut 27
+    100712: Screw_Nut 28
+    100714: Screw_Nut 29
+    100716: Screw_Nut 3
+    100718: Screw_Nut 30
+    100720: Screw_Nut 31
+    100722: Screw_Nut 32
+    100724: Screw_Nut 33
+    100726: Screw_Nut 34
+    100728: Screw_Nut 35
+    100730: Screw_Nut 36
+    100732: Screw_Nut 37
+    100734: Screw_Nut 38
+    100736: Screw_Nut 39
+    100738: Screw_Nut 4
+    100740: Screw_Nut 40
+    100742: Screw_Nut 41
+    100744: Screw_Nut 42
+    100746: Screw_Nut 43
+    100748: Screw_Nut 44
+    100750: Screw_Nut 45
+    100752: Screw_Nut 46
+    100754: Screw_Nut 47
+    100756: Screw_Nut 48
+    100758: Screw_Nut 49
+    100760: Screw_Nut 5
+    100762: Screw_Nut 50
+    100764: Screw_Nut 51
+    100766: Screw_Nut 52
+    100768: Screw_Nut 53
+    100770: Screw_Nut 54
+    100772: Screw_Nut 55
+    100774: Screw_Nut 56
+    100776: Screw_Nut 57
+    100778: Screw_Nut 58
+    100780: Screw_Nut 59
+    100782: Screw_Nut 6
+    100784: Screw_Nut 60
+    100786: Screw_Nut 61
+    100788: Screw_Nut 62
+    100790: Screw_Nut 63
+    100792: Screw_Nut 7
+    100794: Screw_Nut 8
+    100796: Screw_Nut 9
+    100798: Screw_T1_Grp
+    100800: Screw_T1_Grp 1
+    100802: Screw_T1_Grp 2
+    100804: Screw_T1_Grp 3
+    100806: Screw_T2_Grp
+    100808: Screw_T2_Grp 1
+    100810: Screw_T3_Grp
+    100812: Screw_T3_Grp 1
+    100814: Screw_T3_Grp 2
+    100816: Screw_T3_Grp 3
+    100818: Screw_T4_Grp
+    100820: Screw_T4_Grp 1
+    100822: Screw_T4_Grp 2
+    100824: Screw_T4_Grp 3
+    100826: Screw_T5_Grp
+    100828: Screw_T5_Grp 1
+    100830: Screw_T5_Grp 2
+    100832: Screw_T5_Grp 3
+    100834: Screw_T6_Grp
+    100836: Screw_T6_Grp 1
+    100838: Screw_T6_Grp 2
+    100840: Screw_T6_Grp 3
+    100842: Screw_T7_Grp
+    100844: Screw_T7_Grp 1
+    100846: Screw_Threads_L1
+    100848: Screw_Threads_L1 1
+    100850: Screw_Threads_L1 2
+    100852: Screw_Threads_L1 3
+    100854: Screw_Threads_L10
+    100856: Screw_Threads_L10 1
+    100858: Screw_Threads_L10 2
+    100860: Screw_Threads_L10 3
+    100862: Screw_Threads_L11
+    100864: Screw_Threads_L11 1
+    100866: Screw_Threads_L11 2
+    100868: Screw_Threads_L11 3
+    100870: Screw_Threads_L12
+    100872: Screw_Threads_L12 1
+    100874: Screw_Threads_L12 2
+    100876: Screw_Threads_L12 3
+    100878: Screw_Threads_L13
+    100880: Screw_Threads_L13 1
+    100882: Screw_Threads_L13 2
+    100884: Screw_Threads_L13 3
+    100886: Screw_Threads_L14
+    100888: Screw_Threads_L14 1
+    100890: Screw_Threads_L14 2
+    100892: Screw_Threads_L14 3
+    100894: Screw_Threads_L15
+    100896: Screw_Threads_L15 1
+    100898: Screw_Threads_L15 2
+    100900: Screw_Threads_L15 3
+    100902: Screw_Threads_L16
+    100904: Screw_Threads_L16 1
+    100906: Screw_Threads_L16 2
+    100908: Screw_Threads_L16 3
+    100910: Screw_Threads_L17
+    100912: Screw_Threads_L17 1
+    100914: Screw_Threads_L17 2
+    100916: Screw_Threads_L17 3
+    100918: Screw_Threads_L18
+    100920: Screw_Threads_L18 1
+    100922: Screw_Threads_L18 2
+    100924: Screw_Threads_L18 3
+    100926: Screw_Threads_L19
+    100928: Screw_Threads_L19 1
+    100930: Screw_Threads_L19 2
+    100932: Screw_Threads_L19 3
+    100934: Screw_Threads_L2
+    100936: Screw_Threads_L2 1
+    100938: Screw_Threads_L2 2
+    100940: Screw_Threads_L2 3
+    100942: Screw_Threads_L20
+    100944: Screw_Threads_L20 1
+    100946: Screw_Threads_L20 2
+    100948: Screw_Threads_L20 3
+    100950: Screw_Threads_L21
+    100952: Screw_Threads_L21 1
+    100954: Screw_Threads_L21 2
+    100956: Screw_Threads_L21 3
+    100958: Screw_Threads_L22
+    100960: Screw_Threads_L22 1
+    100962: Screw_Threads_L22 2
+    100964: Screw_Threads_L22 3
+    100966: Screw_Threads_L23
+    100968: Screw_Threads_L23 1
+    100970: Screw_Threads_L23 2
+    100972: Screw_Threads_L23 3
+    100974: Screw_Threads_L24
+    100976: Screw_Threads_L24 1
+    100978: Screw_Threads_L24 2
+    100980: Screw_Threads_L24 3
+    100982: Screw_Threads_L25
+    100984: Screw_Threads_L25 1
+    100986: Screw_Threads_L3
+    100988: Screw_Threads_L3 1
+    100990: Screw_Threads_L3 2
+    100992: Screw_Threads_L3 3
+    100994: Screw_Threads_L4
+    100996: Screw_Threads_L4 1
+    100998: Screw_Threads_L4 2
+    101000: Screw_Threads_L4 3
+    101002: Screw_Threads_L5
+    101004: Screw_Threads_L5 1
+    101006: Screw_Threads_L5 2
+    101008: Screw_Threads_L5 3
+    101010: Screw_Threads_L6
+    101012: Screw_Threads_L6 1
+    101014: Screw_Threads_L6 2
+    101016: Screw_Threads_L6 3
+    101018: Screw_Threads_L7
+    101020: Screw_Threads_L7 1
+    101022: Screw_Threads_L7 2
+    101024: Screw_Threads_L7 3
+    101026: Screw_Threads_L8
+    101028: Screw_Threads_L8 1
+    101030: Screw_Threads_L9
+    101032: Screw_Threads_L9 1
+    101034: Screw_Tube
+    101036: Screw_Tube 1
+    101038: Screw_Tube 2
+    101040: Screw_Tube 3
+    101042: Screws_Grp
+    101044: Screws_Grp 1
+    101046: Screws_Middle_Grp
+    101048: Screws_Middle_Grp 1
+    101050: Screws_Side_1_Grp
+    101052: Screws_Side_1_Grp 1
+    101054: Screws_Side_2_Grp
+    101056: Screws_Side_2_Grp 1
+    101058: Side_1_Grp
+    101060: Side_2_Grp
+    101062: Supp_1
+    101064: Supp_1 1
+    101066: Supp_1_2
+    101068: Supp_1_2 1
+    101070: Supp_2
+    101072: Supp_2 1
+    101074: Supp_3
+    101076: Supp_3 1
+    101078: Supp_4
+    101080: Supp_4 1
+    101082: Supp_5
+    101084: Supp_5 1
+    101086: Supp_6
+    101088: Supp_6 1
+    101090: Supp_Side_1
+    101092: Supp_Side_1 1
+    101094: Supp_Side_2
+    101096: Supp_Side_2 1
+    101098: Suspension_T1_1
+    101100: Suspension_T1_1 1
+    101102: Suspension_T1_2
+    101104: Suspension_T1_2 1
+    101106: Top_Arm_Middle
+    101108: Top_Arm_Middle 1
+    101110: Top_Arm_Side
+    101112: Top_Arm_Side 1
+    101114: Washer_1
+    101116: Washer_1 1
+    101118: Washer_2
+    101120: Washer_2 1
+    101122: Washer_Arm_1
+    101124: Washer_Arm_1 1
+    400000: Arm_1
+    400002: Arm_1 1
+    400004: Arm_Base
+    400006: Arm_Base 1
+    400008: Arm_Base 2
+    400010: Arm_Base 3
+    400012: Arm_Tread_1
+    400014: Arm_Tread_1 1
+    400016: Arm_Tread_1 2
+    400018: Arm_Tread_1 3
+    400020: Arm_Tread_2
+    400022: Arm_Tread_2 1
+    400024: Arm_Tread_5
+    400026: Arm_Tread_5 1
+    400028: Arm_Tread_6
+    400030: Arm_Tread_6 1
+    400032: Arm_Tread_7
+    400034: Arm_Tread_7 1
+    400036: Bearing_Base
+    400038: Bearing_Base 1
+    400040: Bot_Bearing
+    400042: Bot_Bearing 1
+    400044: Bot_Bearing 2
+    400046: Bot_Bearing 3
+    400048: Bot_Bearing_1_Grp
+    400050: Bot_Bearing_1_Grp 1
+    400052: Bot_Bearing_2_Grp
+    400054: Bot_Bearing_2_Grp 1
+    400056: Bot_Bearing_Supp_1
+    400058: Bot_Bearing_Supp_1 1
+    400060: Bot_Bearing_Supp_1 2
+    400062: Bot_Bearing_Supp_1 3
+    400064: Bot_Part_1
+    400066: Bot_Part_1 1
+    400068: Bot_Tread_1
+    400070: Bot_Tread_1 1
+    400072: Bot_Tread_1 2
+    400074: Bot_Tread_1 3
+    400076: Cylinder_1
+    400078: Cylinder_1 1
+    400080: //RootNode
+    400082: Joint_Base
+    400084: Joint_Base 1
+    400086: Joint_Base 2
+    400088: Joint_Base 3
+    400090: Middle_Parts_Grp
+    400092: Middle_Parts_Grp 1
+    400094: Middle_Supp_1
+    400096: Middle_Supp_1 1
+    400098: Nut_1
+    400100: Nut_1 1
+    400102: Nut_2
+    400104: Nut_2 1
+    400106: Plate_1
+    400108: Plate_1 1
+    400110: Plate_2
+    400112: Plate_2 1
+    400114: Plate_3
+    400116: Plate_3 1
+    400118: Screw_1
+    400120: Screw_1 1
+    400122: Screw_1 10
+    400124: Screw_1 11
+    400126: Screw_1 12
+    400128: Screw_1 13
+    400130: Screw_1 14
+    400132: Screw_1 15
+    400134: Screw_1 16
+    400136: Screw_1 17
+    400138: Screw_1 18
+    400140: Screw_1 19
+    400142: Screw_1 2
+    400144: Screw_1 20
+    400146: Screw_1 21
+    400148: Screw_1 3
+    400150: Screw_1 4
+    400152: Screw_1 5
+    400154: Screw_1 6
+    400156: Screw_1 7
+    400158: Screw_1 8
+    400160: Screw_1 9
+    400162: Screw_10
+    400164: Screw_10 1
+    400166: Screw_10 2
+    400168: Screw_10 3
+    400170: Screw_11
+    400172: Screw_11 1
+    400174: Screw_11 2
+    400176: Screw_11 3
+    400178: Screw_12
+    400180: Screw_12 1
+    400182: Screw_12 2
+    400184: Screw_12 3
+    400186: Screw_2
+    400188: Screw_2 1
+    400190: Screw_2 10
+    400192: Screw_2 11
+    400194: Screw_2 12
+    400196: Screw_2 13
+    400198: Screw_2 14
+    400200: Screw_2 15
+    400202: Screw_2 16
+    400204: Screw_2 17
+    400206: Screw_2 2
+    400208: Screw_2 3
+    400210: Screw_2 4
+    400212: Screw_2 5
+    400214: Screw_2 6
+    400216: Screw_2 7
+    400218: Screw_2 8
+    400220: Screw_2 9
+    400222: Screw_2_Base
+    400224: Screw_2_Base 1
+    400226: Screw_2_Base 10
+    400228: Screw_2_Base 11
+    400230: Screw_2_Base 12
+    400232: Screw_2_Base 13
+    400234: Screw_2_Base 14
+    400236: Screw_2_Base 15
+    400238: Screw_2_Base 16
+    400240: Screw_2_Base 17
+    400242: Screw_2_Base 18
+    400244: Screw_2_Base 19
+    400246: Screw_2_Base 2
+    400248: Screw_2_Base 20
+    400250: Screw_2_Base 21
+    400252: Screw_2_Base 22
+    400254: Screw_2_Base 23
+    400256: Screw_2_Base 24
+    400258: Screw_2_Base 25
+    400260: Screw_2_Base 26
+    400262: Screw_2_Base 27
+    400264: Screw_2_Base 28
+    400266: Screw_2_Base 29
+    400268: Screw_2_Base 3
+    400270: Screw_2_Base 4
+    400272: Screw_2_Base 5
+    400274: Screw_2_Base 6
+    400276: Screw_2_Base 7
+    400278: Screw_2_Base 8
+    400280: Screw_2_Base 9
+    400282: Screw_2_Nut
+    400284: Screw_2_Nut 1
+    400286: Screw_2_Nut 10
+    400288: Screw_2_Nut 11
+    400290: Screw_2_Nut 12
+    400292: Screw_2_Nut 13
+    400294: Screw_2_Nut 14
+    400296: Screw_2_Nut 15
+    400298: Screw_2_Nut 16
+    400300: Screw_2_Nut 17
+    400302: Screw_2_Nut 18
+    400304: Screw_2_Nut 19
+    400306: Screw_2_Nut 2
+    400308: Screw_2_Nut 20
+    400310: Screw_2_Nut 21
+    400312: Screw_2_Nut 22
+    400314: Screw_2_Nut 23
+    400316: Screw_2_Nut 24
+    400318: Screw_2_Nut 25
+    400320: Screw_2_Nut 26
+    400322: Screw_2_Nut 27
+    400324: Screw_2_Nut 28
+    400326: Screw_2_Nut 29
+    400328: Screw_2_Nut 3
+    400330: Screw_2_Nut 4
+    400332: Screw_2_Nut 5
+    400334: Screw_2_Nut 6
+    400336: Screw_2_Nut 7
+    400338: Screw_2_Nut 8
+    400340: Screw_2_Nut 9
+    400342: Screw_2_Washer
+    400344: Screw_2_Washer 1
+    400346: Screw_2_Washer 10
+    400348: Screw_2_Washer 11
+    400350: Screw_2_Washer 12
+    400352: Screw_2_Washer 13
+    400354: Screw_2_Washer 14
+    400356: Screw_2_Washer 15
+    400358: Screw_2_Washer 16
+    400360: Screw_2_Washer 17
+    400362: Screw_2_Washer 18
+    400364: Screw_2_Washer 19
+    400366: Screw_2_Washer 2
+    400368: Screw_2_Washer 20
+    400370: Screw_2_Washer 21
+    400372: Screw_2_Washer 22
+    400374: Screw_2_Washer 23
+    400376: Screw_2_Washer 24
+    400378: Screw_2_Washer 25
+    400380: Screw_2_Washer 26
+    400382: Screw_2_Washer 27
+    400384: Screw_2_Washer 3
+    400386: Screw_2_Washer 4
+    400388: Screw_2_Washer 5
+    400390: Screw_2_Washer 6
+    400392: Screw_2_Washer 7
+    400394: Screw_2_Washer 8
+    400396: Screw_2_Washer 9
+    400398: Screw_2_Washer1
+    400400: Screw_2_Washer1 1
+    400402: Screw_2_Washer1 10
+    400404: Screw_2_Washer1 11
+    400406: Screw_2_Washer1 12
+    400408: Screw_2_Washer1 13
+    400410: Screw_2_Washer1 14
+    400412: Screw_2_Washer1 15
+    400414: Screw_2_Washer1 2
+    400416: Screw_2_Washer1 3
+    400418: Screw_2_Washer1 4
+    400420: Screw_2_Washer1 5
+    400422: Screw_2_Washer1 6
+    400424: Screw_2_Washer1 7
+    400426: Screw_2_Washer1 8
+    400428: Screw_2_Washer1 9
+    400430: Screw_2_Washer_2
+    400432: Screw_2_Washer_2 1
+    400434: Screw_2_Washer_2 10
+    400436: Screw_2_Washer_2 11
+    400438: Screw_2_Washer_2 2
+    400440: Screw_2_Washer_2 3
+    400442: Screw_2_Washer_2 4
+    400444: Screw_2_Washer_2 5
+    400446: Screw_2_Washer_2 6
+    400448: Screw_2_Washer_2 7
+    400450: Screw_2_Washer_2 8
+    400452: Screw_2_Washer_2 9
+    400454: Screw_3
+    400456: Screw_3 1
+    400458: Screw_3 2
+    400460: Screw_3 3
+    400462: Screw_3 4
+    400464: Screw_3 5
+    400466: Screw_3 6
+    400468: Screw_3 7
+    400470: Screw_4
+    400472: Screw_4 1
+    400474: Screw_4 2
+    400476: Screw_4 3
+    400478: Screw_4 4
+    400480: Screw_4 5
+    400482: Screw_4 6
+    400484: Screw_4 7
+    400486: Screw_5
+    400488: Screw_5 1
+    400490: Screw_5 2
+    400492: Screw_5 3
+    400494: Screw_5 4
+    400496: Screw_5 5
+    400498: Screw_5 6
+    400500: Screw_5 7
+    400502: Screw_6
+    400504: Screw_6 1
+    400506: Screw_6 2
+    400508: Screw_6 3
+    400510: Screw_6 4
+    400512: Screw_6 5
+    400514: Screw_6 6
+    400516: Screw_6 7
+    400518: Screw_7
+    400520: Screw_7 1
+    400522: Screw_7 2
+    400524: Screw_7 3
+    400526: Screw_9
+    400528: Screw_9 1
+    400530: Screw_9 2
+    400532: Screw_9 3
+    400534: Screw_9 4
+    400536: Screw_9 5
+    400538: Screw_9 6
+    400540: Screw_9 7
+    400542: Screw_Base
+    400544: Screw_Base 1
+    400546: Screw_Base 10
+    400548: Screw_Base 11
+    400550: Screw_Base 12
+    400552: Screw_Base 13
+    400554: Screw_Base 14
+    400556: Screw_Base 15
+    400558: Screw_Base 16
+    400560: Screw_Base 17
+    400562: Screw_Base 18
+    400564: Screw_Base 19
+    400566: Screw_Base 2
+    400568: Screw_Base 20
+    400570: Screw_Base 21
+    400572: Screw_Base 22
+    400574: Screw_Base 23
+    400576: Screw_Base 24
+    400578: Screw_Base 25
+    400580: Screw_Base 26
+    400582: Screw_Base 27
+    400584: Screw_Base 28
+    400586: Screw_Base 29
+    400588: Screw_Base 3
+    400590: Screw_Base 30
+    400592: Screw_Base 31
+    400594: Screw_Base 32
+    400596: Screw_Base 33
+    400598: Screw_Base 34
+    400600: Screw_Base 35
+    400602: Screw_Base 36
+    400604: Screw_Base 37
+    400606: Screw_Base 38
+    400608: Screw_Base 39
+    400610: Screw_Base 4
+    400612: Screw_Base 40
+    400614: Screw_Base 41
+    400616: Screw_Base 42
+    400618: Screw_Base 43
+    400620: Screw_Base 44
+    400622: Screw_Base 45
+    400624: Screw_Base 46
+    400626: Screw_Base 47
+    400628: Screw_Base 48
+    400630: Screw_Base 49
+    400632: Screw_Base 5
+    400634: Screw_Base 50
+    400636: Screw_Base 51
+    400638: Screw_Base 52
+    400640: Screw_Base 53
+    400642: Screw_Base 54
+    400644: Screw_Base 55
+    400646: Screw_Base 56
+    400648: Screw_Base 57
+    400650: Screw_Base 58
+    400652: Screw_Base 59
+    400654: Screw_Base 6
+    400656: Screw_Base 60
+    400658: Screw_Base 61
+    400660: Screw_Base 62
+    400662: Screw_Base 63
+    400664: Screw_Base 7
+    400666: Screw_Base 8
+    400668: Screw_Base 9
+    400670: Screw_Nut
+    400672: Screw_Nut 1
+    400674: Screw_Nut 10
+    400676: Screw_Nut 11
+    400678: Screw_Nut 12
+    400680: Screw_Nut 13
+    400682: Screw_Nut 14
+    400684: Screw_Nut 15
+    400686: Screw_Nut 16
+    400688: Screw_Nut 17
+    400690: Screw_Nut 18
+    400692: Screw_Nut 19
+    400694: Screw_Nut 2
+    400696: Screw_Nut 20
+    400698: Screw_Nut 21
+    400700: Screw_Nut 22
+    400702: Screw_Nut 23
+    400704: Screw_Nut 24
+    400706: Screw_Nut 25
+    400708: Screw_Nut 26
+    400710: Screw_Nut 27
+    400712: Screw_Nut 28
+    400714: Screw_Nut 29
+    400716: Screw_Nut 3
+    400718: Screw_Nut 30
+    400720: Screw_Nut 31
+    400722: Screw_Nut 32
+    400724: Screw_Nut 33
+    400726: Screw_Nut 34
+    400728: Screw_Nut 35
+    400730: Screw_Nut 36
+    400732: Screw_Nut 37
+    400734: Screw_Nut 38
+    400736: Screw_Nut 39
+    400738: Screw_Nut 4
+    400740: Screw_Nut 40
+    400742: Screw_Nut 41
+    400744: Screw_Nut 42
+    400746: Screw_Nut 43
+    400748: Screw_Nut 44
+    400750: Screw_Nut 45
+    400752: Screw_Nut 46
+    400754: Screw_Nut 47
+    400756: Screw_Nut 48
+    400758: Screw_Nut 49
+    400760: Screw_Nut 5
+    400762: Screw_Nut 50
+    400764: Screw_Nut 51
+    400766: Screw_Nut 52
+    400768: Screw_Nut 53
+    400770: Screw_Nut 54
+    400772: Screw_Nut 55
+    400774: Screw_Nut 56
+    400776: Screw_Nut 57
+    400778: Screw_Nut 58
+    400780: Screw_Nut 59
+    400782: Screw_Nut 6
+    400784: Screw_Nut 60
+    400786: Screw_Nut 61
+    400788: Screw_Nut 62
+    400790: Screw_Nut 63
+    400792: Screw_Nut 7
+    400794: Screw_Nut 8
+    400796: Screw_Nut 9
+    400798: Screw_T1_Grp
+    400800: Screw_T1_Grp 1
+    400802: Screw_T1_Grp 2
+    400804: Screw_T1_Grp 3
+    400806: Screw_T2_Grp
+    400808: Screw_T2_Grp 1
+    400810: Screw_T3_Grp
+    400812: Screw_T3_Grp 1
+    400814: Screw_T3_Grp 2
+    400816: Screw_T3_Grp 3
+    400818: Screw_T4_Grp
+    400820: Screw_T4_Grp 1
+    400822: Screw_T4_Grp 2
+    400824: Screw_T4_Grp 3
+    400826: Screw_T5_Grp
+    400828: Screw_T5_Grp 1
+    400830: Screw_T5_Grp 2
+    400832: Screw_T5_Grp 3
+    400834: Screw_T6_Grp
+    400836: Screw_T6_Grp 1
+    400838: Screw_T6_Grp 2
+    400840: Screw_T6_Grp 3
+    400842: Screw_T7_Grp
+    400844: Screw_T7_Grp 1
+    400846: Screw_Threads_L1
+    400848: Screw_Threads_L1 1
+    400850: Screw_Threads_L1 2
+    400852: Screw_Threads_L1 3
+    400854: Screw_Threads_L10
+    400856: Screw_Threads_L10 1
+    400858: Screw_Threads_L10 2
+    400860: Screw_Threads_L10 3
+    400862: Screw_Threads_L11
+    400864: Screw_Threads_L11 1
+    400866: Screw_Threads_L11 2
+    400868: Screw_Threads_L11 3
+    400870: Screw_Threads_L12
+    400872: Screw_Threads_L12 1
+    400874: Screw_Threads_L12 2
+    400876: Screw_Threads_L12 3
+    400878: Screw_Threads_L13
+    400880: Screw_Threads_L13 1
+    400882: Screw_Threads_L13 2
+    400884: Screw_Threads_L13 3
+    400886: Screw_Threads_L14
+    400888: Screw_Threads_L14 1
+    400890: Screw_Threads_L14 2
+    400892: Screw_Threads_L14 3
+    400894: Screw_Threads_L15
+    400896: Screw_Threads_L15 1
+    400898: Screw_Threads_L15 2
+    400900: Screw_Threads_L15 3
+    400902: Screw_Threads_L16
+    400904: Screw_Threads_L16 1
+    400906: Screw_Threads_L16 2
+    400908: Screw_Threads_L16 3
+    400910: Screw_Threads_L17
+    400912: Screw_Threads_L17 1
+    400914: Screw_Threads_L17 2
+    400916: Screw_Threads_L17 3
+    400918: Screw_Threads_L18
+    400920: Screw_Threads_L18 1
+    400922: Screw_Threads_L18 2
+    400924: Screw_Threads_L18 3
+    400926: Screw_Threads_L19
+    400928: Screw_Threads_L19 1
+    400930: Screw_Threads_L19 2
+    400932: Screw_Threads_L19 3
+    400934: Screw_Threads_L2
+    400936: Screw_Threads_L2 1
+    400938: Screw_Threads_L2 2
+    400940: Screw_Threads_L2 3
+    400942: Screw_Threads_L20
+    400944: Screw_Threads_L20 1
+    400946: Screw_Threads_L20 2
+    400948: Screw_Threads_L20 3
+    400950: Screw_Threads_L21
+    400952: Screw_Threads_L21 1
+    400954: Screw_Threads_L21 2
+    400956: Screw_Threads_L21 3
+    400958: Screw_Threads_L22
+    400960: Screw_Threads_L22 1
+    400962: Screw_Threads_L22 2
+    400964: Screw_Threads_L22 3
+    400966: Screw_Threads_L23
+    400968: Screw_Threads_L23 1
+    400970: Screw_Threads_L23 2
+    400972: Screw_Threads_L23 3
+    400974: Screw_Threads_L24
+    400976: Screw_Threads_L24 1
+    400978: Screw_Threads_L24 2
+    400980: Screw_Threads_L24 3
+    400982: Screw_Threads_L25
+    400984: Screw_Threads_L25 1
+    400986: Screw_Threads_L3
+    400988: Screw_Threads_L3 1
+    400990: Screw_Threads_L3 2
+    400992: Screw_Threads_L3 3
+    400994: Screw_Threads_L4
+    400996: Screw_Threads_L4 1
+    400998: Screw_Threads_L4 2
+    401000: Screw_Threads_L4 3
+    401002: Screw_Threads_L5
+    401004: Screw_Threads_L5 1
+    401006: Screw_Threads_L5 2
+    401008: Screw_Threads_L5 3
+    401010: Screw_Threads_L6
+    401012: Screw_Threads_L6 1
+    401014: Screw_Threads_L6 2
+    401016: Screw_Threads_L6 3
+    401018: Screw_Threads_L7
+    401020: Screw_Threads_L7 1
+    401022: Screw_Threads_L7 2
+    401024: Screw_Threads_L7 3
+    401026: Screw_Threads_L8
+    401028: Screw_Threads_L8 1
+    401030: Screw_Threads_L9
+    401032: Screw_Threads_L9 1
+    401034: Screw_Tube
+    401036: Screw_Tube 1
+    401038: Screw_Tube 2
+    401040: Screw_Tube 3
+    401042: Screws_Grp
+    401044: Screws_Grp 1
+    401046: Screws_Middle_Grp
+    401048: Screws_Middle_Grp 1
+    401050: Screws_Side_1_Grp
+    401052: Screws_Side_1_Grp 1
+    401054: Screws_Side_2_Grp
+    401056: Screws_Side_2_Grp 1
+    401058: Side_1_Grp
+    401060: Side_2_Grp
+    401062: Supp_1
+    401064: Supp_1 1
+    401066: Supp_1_2
+    401068: Supp_1_2 1
+    401070: Supp_2
+    401072: Supp_2 1
+    401074: Supp_3
+    401076: Supp_3 1
+    401078: Supp_4
+    401080: Supp_4 1
+    401082: Supp_5
+    401084: Supp_5 1
+    401086: Supp_6
+    401088: Supp_6 1
+    401090: Supp_Side_1
+    401092: Supp_Side_1 1
+    401094: Supp_Side_2
+    401096: Supp_Side_2 1
+    401098: Suspension_T1_1
+    401100: Suspension_T1_1 1
+    401102: Suspension_T1_2
+    401104: Suspension_T1_2 1
+    401106: Top_Arm_Middle
+    401108: Top_Arm_Middle 1
+    401110: Top_Arm_Side
+    401112: Top_Arm_Side 1
+    401114: Washer_1
+    401116: Washer_1 1
+    401118: Washer_2
+    401120: Washer_2 1
+    401122: Washer_Arm_1
+    401124: Washer_Arm_1 1
+    2100000: GsMetal_Red_Mat
+    2100002: Plastic_Grey_Mat
+    2100004: GsMetal_Aluminium_Mat
+    2100006: Screws_Threads_Mat
+    2300000: Arm_1
+    2300002: Arm_1 1
+    2300004: Arm_Base
+    2300006: Arm_Base 1
+    2300008: Arm_Base 2
+    2300010: Arm_Base 3
+    2300012: Arm_Tread_1
+    2300014: Arm_Tread_1 1
+    2300016: Arm_Tread_1 2
+    2300018: Arm_Tread_1 3
+    2300020: Arm_Tread_2
+    2300022: Arm_Tread_2 1
+    2300024: Arm_Tread_5
+    2300026: Arm_Tread_5 1
+    2300028: Arm_Tread_6
+    2300030: Arm_Tread_6 1
+    2300032: Arm_Tread_7
+    2300034: Arm_Tread_7 1
+    2300036: Bearing_Base
+    2300038: Bearing_Base 1
+    2300040: Bot_Bearing
+    2300042: Bot_Bearing 1
+    2300044: Bot_Bearing 2
+    2300046: Bot_Bearing 3
+    2300048: Bot_Bearing_Supp_1
+    2300050: Bot_Bearing_Supp_1 1
+    2300052: Bot_Bearing_Supp_1 2
+    2300054: Bot_Bearing_Supp_1 3
+    2300056: Bot_Part_1
+    2300058: Bot_Part_1 1
+    2300060: Bot_Tread_1
+    2300062: Bot_Tread_1 1
+    2300064: Bot_Tread_1 2
+    2300066: Bot_Tread_1 3
+    2300068: Cylinder_1
+    2300070: Cylinder_1 1
+    2300072: Joint_Base
+    2300074: Joint_Base 1
+    2300076: Joint_Base 2
+    2300078: Joint_Base 3
+    2300080: Middle_Supp_1
+    2300082: Middle_Supp_1 1
+    2300084: Nut_1
+    2300086: Nut_1 1
+    2300088: Nut_2
+    2300090: Nut_2 1
+    2300092: Plate_1
+    2300094: Plate_1 1
+    2300096: Plate_2
+    2300098: Plate_2 1
+    2300100: Plate_3
+    2300102: Plate_3 1
+    2300104: Screw_1
+    2300106: Screw_1 1
+    2300108: Screw_2_Base
+    2300110: Screw_2_Base 1
+    2300112: Screw_2_Base 10
+    2300114: Screw_2_Base 11
+    2300116: Screw_2_Base 12
+    2300118: Screw_2_Base 13
+    2300120: Screw_2_Base 14
+    2300122: Screw_2_Base 15
+    2300124: Screw_2_Base 16
+    2300126: Screw_2_Base 17
+    2300128: Screw_2_Base 18
+    2300130: Screw_2_Base 19
+    2300132: Screw_2_Base 2
+    2300134: Screw_2_Base 20
+    2300136: Screw_2_Base 21
+    2300138: Screw_2_Base 22
+    2300140: Screw_2_Base 23
+    2300142: Screw_2_Base 24
+    2300144: Screw_2_Base 25
+    2300146: Screw_2_Base 26
+    2300148: Screw_2_Base 27
+    2300150: Screw_2_Base 28
+    2300152: Screw_2_Base 29
+    2300154: Screw_2_Base 3
+    2300156: Screw_2_Base 4
+    2300158: Screw_2_Base 5
+    2300160: Screw_2_Base 6
+    2300162: Screw_2_Base 7
+    2300164: Screw_2_Base 8
+    2300166: Screw_2_Base 9
+    2300168: Screw_2_Nut
+    2300170: Screw_2_Nut 1
+    2300172: Screw_2_Nut 10
+    2300174: Screw_2_Nut 11
+    2300176: Screw_2_Nut 12
+    2300178: Screw_2_Nut 13
+    2300180: Screw_2_Nut 14
+    2300182: Screw_2_Nut 15
+    2300184: Screw_2_Nut 16
+    2300186: Screw_2_Nut 17
+    2300188: Screw_2_Nut 18
+    2300190: Screw_2_Nut 19
+    2300192: Screw_2_Nut 2
+    2300194: Screw_2_Nut 20
+    2300196: Screw_2_Nut 21
+    2300198: Screw_2_Nut 22
+    2300200: Screw_2_Nut 23
+    2300202: Screw_2_Nut 24
+    2300204: Screw_2_Nut 25
+    2300206: Screw_2_Nut 26
+    2300208: Screw_2_Nut 27
+    2300210: Screw_2_Nut 28
+    2300212: Screw_2_Nut 29
+    2300214: Screw_2_Nut 3
+    2300216: Screw_2_Nut 4
+    2300218: Screw_2_Nut 5
+    2300220: Screw_2_Nut 6
+    2300222: Screw_2_Nut 7
+    2300224: Screw_2_Nut 8
+    2300226: Screw_2_Nut 9
+    2300228: Screw_2_Washer
+    2300230: Screw_2_Washer 1
+    2300232: Screw_2_Washer 10
+    2300234: Screw_2_Washer 11
+    2300236: Screw_2_Washer 12
+    2300238: Screw_2_Washer 13
+    2300240: Screw_2_Washer 14
+    2300242: Screw_2_Washer 15
+    2300244: Screw_2_Washer 16
+    2300246: Screw_2_Washer 17
+    2300248: Screw_2_Washer 18
+    2300250: Screw_2_Washer 19
+    2300252: Screw_2_Washer 2
+    2300254: Screw_2_Washer 20
+    2300256: Screw_2_Washer 21
+    2300258: Screw_2_Washer 22
+    2300260: Screw_2_Washer 23
+    2300262: Screw_2_Washer 24
+    2300264: Screw_2_Washer 25
+    2300266: Screw_2_Washer 26
+    2300268: Screw_2_Washer 27
+    2300270: Screw_2_Washer 3
+    2300272: Screw_2_Washer 4
+    2300274: Screw_2_Washer 5
+    2300276: Screw_2_Washer 6
+    2300278: Screw_2_Washer 7
+    2300280: Screw_2_Washer 8
+    2300282: Screw_2_Washer 9
+    2300284: Screw_2_Washer1
+    2300286: Screw_2_Washer1 1
+    2300288: Screw_2_Washer1 10
+    2300290: Screw_2_Washer1 11
+    2300292: Screw_2_Washer1 12
+    2300294: Screw_2_Washer1 13
+    2300296: Screw_2_Washer1 14
+    2300298: Screw_2_Washer1 15
+    2300300: Screw_2_Washer1 2
+    2300302: Screw_2_Washer1 3
+    2300304: Screw_2_Washer1 4
+    2300306: Screw_2_Washer1 5
+    2300308: Screw_2_Washer1 6
+    2300310: Screw_2_Washer1 7
+    2300312: Screw_2_Washer1 8
+    2300314: Screw_2_Washer1 9
+    2300316: Screw_2_Washer_2
+    2300318: Screw_2_Washer_2 1
+    2300320: Screw_2_Washer_2 10
+    2300322: Screw_2_Washer_2 11
+    2300324: Screw_2_Washer_2 2
+    2300326: Screw_2_Washer_2 3
+    2300328: Screw_2_Washer_2 4
+    2300330: Screw_2_Washer_2 5
+    2300332: Screw_2_Washer_2 6
+    2300334: Screw_2_Washer_2 7
+    2300336: Screw_2_Washer_2 8
+    2300338: Screw_2_Washer_2 9
+    2300340: Screw_Base
+    2300342: Screw_Base 1
+    2300344: Screw_Base 10
+    2300346: Screw_Base 11
+    2300348: Screw_Base 12
+    2300350: Screw_Base 13
+    2300352: Screw_Base 14
+    2300354: Screw_Base 15
+    2300356: Screw_Base 16
+    2300358: Screw_Base 17
+    2300360: Screw_Base 18
+    2300362: Screw_Base 19
+    2300364: Screw_Base 2
+    2300366: Screw_Base 20
+    2300368: Screw_Base 21
+    2300370: Screw_Base 22
+    2300372: Screw_Base 23
+    2300374: Screw_Base 24
+    2300376: Screw_Base 25
+    2300378: Screw_Base 26
+    2300380: Screw_Base 27
+    2300382: Screw_Base 28
+    2300384: Screw_Base 29
+    2300386: Screw_Base 3
+    2300388: Screw_Base 30
+    2300390: Screw_Base 31
+    2300392: Screw_Base 32
+    2300394: Screw_Base 33
+    2300396: Screw_Base 34
+    2300398: Screw_Base 35
+    2300400: Screw_Base 36
+    2300402: Screw_Base 37
+    2300404: Screw_Base 38
+    2300406: Screw_Base 39
+    2300408: Screw_Base 4
+    2300410: Screw_Base 40
+    2300412: Screw_Base 41
+    2300414: Screw_Base 42
+    2300416: Screw_Base 43
+    2300418: Screw_Base 44
+    2300420: Screw_Base 45
+    2300422: Screw_Base 46
+    2300424: Screw_Base 47
+    2300426: Screw_Base 48
+    2300428: Screw_Base 49
+    2300430: Screw_Base 5
+    2300432: Screw_Base 50
+    2300434: Screw_Base 51
+    2300436: Screw_Base 52
+    2300438: Screw_Base 53
+    2300440: Screw_Base 54
+    2300442: Screw_Base 55
+    2300444: Screw_Base 56
+    2300446: Screw_Base 57
+    2300448: Screw_Base 58
+    2300450: Screw_Base 59
+    2300452: Screw_Base 6
+    2300454: Screw_Base 60
+    2300456: Screw_Base 61
+    2300458: Screw_Base 62
+    2300460: Screw_Base 63
+    2300462: Screw_Base 7
+    2300464: Screw_Base 8
+    2300466: Screw_Base 9
+    2300468: Screw_Nut
+    2300470: Screw_Nut 1
+    2300472: Screw_Nut 10
+    2300474: Screw_Nut 11
+    2300476: Screw_Nut 12
+    2300478: Screw_Nut 13
+    2300480: Screw_Nut 14
+    2300482: Screw_Nut 15
+    2300484: Screw_Nut 16
+    2300486: Screw_Nut 17
+    2300488: Screw_Nut 18
+    2300490: Screw_Nut 19
+    2300492: Screw_Nut 2
+    2300494: Screw_Nut 20
+    2300496: Screw_Nut 21
+    2300498: Screw_Nut 22
+    2300500: Screw_Nut 23
+    2300502: Screw_Nut 24
+    2300504: Screw_Nut 25
+    2300506: Screw_Nut 26
+    2300508: Screw_Nut 27
+    2300510: Screw_Nut 28
+    2300512: Screw_Nut 29
+    2300514: Screw_Nut 3
+    2300516: Screw_Nut 30
+    2300518: Screw_Nut 31
+    2300520: Screw_Nut 32
+    2300522: Screw_Nut 33
+    2300524: Screw_Nut 34
+    2300526: Screw_Nut 35
+    2300528: Screw_Nut 36
+    2300530: Screw_Nut 37
+    2300532: Screw_Nut 38
+    2300534: Screw_Nut 39
+    2300536: Screw_Nut 4
+    2300538: Screw_Nut 40
+    2300540: Screw_Nut 41
+    2300542: Screw_Nut 42
+    2300544: Screw_Nut 43
+    2300546: Screw_Nut 44
+    2300548: Screw_Nut 45
+    2300550: Screw_Nut 46
+    2300552: Screw_Nut 47
+    2300554: Screw_Nut 48
+    2300556: Screw_Nut 49
+    2300558: Screw_Nut 5
+    2300560: Screw_Nut 50
+    2300562: Screw_Nut 51
+    2300564: Screw_Nut 52
+    2300566: Screw_Nut 53
+    2300568: Screw_Nut 54
+    2300570: Screw_Nut 55
+    2300572: Screw_Nut 56
+    2300574: Screw_Nut 57
+    2300576: Screw_Nut 58
+    2300578: Screw_Nut 59
+    2300580: Screw_Nut 6
+    2300582: Screw_Nut 60
+    2300584: Screw_Nut 61
+    2300586: Screw_Nut 62
+    2300588: Screw_Nut 63
+    2300590: Screw_Nut 7
+    2300592: Screw_Nut 8
+    2300594: Screw_Nut 9
+    2300596: Screw_Threads_L1
+    2300598: Screw_Threads_L1 1
+    2300600: Screw_Threads_L1 2
+    2300602: Screw_Threads_L1 3
+    2300604: Screw_Threads_L10
+    2300606: Screw_Threads_L10 1
+    2300608: Screw_Threads_L10 2
+    2300610: Screw_Threads_L10 3
+    2300612: Screw_Threads_L11
+    2300614: Screw_Threads_L11 1
+    2300616: Screw_Threads_L11 2
+    2300618: Screw_Threads_L11 3
+    2300620: Screw_Threads_L12
+    2300622: Screw_Threads_L12 1
+    2300624: Screw_Threads_L12 2
+    2300626: Screw_Threads_L12 3
+    2300628: Screw_Threads_L13
+    2300630: Screw_Threads_L13 1
+    2300632: Screw_Threads_L13 2
+    2300634: Screw_Threads_L13 3
+    2300636: Screw_Threads_L14
+    2300638: Screw_Threads_L14 1
+    2300640: Screw_Threads_L14 2
+    2300642: Screw_Threads_L14 3
+    2300644: Screw_Threads_L15
+    2300646: Screw_Threads_L15 1
+    2300648: Screw_Threads_L15 2
+    2300650: Screw_Threads_L15 3
+    2300652: Screw_Threads_L16
+    2300654: Screw_Threads_L16 1
+    2300656: Screw_Threads_L16 2
+    2300658: Screw_Threads_L16 3
+    2300660: Screw_Threads_L17
+    2300662: Screw_Threads_L17 1
+    2300664: Screw_Threads_L17 2
+    2300666: Screw_Threads_L17 3
+    2300668: Screw_Threads_L18
+    2300670: Screw_Threads_L18 1
+    2300672: Screw_Threads_L18 2
+    2300674: Screw_Threads_L18 3
+    2300676: Screw_Threads_L19
+    2300678: Screw_Threads_L19 1
+    2300680: Screw_Threads_L19 2
+    2300682: Screw_Threads_L19 3
+    2300684: Screw_Threads_L2
+    2300686: Screw_Threads_L2 1
+    2300688: Screw_Threads_L2 2
+    2300690: Screw_Threads_L2 3
+    2300692: Screw_Threads_L20
+    2300694: Screw_Threads_L20 1
+    2300696: Screw_Threads_L20 2
+    2300698: Screw_Threads_L20 3
+    2300700: Screw_Threads_L21
+    2300702: Screw_Threads_L21 1
+    2300704: Screw_Threads_L21 2
+    2300706: Screw_Threads_L21 3
+    2300708: Screw_Threads_L22
+    2300710: Screw_Threads_L22 1
+    2300712: Screw_Threads_L22 2
+    2300714: Screw_Threads_L22 3
+    2300716: Screw_Threads_L23
+    2300718: Screw_Threads_L23 1
+    2300720: Screw_Threads_L23 2
+    2300722: Screw_Threads_L23 3
+    2300724: Screw_Threads_L24
+    2300726: Screw_Threads_L24 1
+    2300728: Screw_Threads_L24 2
+    2300730: Screw_Threads_L24 3
+    2300732: Screw_Threads_L25
+    2300734: Screw_Threads_L25 1
+    2300736: Screw_Threads_L3
+    2300738: Screw_Threads_L3 1
+    2300740: Screw_Threads_L3 2
+    2300742: Screw_Threads_L3 3
+    2300744: Screw_Threads_L4
+    2300746: Screw_Threads_L4 1
+    2300748: Screw_Threads_L4 2
+    2300750: Screw_Threads_L4 3
+    2300752: Screw_Threads_L5
+    2300754: Screw_Threads_L5 1
+    2300756: Screw_Threads_L5 2
+    2300758: Screw_Threads_L5 3
+    2300760: Screw_Threads_L6
+    2300762: Screw_Threads_L6 1
+    2300764: Screw_Threads_L6 2
+    2300766: Screw_Threads_L6 3
+    2300768: Screw_Threads_L7
+    2300770: Screw_Threads_L7 1
+    2300772: Screw_Threads_L7 2
+    2300774: Screw_Threads_L7 3
+    2300776: Screw_Threads_L8
+    2300778: Screw_Threads_L8 1
+    2300780: Screw_Threads_L9
+    2300782: Screw_Threads_L9 1
+    2300784: Screw_Tube
+    2300786: Screw_Tube 1
+    2300788: Screw_Tube 2
+    2300790: Screw_Tube 3
+    2300792: Supp_1
+    2300794: Supp_1 1
+    2300796: Supp_1_2
+    2300798: Supp_1_2 1
+    2300800: Supp_2
+    2300802: Supp_2 1
+    2300804: Supp_3
+    2300806: Supp_3 1
+    2300808: Supp_4
+    2300810: Supp_4 1
+    2300812: Supp_5
+    2300814: Supp_5 1
+    2300816: Supp_6
+    2300818: Supp_6 1
+    2300820: Supp_Side_1
+    2300822: Supp_Side_1 1
+    2300824: Supp_Side_2
+    2300826: Supp_Side_2 1
+    2300828: Suspension_T1_1
+    2300830: Suspension_T1_1 1
+    2300832: Suspension_T1_2
+    2300834: Suspension_T1_2 1
+    2300836: Washer_1
+    2300838: Washer_1 1
+    2300840: Washer_2
+    2300842: Washer_2 1
+    2300844: Washer_Arm_1
+    2300846: Washer_Arm_1 1
+    3300000: Arm_1
+    3300002: Arm_1 1
+    3300004: Arm_Base
+    3300006: Arm_Base 1
+    3300008: Arm_Base 2
+    3300010: Arm_Base 3
+    3300012: Arm_Tread_1
+    3300014: Arm_Tread_1 1
+    3300016: Arm_Tread_1 2
+    3300018: Arm_Tread_1 3
+    3300020: Arm_Tread_2
+    3300022: Arm_Tread_2 1
+    3300024: Arm_Tread_5
+    3300026: Arm_Tread_5 1
+    3300028: Arm_Tread_6
+    3300030: Arm_Tread_6 1
+    3300032: Arm_Tread_7
+    3300034: Arm_Tread_7 1
+    3300036: Bearing_Base
+    3300038: Bearing_Base 1
+    3300040: Bot_Bearing
+    3300042: Bot_Bearing 1
+    3300044: Bot_Bearing 2
+    3300046: Bot_Bearing 3
+    3300048: Bot_Bearing_Supp_1
+    3300050: Bot_Bearing_Supp_1 1
+    3300052: Bot_Bearing_Supp_1 2
+    3300054: Bot_Bearing_Supp_1 3
+    3300056: Bot_Part_1
+    3300058: Bot_Part_1 1
+    3300060: Bot_Tread_1
+    3300062: Bot_Tread_1 1
+    3300064: Bot_Tread_1 2
+    3300066: Bot_Tread_1 3
+    3300068: Cylinder_1
+    3300070: Cylinder_1 1
+    3300072: Joint_Base
+    3300074: Joint_Base 1
+    3300076: Joint_Base 2
+    3300078: Joint_Base 3
+    3300080: Middle_Supp_1
+    3300082: Middle_Supp_1 1
+    3300084: Nut_1
+    3300086: Nut_1 1
+    3300088: Nut_2
+    3300090: Nut_2 1
+    3300092: Plate_1
+    3300094: Plate_1 1
+    3300096: Plate_2
+    3300098: Plate_2 1
+    3300100: Plate_3
+    3300102: Plate_3 1
+    3300104: Screw_1
+    3300106: Screw_1 1
+    3300108: Screw_2_Base
+    3300110: Screw_2_Base 1
+    3300112: Screw_2_Base 10
+    3300114: Screw_2_Base 11
+    3300116: Screw_2_Base 12
+    3300118: Screw_2_Base 13
+    3300120: Screw_2_Base 14
+    3300122: Screw_2_Base 15
+    3300124: Screw_2_Base 16
+    3300126: Screw_2_Base 17
+    3300128: Screw_2_Base 18
+    3300130: Screw_2_Base 19
+    3300132: Screw_2_Base 2
+    3300134: Screw_2_Base 20
+    3300136: Screw_2_Base 21
+    3300138: Screw_2_Base 22
+    3300140: Screw_2_Base 23
+    3300142: Screw_2_Base 24
+    3300144: Screw_2_Base 25
+    3300146: Screw_2_Base 26
+    3300148: Screw_2_Base 27
+    3300150: Screw_2_Base 28
+    3300152: Screw_2_Base 29
+    3300154: Screw_2_Base 3
+    3300156: Screw_2_Base 4
+    3300158: Screw_2_Base 5
+    3300160: Screw_2_Base 6
+    3300162: Screw_2_Base 7
+    3300164: Screw_2_Base 8
+    3300166: Screw_2_Base 9
+    3300168: Screw_2_Nut
+    3300170: Screw_2_Nut 1
+    3300172: Screw_2_Nut 10
+    3300174: Screw_2_Nut 11
+    3300176: Screw_2_Nut 12
+    3300178: Screw_2_Nut 13
+    3300180: Screw_2_Nut 14
+    3300182: Screw_2_Nut 15
+    3300184: Screw_2_Nut 16
+    3300186: Screw_2_Nut 17
+    3300188: Screw_2_Nut 18
+    3300190: Screw_2_Nut 19
+    3300192: Screw_2_Nut 2
+    3300194: Screw_2_Nut 20
+    3300196: Screw_2_Nut 21
+    3300198: Screw_2_Nut 22
+    3300200: Screw_2_Nut 23
+    3300202: Screw_2_Nut 24
+    3300204: Screw_2_Nut 25
+    3300206: Screw_2_Nut 26
+    3300208: Screw_2_Nut 27
+    3300210: Screw_2_Nut 28
+    3300212: Screw_2_Nut 29
+    3300214: Screw_2_Nut 3
+    3300216: Screw_2_Nut 4
+    3300218: Screw_2_Nut 5
+    3300220: Screw_2_Nut 6
+    3300222: Screw_2_Nut 7
+    3300224: Screw_2_Nut 8
+    3300226: Screw_2_Nut 9
+    3300228: Screw_2_Washer
+    3300230: Screw_2_Washer 1
+    3300232: Screw_2_Washer 10
+    3300234: Screw_2_Washer 11
+    3300236: Screw_2_Washer 12
+    3300238: Screw_2_Washer 13
+    3300240: Screw_2_Washer 14
+    3300242: Screw_2_Washer 15
+    3300244: Screw_2_Washer 16
+    3300246: Screw_2_Washer 17
+    3300248: Screw_2_Washer 18
+    3300250: Screw_2_Washer 19
+    3300252: Screw_2_Washer 2
+    3300254: Screw_2_Washer 20
+    3300256: Screw_2_Washer 21
+    3300258: Screw_2_Washer 22
+    3300260: Screw_2_Washer 23
+    3300262: Screw_2_Washer 24
+    3300264: Screw_2_Washer 25
+    3300266: Screw_2_Washer 26
+    3300268: Screw_2_Washer 27
+    3300270: Screw_2_Washer 3
+    3300272: Screw_2_Washer 4
+    3300274: Screw_2_Washer 5
+    3300276: Screw_2_Washer 6
+    3300278: Screw_2_Washer 7
+    3300280: Screw_2_Washer 8
+    3300282: Screw_2_Washer 9
+    3300284: Screw_2_Washer1
+    3300286: Screw_2_Washer1 1
+    3300288: Screw_2_Washer1 10
+    3300290: Screw_2_Washer1 11
+    3300292: Screw_2_Washer1 12
+    3300294: Screw_2_Washer1 13
+    3300296: Screw_2_Washer1 14
+    3300298: Screw_2_Washer1 15
+    3300300: Screw_2_Washer1 2
+    3300302: Screw_2_Washer1 3
+    3300304: Screw_2_Washer1 4
+    3300306: Screw_2_Washer1 5
+    3300308: Screw_2_Washer1 6
+    3300310: Screw_2_Washer1 7
+    3300312: Screw_2_Washer1 8
+    3300314: Screw_2_Washer1 9
+    3300316: Screw_2_Washer_2
+    3300318: Screw_2_Washer_2 1
+    3300320: Screw_2_Washer_2 10
+    3300322: Screw_2_Washer_2 11
+    3300324: Screw_2_Washer_2 2
+    3300326: Screw_2_Washer_2 3
+    3300328: Screw_2_Washer_2 4
+    3300330: Screw_2_Washer_2 5
+    3300332: Screw_2_Washer_2 6
+    3300334: Screw_2_Washer_2 7
+    3300336: Screw_2_Washer_2 8
+    3300338: Screw_2_Washer_2 9
+    3300340: Screw_Base
+    3300342: Screw_Base 1
+    3300344: Screw_Base 10
+    3300346: Screw_Base 11
+    3300348: Screw_Base 12
+    3300350: Screw_Base 13
+    3300352: Screw_Base 14
+    3300354: Screw_Base 15
+    3300356: Screw_Base 16
+    3300358: Screw_Base 17
+    3300360: Screw_Base 18
+    3300362: Screw_Base 19
+    3300364: Screw_Base 2
+    3300366: Screw_Base 20
+    3300368: Screw_Base 21
+    3300370: Screw_Base 22
+    3300372: Screw_Base 23
+    3300374: Screw_Base 24
+    3300376: Screw_Base 25
+    3300378: Screw_Base 26
+    3300380: Screw_Base 27
+    3300382: Screw_Base 28
+    3300384: Screw_Base 29
+    3300386: Screw_Base 3
+    3300388: Screw_Base 30
+    3300390: Screw_Base 31
+    3300392: Screw_Base 32
+    3300394: Screw_Base 33
+    3300396: Screw_Base 34
+    3300398: Screw_Base 35
+    3300400: Screw_Base 36
+    3300402: Screw_Base 37
+    3300404: Screw_Base 38
+    3300406: Screw_Base 39
+    3300408: Screw_Base 4
+    3300410: Screw_Base 40
+    3300412: Screw_Base 41
+    3300414: Screw_Base 42
+    3300416: Screw_Base 43
+    3300418: Screw_Base 44
+    3300420: Screw_Base 45
+    3300422: Screw_Base 46
+    3300424: Screw_Base 47
+    3300426: Screw_Base 48
+    3300428: Screw_Base 49
+    3300430: Screw_Base 5
+    3300432: Screw_Base 50
+    3300434: Screw_Base 51
+    3300436: Screw_Base 52
+    3300438: Screw_Base 53
+    3300440: Screw_Base 54
+    3300442: Screw_Base 55
+    3300444: Screw_Base 56
+    3300446: Screw_Base 57
+    3300448: Screw_Base 58
+    3300450: Screw_Base 59
+    3300452: Screw_Base 6
+    3300454: Screw_Base 60
+    3300456: Screw_Base 61
+    3300458: Screw_Base 62
+    3300460: Screw_Base 63
+    3300462: Screw_Base 7
+    3300464: Screw_Base 8
+    3300466: Screw_Base 9
+    3300468: Screw_Nut
+    3300470: Screw_Nut 1
+    3300472: Screw_Nut 10
+    3300474: Screw_Nut 11
+    3300476: Screw_Nut 12
+    3300478: Screw_Nut 13
+    3300480: Screw_Nut 14
+    3300482: Screw_Nut 15
+    3300484: Screw_Nut 16
+    3300486: Screw_Nut 17
+    3300488: Screw_Nut 18
+    3300490: Screw_Nut 19
+    3300492: Screw_Nut 2
+    3300494: Screw_Nut 20
+    3300496: Screw_Nut 21
+    3300498: Screw_Nut 22
+    3300500: Screw_Nut 23
+    3300502: Screw_Nut 24
+    3300504: Screw_Nut 25
+    3300506: Screw_Nut 26
+    3300508: Screw_Nut 27
+    3300510: Screw_Nut 28
+    3300512: Screw_Nut 29
+    3300514: Screw_Nut 3
+    3300516: Screw_Nut 30
+    3300518: Screw_Nut 31
+    3300520: Screw_Nut 32
+    3300522: Screw_Nut 33
+    3300524: Screw_Nut 34
+    3300526: Screw_Nut 35
+    3300528: Screw_Nut 36
+    3300530: Screw_Nut 37
+    3300532: Screw_Nut 38
+    3300534: Screw_Nut 39
+    3300536: Screw_Nut 4
+    3300538: Screw_Nut 40
+    3300540: Screw_Nut 41
+    3300542: Screw_Nut 42
+    3300544: Screw_Nut 43
+    3300546: Screw_Nut 44
+    3300548: Screw_Nut 45
+    3300550: Screw_Nut 46
+    3300552: Screw_Nut 47
+    3300554: Screw_Nut 48
+    3300556: Screw_Nut 49
+    3300558: Screw_Nut 5
+    3300560: Screw_Nut 50
+    3300562: Screw_Nut 51
+    3300564: Screw_Nut 52
+    3300566: Screw_Nut 53
+    3300568: Screw_Nut 54
+    3300570: Screw_Nut 55
+    3300572: Screw_Nut 56
+    3300574: Screw_Nut 57
+    3300576: Screw_Nut 58
+    3300578: Screw_Nut 59
+    3300580: Screw_Nut 6
+    3300582: Screw_Nut 60
+    3300584: Screw_Nut 61
+    3300586: Screw_Nut 62
+    3300588: Screw_Nut 63
+    3300590: Screw_Nut 7
+    3300592: Screw_Nut 8
+    3300594: Screw_Nut 9
+    3300596: Screw_Threads_L1
+    3300598: Screw_Threads_L1 1
+    3300600: Screw_Threads_L1 2
+    3300602: Screw_Threads_L1 3
+    3300604: Screw_Threads_L10
+    3300606: Screw_Threads_L10 1
+    3300608: Screw_Threads_L10 2
+    3300610: Screw_Threads_L10 3
+    3300612: Screw_Threads_L11
+    3300614: Screw_Threads_L11 1
+    3300616: Screw_Threads_L11 2
+    3300618: Screw_Threads_L11 3
+    3300620: Screw_Threads_L12
+    3300622: Screw_Threads_L12 1
+    3300624: Screw_Threads_L12 2
+    3300626: Screw_Threads_L12 3
+    3300628: Screw_Threads_L13
+    3300630: Screw_Threads_L13 1
+    3300632: Screw_Threads_L13 2
+    3300634: Screw_Threads_L13 3
+    3300636: Screw_Threads_L14
+    3300638: Screw_Threads_L14 1
+    3300640: Screw_Threads_L14 2
+    3300642: Screw_Threads_L14 3
+    3300644: Screw_Threads_L15
+    3300646: Screw_Threads_L15 1
+    3300648: Screw_Threads_L15 2
+    3300650: Screw_Threads_L15 3
+    3300652: Screw_Threads_L16
+    3300654: Screw_Threads_L16 1
+    3300656: Screw_Threads_L16 2
+    3300658: Screw_Threads_L16 3
+    3300660: Screw_Threads_L17
+    3300662: Screw_Threads_L17 1
+    3300664: Screw_Threads_L17 2
+    3300666: Screw_Threads_L17 3
+    3300668: Screw_Threads_L18
+    3300670: Screw_Threads_L18 1
+    3300672: Screw_Threads_L18 2
+    3300674: Screw_Threads_L18 3
+    3300676: Screw_Threads_L19
+    3300678: Screw_Threads_L19 1
+    3300680: Screw_Threads_L19 2
+    3300682: Screw_Threads_L19 3
+    3300684: Screw_Threads_L2
+    3300686: Screw_Threads_L2 1
+    3300688: Screw_Threads_L2 2
+    3300690: Screw_Threads_L2 3
+    3300692: Screw_Threads_L20
+    3300694: Screw_Threads_L20 1
+    3300696: Screw_Threads_L20 2
+    3300698: Screw_Threads_L20 3
+    3300700: Screw_Threads_L21
+    3300702: Screw_Threads_L21 1
+    3300704: Screw_Threads_L21 2
+    3300706: Screw_Threads_L21 3
+    3300708: Screw_Threads_L22
+    3300710: Screw_Threads_L22 1
+    3300712: Screw_Threads_L22 2
+    3300714: Screw_Threads_L22 3
+    3300716: Screw_Threads_L23
+    3300718: Screw_Threads_L23 1
+    3300720: Screw_Threads_L23 2
+    3300722: Screw_Threads_L23 3
+    3300724: Screw_Threads_L24
+    3300726: Screw_Threads_L24 1
+    3300728: Screw_Threads_L24 2
+    3300730: Screw_Threads_L24 3
+    3300732: Screw_Threads_L25
+    3300734: Screw_Threads_L25 1
+    3300736: Screw_Threads_L3
+    3300738: Screw_Threads_L3 1
+    3300740: Screw_Threads_L3 2
+    3300742: Screw_Threads_L3 3
+    3300744: Screw_Threads_L4
+    3300746: Screw_Threads_L4 1
+    3300748: Screw_Threads_L4 2
+    3300750: Screw_Threads_L4 3
+    3300752: Screw_Threads_L5
+    3300754: Screw_Threads_L5 1
+    3300756: Screw_Threads_L5 2
+    3300758: Screw_Threads_L5 3
+    3300760: Screw_Threads_L6
+    3300762: Screw_Threads_L6 1
+    3300764: Screw_Threads_L6 2
+    3300766: Screw_Threads_L6 3
+    3300768: Screw_Threads_L7
+    3300770: Screw_Threads_L7 1
+    3300772: Screw_Threads_L7 2
+    3300774: Screw_Threads_L7 3
+    3300776: Screw_Threads_L8
+    3300778: Screw_Threads_L8 1
+    3300780: Screw_Threads_L9
+    3300782: Screw_Threads_L9 1
+    3300784: Screw_Tube
+    3300786: Screw_Tube 1
+    3300788: Screw_Tube 2
+    3300790: Screw_Tube 3
+    3300792: Supp_1
+    3300794: Supp_1 1
+    3300796: Supp_1_2
+    3300798: Supp_1_2 1
+    3300800: Supp_2
+    3300802: Supp_2 1
+    3300804: Supp_3
+    3300806: Supp_3 1
+    3300808: Supp_4
+    3300810: Supp_4 1
+    3300812: Supp_5
+    3300814: Supp_5 1
+    3300816: Supp_6
+    3300818: Supp_6 1
+    3300820: Supp_Side_1
+    3300822: Supp_Side_1 1
+    3300824: Supp_Side_2
+    3300826: Supp_Side_2 1
+    3300828: Suspension_T1_1
+    3300830: Suspension_T1_1 1
+    3300832: Suspension_T1_2
+    3300834: Suspension_T1_2 1
+    3300836: Washer_1
+    3300838: Washer_1 1
+    3300840: Washer_2
+    3300842: Washer_2 1
+    3300844: Washer_Arm_1
+    3300846: Washer_Arm_1 1
+    4300000: Supp_1
+    4300002: Supp_1_2
+    4300004: Supp_2
+    4300006: Supp_3
+    4300008: Supp_4
+    4300010: Supp_5
+    4300012: Supp_6
+    4300014: Supp_Side_1
+    4300016: Supp_Side_2
+    4300018: Middle_Supp_1
+    4300020: Plate_1
+    4300022: Plate_3
+    4300024: Plate_2
+    4300026: Suspension_T1_2
+    4300028: Suspension_T1_1
+    4300030: Arm_1
+    4300032: Washer_Arm_1
+    4300034: Bot_Part_1
+    4300036: Screw_2_Base
+    4300038: Screw_Threads_L1
+    4300040: Screw_2_Nut
+    4300042: Screw_2_Washer
+    4300044: Screw_2_Washer1
+    4300046: Screw_2_Base
+    4300048: Screw_Threads_L2
+    4300050: Screw_2_Nut
+    4300052: Screw_2_Washer
+    4300054: Screw_2_Washer1
+    4300056: Screw_2_Base
+    4300058: Screw_Threads_L3
+    4300060: Screw_2_Nut
+    4300062: Screw_2_Washer
+    4300064: Screw_2_Washer1
+    4300066: Screw_2_Base
+    4300068: Screw_Threads_L4
+    4300070: Screw_2_Nut
+    4300072: Screw_2_Washer
+    4300074: Screw_2_Washer1
+    4300076: Screw_2_Base
+    4300078: Screw_Threads_L5
+    4300080: Screw_2_Nut
+    4300082: Screw_2_Washer
+    4300084: Screw_2_Washer_2
+    4300086: Screw_2_Base
+    4300088: Screw_Threads_L6
+    4300090: Screw_2_Nut
+    4300092: Screw_2_Washer
+    4300094: Screw_2_Washer_2
+    4300096: Screw_2_Base
+    4300098: Screw_Threads_L7
+    4300100: Screw_2_Nut
+    4300102: Screw_2_Washer
+    4300104: Screw_2_Washer_2
+    4300106: Screw_Base
+    4300108: Screw_Threads_L10
+    4300110: Screw_Nut
+    4300112: Screw_Base
+    4300114: Screw_Threads_L11
+    4300116: Screw_Nut
+    4300118: Screw_Base
+    4300120: Screw_Threads_L12
+    4300122: Screw_Nut
+    4300124: Screw_Base
+    4300126: Screw_Threads_L13
+    4300128: Screw_Nut
+    4300130: Screw_Base
+    4300132: Screw_Threads_L14
+    4300134: Screw_Nut
+    4300136: Screw_Base
+    4300138: Screw_Threads_L15
+    4300140: Screw_Nut
+    4300142: Screw_Tube
+    4300144: Screw_Base
+    4300146: Screw_Threads_L16
+    4300148: Screw_Nut
+    4300150: Screw_Base
+    4300152: Screw_Threads_L17
+    4300154: Screw_Nut
+    4300156: Screw_Base
+    4300158: Screw_Threads_L18
+    4300160: Screw_Nut
+    4300162: Screw_Base
+    4300164: Screw_Threads_L19
+    4300166: Screw_Nut
+    4300168: Screw_Base
+    4300170: Screw_Threads_L20
+    4300172: Screw_Nut
+    4300174: Screw_Base
+    4300176: Screw_Threads_L21
+    4300178: Screw_Nut
+    4300180: Screw_Base
+    4300182: Screw_Threads_L22
+    4300184: Screw_Nut
+    4300186: Screw_Base
+    4300188: Screw_Threads_L23
+    4300190: Screw_Nut
+    4300192: Screw_Nut
+    4300194: Screw_Base
+    4300196: Screw_Threads_L24
+    4300198: Screw_2_Base
+    4300200: Screw_Threads_L25
+    4300202: Screw_2_Nut
+    4300204: Screw_Base
+    4300206: Screw_Threads_L8
+    4300208: Screw_Nut
+    4300210: Screw_Base
+    4300212: Screw_Threads_L9
+    4300214: Screw_Nut
+    4300216: Screw_2_Base
+    4300218: Screw_Threads_L1
+    4300220: Screw_2_Nut
+    4300222: Screw_2_Washer
+    4300224: Screw_2_Washer1
+    4300226: Screw_2_Base
+    4300228: Screw_Threads_L2
+    4300230: Screw_2_Nut
+    4300232: Screw_2_Washer
+    4300234: Screw_2_Washer1
+    4300236: Screw_2_Base
+    4300238: Screw_Threads_L3
+    4300240: Screw_2_Nut
+    4300242: Screw_2_Washer
+    4300244: Screw_2_Washer1
+    4300246: Screw_2_Base
+    4300248: Screw_Threads_L4
+    4300250: Screw_2_Nut
+    4300252: Screw_2_Washer
+    4300254: Screw_2_Washer1
+    4300256: Screw_2_Base
+    4300258: Screw_Threads_L5
+    4300260: Screw_2_Nut
+    4300262: Screw_2_Washer
+    4300264: Screw_2_Washer_2
+    4300266: Screw_2_Base
+    4300268: Screw_Threads_L6
+    4300270: Screw_2_Nut
+    4300272: Screw_2_Washer
+    4300274: Screw_2_Washer_2
+    4300276: Screw_2_Base
+    4300278: Screw_Threads_L7
+    4300280: Screw_2_Nut
+    4300282: Screw_2_Washer
+    4300284: Screw_2_Washer_2
+    4300286: Screw_Base
+    4300288: Screw_Threads_L10
+    4300290: Screw_Nut
+    4300292: Screw_Base
+    4300294: Screw_Threads_L11
+    4300296: Screw_Nut
+    4300298: Screw_Base
+    4300300: Screw_Threads_L12
+    4300302: Screw_Nut
+    4300304: Screw_Base
+    4300306: Screw_Threads_L13
+    4300308: Screw_Nut
+    4300310: Screw_Base
+    4300312: Screw_Threads_L14
+    4300314: Screw_Nut
+    4300316: Screw_Base
+    4300318: Screw_Threads_L15
+    4300320: Screw_Nut
+    4300322: Screw_Tube
+    4300324: Screw_Base
+    4300326: Screw_Threads_L16
+    4300328: Screw_Nut
+    4300330: Screw_Base
+    4300332: Screw_Threads_L17
+    4300334: Screw_Nut
+    4300336: Screw_Base
+    4300338: Screw_Threads_L18
+    4300340: Screw_Nut
+    4300342: Screw_Base
+    4300344: Screw_Threads_L19
+    4300346: Screw_Nut
+    4300348: Screw_Base
+    4300350: Screw_Threads_L20
+    4300352: Screw_Nut
+    4300354: Screw_Base
+    4300356: Screw_Threads_L21
+    4300358: Screw_Nut
+    4300360: Screw_Base
+    4300362: Screw_Threads_L22
+    4300364: Screw_Nut
+    4300366: Screw_Base
+    4300368: Screw_Threads_L23
+    4300370: Screw_Nut
+    4300372: Screw_Nut
+    4300374: Screw_Base
+    4300376: Screw_Threads_L24
+    4300378: Joint_Base
+    4300380: Arm_Base
+    4300382: Arm_Tread_1
+    4300384: Arm_Tread_2
+    4300386: Arm_Tread_5
+    4300388: Arm_Tread_6
+    4300390: Arm_Base
+    4300392: Arm_Tread_1
+    4300394: Joint_Base
+    4300396: Bearing_Base
+    4300398: Cylinder_1
+    4300400: Washer_1
+    4300402: Washer_2
+    4300404: Nut_1
+    4300406: Nut_2
+    4300408: Screw_1
+    4300410: Arm_Tread_7
+    4300412: Bot_Bearing_Supp_1
+    4300414: Bot_Bearing
+    4300416: Bot_Tread_1
+    4300418: Bot_Bearing_Supp_1
+    4300420: Bot_Bearing
+    4300422: Bot_Tread_1
+    4300424: Supp_1
+    4300426: Supp_1_2
+    4300428: Supp_2
+    4300430: Supp_3
+    4300432: Supp_4
+    4300434: Supp_5
+    4300436: Supp_6
+    4300438: Supp_Side_1
+    4300440: Supp_Side_2
+    4300442: Middle_Supp_1
+    4300444: Plate_1
+    4300446: Plate_3
+    4300448: Plate_2
+    4300450: Suspension_T1_2
+    4300452: Suspension_T1_1
+    4300454: Arm_1
+    4300456: Washer_Arm_1
+    4300458: Bot_Part_1
+    4300460: Screw_2_Base
+    4300462: Screw_Threads_L1
+    4300464: Screw_2_Nut
+    4300466: Screw_2_Washer
+    4300468: Screw_2_Washer1
+    4300470: Screw_2_Base
+    4300472: Screw_Threads_L2
+    4300474: Screw_2_Nut
+    4300476: Screw_2_Washer
+    4300478: Screw_2_Washer1
+    4300480: Screw_2_Base
+    4300482: Screw_Threads_L3
+    4300484: Screw_2_Nut
+    4300486: Screw_2_Washer
+    4300488: Screw_2_Washer1
+    4300490: Screw_2_Base
+    4300492: Screw_Threads_L4
+    4300494: Screw_2_Nut
+    4300496: Screw_2_Washer
+    4300498: Screw_2_Washer1
+    4300500: Screw_2_Base
+    4300502: Screw_Threads_L5
+    4300504: Screw_2_Nut
+    4300506: Screw_2_Washer
+    4300508: Screw_2_Washer_2
+    4300510: Screw_2_Base
+    4300512: Screw_Threads_L6
+    4300514: Screw_2_Nut
+    4300516: Screw_2_Washer
+    4300518: Screw_2_Washer_2
+    4300520: Screw_2_Base
+    4300522: Screw_Threads_L7
+    4300524: Screw_2_Nut
+    4300526: Screw_2_Washer
+    4300528: Screw_2_Washer_2
+    4300530: Screw_Base
+    4300532: Screw_Threads_L10
+    4300534: Screw_Nut
+    4300536: Screw_Base
+    4300538: Screw_Threads_L11
+    4300540: Screw_Nut
+    4300542: Screw_Base
+    4300544: Screw_Threads_L12
+    4300546: Screw_Nut
+    4300548: Screw_Base
+    4300550: Screw_Threads_L13
+    4300552: Screw_Nut
+    4300554: Screw_Base
+    4300556: Screw_Threads_L14
+    4300558: Screw_Nut
+    4300560: Screw_Base
+    4300562: Screw_Threads_L15
+    4300564: Screw_Nut
+    4300566: Screw_Tube
+    4300568: Screw_Base
+    4300570: Screw_Threads_L16
+    4300572: Screw_Nut
+    4300574: Screw_Base
+    4300576: Screw_Threads_L17
+    4300578: Screw_Nut
+    4300580: Screw_Base
+    4300582: Screw_Threads_L18
+    4300584: Screw_Nut
+    4300586: Screw_Base
+    4300588: Screw_Threads_L19
+    4300590: Screw_Nut
+    4300592: Screw_Base
+    4300594: Screw_Threads_L20
+    4300596: Screw_Nut
+    4300598: Screw_Base
+    4300600: Screw_Threads_L21
+    4300602: Screw_Nut
+    4300604: Screw_Base
+    4300606: Screw_Threads_L22
+    4300608: Screw_Nut
+    4300610: Screw_Base
+    4300612: Screw_Threads_L23
+    4300614: Screw_Nut
+    4300616: Screw_Nut
+    4300618: Screw_Base
+    4300620: Screw_Threads_L24
+    4300622: Screw_2_Base
+    4300624: Screw_Threads_L25
+    4300626: Screw_2_Nut
+    4300628: Screw_Base
+    4300630: Screw_Threads_L8
+    4300632: Screw_Nut
+    4300634: Screw_Base
+    4300636: Screw_Threads_L9
+    4300638: Screw_Nut
+    4300640: Screw_2_Base
+    4300642: Screw_Threads_L1
+    4300644: Screw_2_Nut
+    4300646: Screw_2_Washer
+    4300648: Screw_2_Washer1
+    4300650: Screw_2_Base
+    4300652: Screw_Threads_L2
+    4300654: Screw_2_Nut
+    4300656: Screw_2_Washer
+    4300658: Screw_2_Washer1
+    4300660: Screw_2_Base
+    4300662: Screw_Threads_L3
+    4300664: Screw_2_Nut
+    4300666: Screw_2_Washer
+    4300668: Screw_2_Washer1
+    4300670: Screw_2_Base
+    4300672: Screw_Threads_L4
+    4300674: Screw_2_Nut
+    4300676: Screw_2_Washer
+    4300678: Screw_2_Washer1
+    4300680: Screw_2_Base
+    4300682: Screw_Threads_L5
+    4300684: Screw_2_Nut
+    4300686: Screw_2_Washer
+    4300688: Screw_2_Washer_2
+    4300690: Screw_2_Base
+    4300692: Screw_Threads_L6
+    4300694: Screw_2_Nut
+    4300696: Screw_2_Washer
+    4300698: Screw_2_Washer_2
+    4300700: Screw_2_Base
+    4300702: Screw_Threads_L7
+    4300704: Screw_2_Nut
+    4300706: Screw_2_Washer
+    4300708: Screw_2_Washer_2
+    4300710: Screw_Base
+    4300712: Screw_Threads_L10
+    4300714: Screw_Nut
+    4300716: Screw_Base
+    4300718: Screw_Threads_L11
+    4300720: Screw_Nut
+    4300722: Screw_Base
+    4300724: Screw_Threads_L12
+    4300726: Screw_Nut
+    4300728: Screw_Base
+    4300730: Screw_Threads_L13
+    4300732: Screw_Nut
+    4300734: Screw_Base
+    4300736: Screw_Threads_L14
+    4300738: Screw_Nut
+    4300740: Screw_Base
+    4300742: Screw_Threads_L15
+    4300744: Screw_Nut
+    4300746: Screw_Tube
+    4300748: Screw_Base
+    4300750: Screw_Threads_L16
+    4300752: Screw_Nut
+    4300754: Screw_Base
+    4300756: Screw_Threads_L17
+    4300758: Screw_Nut
+    4300760: Screw_Base
+    4300762: Screw_Threads_L18
+    4300764: Screw_Nut
+    4300766: Screw_Base
+    4300768: Screw_Threads_L19
+    4300770: Screw_Nut
+    4300772: Screw_Base
+    4300774: Screw_Threads_L20
+    4300776: Screw_Nut
+    4300778: Screw_Base
+    4300780: Screw_Threads_L21
+    4300782: Screw_Nut
+    4300784: Screw_Base
+    4300786: Screw_Threads_L22
+    4300788: Screw_Nut
+    4300790: Screw_Base
+    4300792: Screw_Threads_L23
+    4300794: Screw_Nut
+    4300796: Screw_Nut
+    4300798: Screw_Base
+    4300800: Screw_Threads_L24
+    4300802: Joint_Base
+    4300804: Arm_Base
+    4300806: Arm_Tread_1
+    4300808: Arm_Tread_2
+    4300810: Arm_Tread_5
+    4300812: Arm_Tread_6
+    4300814: Arm_Base
+    4300816: Arm_Tread_1
+    4300818: Joint_Base
+    4300820: Bearing_Base
+    4300822: Cylinder_1
+    4300824: Washer_1
+    4300826: Washer_2
+    4300828: Nut_1
+    4300830: Nut_2
+    4300832: Screw_1
+    4300834: Arm_Tread_7
+    4300836: Bot_Bearing_Supp_1
+    4300838: Bot_Bearing
+    4300840: Bot_Tread_1
+    4300842: Bot_Bearing_Supp_1
+    4300844: Bot_Bearing
+    4300846: Bot_Tread_1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Aluminium_Mat
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GsMetal_Red_Mat
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Grey_Mat
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws_Threads_Mat
+    second: {fileID: 2100000, guid: 99aa1f96931c82b4e94bddd74e8a7c5f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

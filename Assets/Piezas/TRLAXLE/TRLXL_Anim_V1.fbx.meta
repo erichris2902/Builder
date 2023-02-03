@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: c3036ceb86c062749af9f362f17fda4d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bomba
+    100002: Bomba 1
+    100004: cilindro_max22T
+    100006: coso1
+    100008: coso1 1
+    100010: coso2
+    100012: coso2 1
+    100014: coso3
+    100016: coso3 1
+    100018: group25
+    100020: group25 1
+    100022: group26
+    100024: group26 1
+    100026: group27
+    100028: group27 1
+    100030: group28
+    100032: group28 1
+    100034: group29
+    100036: group29 1
+    100038: group30
+    100040: group30 1
+    100042: group31
+    100044: group31 1
+    100046: group32
+    100048: group32 1
+    100050: group33
+    100052: group33 1
+    100054: group34
+    100056: group34 1
+    100058: group35
+    100060: H
+    100062: H 1
+    100064: Int
+    100066: Int 1
+    100068: mASA
+    100070: mASA 1
+    100072: MAX22T
+    100074: MAX22T1
+    100076: pCube1
+    100078: pCube1 1
+    100080: pCube2
+    100082: pCube2 1
+    100084: pCube3
+    100086: pCube3 1
+    100088: pCube4
+    100090: pCube4 1
+    100092: pCylinder17
+    100094: pCylinder17 1
+    100096: pCylinder18
+    100098: pCylinder18 1
+    100100: pCylinder19
+    100102: pCylinder19 1
+    100104: pCylinder2
+    100106: pCylinder2 1
+    100108: pCylinder20
+    100110: pCylinder20 1
+    100112: pCylinder22
+    100114: pCylinder22 1
+    100116: pCylinder29
+    100118: pCylinder29 1
+    100120: pCylinder3
+    100122: pCylinder3 1
+    100124: pCylinder4
+    100126: pCylinder4 1
+    100128: pCylinder41
+    100130: pCylinder41 1
+    100132: pCylinder47
+    100134: pCylinder47 1
+    100136: pCylinder48
+    100138: pCylinder48 1
+    100140: pCylinder49
+    100142: pCylinder49 1
+    100144: pCylinder5
+    100146: pCylinder5 1
+    100148: pCylinder50
+    100150: pCylinder50 1
+    100152: pCylinder51
+    100154: pCylinder51 1
+    100156: pCylinder6
+    100158: pCylinder6 1
+    100160: polySurface744
+    100162: polySurface744 1
+    100164: polySurface745
+    100166: polySurface745 1
+    100168: polySurface763
+    100170: polySurface763 1
+    100172: polySurface764
+    100174: polySurface764 1
+    100176: polySurface8
+    100178: polySurface8 1
+    100180: pPipe1
+    100182: pPipe1 1
+    100184: pPipe10
+    100186: pPipe10 1
+    100188: pPipe11
+    100190: pPipe11 1
+    100192: pPipe12
+    100194: pPipe12 1
+    100196: pPipe13
+    100198: pPipe13 1
+    100200: pPipe14
+    100202: pPipe14 1
+    100204: pPipe15
+    100206: pPipe15 1
+    100208: pPipe16
+    100210: pPipe16 1
+    100212: pPipe17
+    100214: pPipe17 1
+    100216: pPipe18
+    100218: pPipe18 1
+    100220: pPipe19
+    100222: pPipe19 1
+    100224: pPipe2
+    100226: pPipe2 1
+    100228: pPipe20
+    100230: pPipe20 1
+    100232: pPipe21
+    100234: pPipe21 1
+    100236: pPipe22
+    100238: pPipe22 1
+    100240: pPipe23
+    100242: pPipe23 1
+    100244: pPipe24
+    100246: pPipe24 1
+    100248: pPipe25
+    100250: pPipe25 1
+    100252: pPipe26
+    100254: pPipe26 1
+    100256: pPipe27
+    100258: pPipe27 1
+    100260: pPipe28
+    100262: pPipe28 1
+    100264: pPipe29
+    100266: pPipe29 1
+    100268: pPipe30
+    100270: pPipe30 1
+    100272: pPipe31
+    100274: pPipe31 1
+    100276: pPipe32
+    100278: pPipe32 1
+    100280: pPipe33
+    100282: pPipe33 1
+    100284: pPipe34
+    100286: pPipe34 1
+    100288: pPipe35
+    100290: pPipe35 1
+    100292: pPipe36
+    100294: pPipe36 1
+    100296: pPipe4
+    100298: pPipe4 1
+    100300: pPipe5
+    100302: pPipe5 1
+    100304: pPipe6
+    100306: pPipe6 1
+    100308: pPipe8
+    100310: pPipe8 1
+    100312: pPipe9
+    100314: pPipe9 1
+    100316: roscaaaa
+    100318: roscaaaa 1
+    100320: Screw_Threads_L1
+    100322: Screw_Threads_L1 1
+    100324: Screw_Threads_L13
+    100326: Screw_Threads_L13 1
+    100328: Screw_Threads_L27
+    100330: Screw_Threads_L27 1
+    100332: Screw_Threads_L29
+    100334: Screw_Threads_L29 1
+    100336: Screw_Threads_S
+    100338: Screw_Threads_S 1
+    100340: Screw_Threads_S1
+    100342: Screw_Threads_S1 1
+    100344: Screw_Threads_S10
+    100346: Screw_Threads_S10 1
+    100348: Screw_Threads_S11
+    100350: Screw_Threads_S11 1
+    100352: Screw_Threads_S12
+    100354: Screw_Threads_S12 1
+    100356: Screw_Threads_S13
+    100358: Screw_Threads_S13 1
+    100360: Screw_Threads_S14
+    100362: Screw_Threads_S14 1
+    100364: Screw_Threads_S15
+    100366: Screw_Threads_S15 1
+    100368: Screw_Threads_S16
+    100370: Screw_Threads_S16 1
+    100372: Screw_Threads_S2
+    100374: Screw_Threads_S2 1
+    100376: Screw_Threads_S3
+    100378: Screw_Threads_S3 1
+    100380: Screw_Threads_S4
+    100382: Screw_Threads_S4 1
+    100384: Screw_Threads_S5
+    100386: Screw_Threads_S5 1
+    100388: Screw_Threads_S7
+    100390: Screw_Threads_S7 1
+    100392: Screw_Threads_S8
+    100394: Screw_Threads_S8 1
+    100396: Screw_Threads_S9
+    100398: Screw_Threads_S9 1
+    100400: Screws
+    100402: Screws 1
+    100404: Screws 2
+    100406: Screws 3
+    100408: SEGURO
+    100410: SEGURO 1
+    100412: tapa1
+    100414: tapa1 1
+    100416: Trlaxel_Axis
+    100418: Trlaxl_Screws
+    100420: //RootNode
+    400000: Bomba
+    400002: Bomba 1
+    400004: cilindro_max22T
+    400006: coso1
+    400008: coso1 1
+    400010: coso2
+    400012: coso2 1
+    400014: coso3
+    400016: coso3 1
+    400018: group25
+    400020: group25 1
+    400022: group26
+    400024: group26 1
+    400026: group27
+    400028: group27 1
+    400030: group28
+    400032: group28 1
+    400034: group29
+    400036: group29 1
+    400038: group30
+    400040: group30 1
+    400042: group31
+    400044: group31 1
+    400046: group32
+    400048: group32 1
+    400050: group33
+    400052: group33 1
+    400054: group34
+    400056: group34 1
+    400058: group35
+    400060: H
+    400062: H 1
+    400064: Int
+    400066: Int 1
+    400068: mASA
+    400070: mASA 1
+    400072: MAX22T
+    400074: MAX22T1
+    400076: pCube1
+    400078: pCube1 1
+    400080: pCube2
+    400082: pCube2 1
+    400084: pCube3
+    400086: pCube3 1
+    400088: pCube4
+    400090: pCube4 1
+    400092: pCylinder17
+    400094: pCylinder17 1
+    400096: pCylinder18
+    400098: pCylinder18 1
+    400100: pCylinder19
+    400102: pCylinder19 1
+    400104: pCylinder2
+    400106: pCylinder2 1
+    400108: pCylinder20
+    400110: pCylinder20 1
+    400112: pCylinder22
+    400114: pCylinder22 1
+    400116: pCylinder29
+    400118: pCylinder29 1
+    400120: pCylinder3
+    400122: pCylinder3 1
+    400124: pCylinder4
+    400126: pCylinder4 1
+    400128: pCylinder41
+    400130: pCylinder41 1
+    400132: pCylinder47
+    400134: pCylinder47 1
+    400136: pCylinder48
+    400138: pCylinder48 1
+    400140: pCylinder49
+    400142: pCylinder49 1
+    400144: pCylinder5
+    400146: pCylinder5 1
+    400148: pCylinder50
+    400150: pCylinder50 1
+    400152: pCylinder51
+    400154: pCylinder51 1
+    400156: pCylinder6
+    400158: pCylinder6 1
+    400160: polySurface744
+    400162: polySurface744 1
+    400164: polySurface745
+    400166: polySurface745 1
+    400168: polySurface763
+    400170: polySurface763 1
+    400172: polySurface764
+    400174: polySurface764 1
+    400176: polySurface8
+    400178: polySurface8 1
+    400180: pPipe1
+    400182: pPipe1 1
+    400184: pPipe10
+    400186: pPipe10 1
+    400188: pPipe11
+    400190: pPipe11 1
+    400192: pPipe12
+    400194: pPipe12 1
+    400196: pPipe13
+    400198: pPipe13 1
+    400200: pPipe14
+    400202: pPipe14 1
+    400204: pPipe15
+    400206: pPipe15 1
+    400208: pPipe16
+    400210: pPipe16 1
+    400212: pPipe17
+    400214: pPipe17 1
+    400216: pPipe18
+    400218: pPipe18 1
+    400220: pPipe19
+    400222: pPipe19 1
+    400224: pPipe2
+    400226: pPipe2 1
+    400228: pPipe20
+    400230: pPipe20 1
+    400232: pPipe21
+    400234: pPipe21 1
+    400236: pPipe22
+    400238: pPipe22 1
+    400240: pPipe23
+    400242: pPipe23 1
+    400244: pPipe24
+    400246: pPipe24 1
+    400248: pPipe25
+    400250: pPipe25 1
+    400252: pPipe26
+    400254: pPipe26 1
+    400256: pPipe27
+    400258: pPipe27 1
+    400260: pPipe28
+    400262: pPipe28 1
+    400264: pPipe29
+    400266: pPipe29 1
+    400268: pPipe30
+    400270: pPipe30 1
+    400272: pPipe31
+    400274: pPipe31 1
+    400276: pPipe32
+    400278: pPipe32 1
+    400280: pPipe33
+    400282: pPipe33 1
+    400284: pPipe34
+    400286: pPipe34 1
+    400288: pPipe35
+    400290: pPipe35 1
+    400292: pPipe36
+    400294: pPipe36 1
+    400296: pPipe4
+    400298: pPipe4 1
+    400300: pPipe5
+    400302: pPipe5 1
+    400304: pPipe6
+    400306: pPipe6 1
+    400308: pPipe8
+    400310: pPipe8 1
+    400312: pPipe9
+    400314: pPipe9 1
+    400316: roscaaaa
+    400318: roscaaaa 1
+    400320: Screw_Threads_L1
+    400322: Screw_Threads_L1 1
+    400324: Screw_Threads_L13
+    400326: Screw_Threads_L13 1
+    400328: Screw_Threads_L27
+    400330: Screw_Threads_L27 1
+    400332: Screw_Threads_L29
+    400334: Screw_Threads_L29 1
+    400336: Screw_Threads_S
+    400338: Screw_Threads_S 1
+    400340: Screw_Threads_S1
+    400342: Screw_Threads_S1 1
+    400344: Screw_Threads_S10
+    400346: Screw_Threads_S10 1
+    400348: Screw_Threads_S11
+    400350: Screw_Threads_S11 1
+    400352: Screw_Threads_S12
+    400354: Screw_Threads_S12 1
+    400356: Screw_Threads_S13
+    400358: Screw_Threads_S13 1
+    400360: Screw_Threads_S14
+    400362: Screw_Threads_S14 1
+    400364: Screw_Threads_S15
+    400366: Screw_Threads_S15 1
+    400368: Screw_Threads_S16
+    400370: Screw_Threads_S16 1
+    400372: Screw_Threads_S2
+    400374: Screw_Threads_S2 1
+    400376: Screw_Threads_S3
+    400378: Screw_Threads_S3 1
+    400380: Screw_Threads_S4
+    400382: Screw_Threads_S4 1
+    400384: Screw_Threads_S5
+    400386: Screw_Threads_S5 1
+    400388: Screw_Threads_S7
+    400390: Screw_Threads_S7 1
+    400392: Screw_Threads_S8
+    400394: Screw_Threads_S8 1
+    400396: Screw_Threads_S9
+    400398: Screw_Threads_S9 1
+    400400: Screws
+    400402: Screws 1
+    400404: Screws 2
+    400406: Screws 3
+    400408: SEGURO
+    400410: SEGURO 1
+    400412: tapa1
+    400414: tapa1 1
+    400416: Trlaxel_Axis
+    400418: Trlaxl_Screws
+    400420: //RootNode
+    2100000: MetalGS_Red_Mat
+    2100002: MetalGS_Aluminiun_Mat
+    2100004: MetalGS_Aluminiun_Dark_Mat
+    2100006: Screws_Threads
+    2100008: Plastic_Black_1_Mat
+    2100010: MetalGS_Golden_Mat_1
+    2100012: Axis_Threads
+    2100014: lambert2
+    2300000: coso1
+    2300002: coso1 1
+    2300004: coso2
+    2300006: coso2 1
+    2300008: coso3
+    2300010: coso3 1
+    2300012: H
+    2300014: H 1
+    2300016: pCube1
+    2300018: pCube1 1
+    2300020: pCube2
+    2300022: pCube2 1
+    2300024: pCube3
+    2300026: pCube3 1
+    2300028: pCube4
+    2300030: pCube4 1
+    2300032: pCylinder17
+    2300034: pCylinder17 1
+    2300036: pCylinder18
+    2300038: pCylinder18 1
+    2300040: pCylinder19
+    2300042: pCylinder19 1
+    2300044: pCylinder2
+    2300046: pCylinder2 1
+    2300048: pCylinder20
+    2300050: pCylinder20 1
+    2300052: pCylinder22
+    2300054: pCylinder22 1
+    2300056: pCylinder29
+    2300058: pCylinder29 1
+    2300060: pCylinder3
+    2300062: pCylinder3 1
+    2300064: pCylinder4
+    2300066: pCylinder4 1
+    2300068: pCylinder41
+    2300070: pCylinder41 1
+    2300072: pCylinder47
+    2300074: pCylinder47 1
+    2300076: pCylinder48
+    2300078: pCylinder48 1
+    2300080: pCylinder49
+    2300082: pCylinder49 1
+    2300084: pCylinder5
+    2300086: pCylinder5 1
+    2300088: pCylinder50
+    2300090: pCylinder50 1
+    2300092: pCylinder51
+    2300094: pCylinder51 1
+    2300096: pCylinder6
+    2300098: pCylinder6 1
+    2300100: polySurface744
+    2300102: polySurface744 1
+    2300104: polySurface745
+    2300106: polySurface745 1
+    2300108: polySurface763
+    2300110: polySurface763 1
+    2300112: polySurface764
+    2300114: polySurface764 1
+    2300116: polySurface8
+    2300118: polySurface8 1
+    2300120: pPipe1
+    2300122: pPipe1 1
+    2300124: pPipe10
+    2300126: pPipe10 1
+    2300128: pPipe11
+    2300130: pPipe11 1
+    2300132: pPipe12
+    2300134: pPipe12 1
+    2300136: pPipe13
+    2300138: pPipe13 1
+    2300140: pPipe14
+    2300142: pPipe14 1
+    2300144: pPipe15
+    2300146: pPipe15 1
+    2300148: pPipe16
+    2300150: pPipe16 1
+    2300152: pPipe17
+    2300154: pPipe17 1
+    2300156: pPipe18
+    2300158: pPipe18 1
+    2300160: pPipe19
+    2300162: pPipe19 1
+    2300164: pPipe2
+    2300166: pPipe2 1
+    2300168: pPipe20
+    2300170: pPipe20 1
+    2300172: pPipe21
+    2300174: pPipe21 1
+    2300176: pPipe22
+    2300178: pPipe22 1
+    2300180: pPipe23
+    2300182: pPipe23 1
+    2300184: pPipe24
+    2300186: pPipe24 1
+    2300188: pPipe25
+    2300190: pPipe25 1
+    2300192: pPipe26
+    2300194: pPipe26 1
+    2300196: pPipe27
+    2300198: pPipe27 1
+    2300200: pPipe28
+    2300202: pPipe28 1
+    2300204: pPipe29
+    2300206: pPipe29 1
+    2300208: pPipe30
+    2300210: pPipe30 1
+    2300212: pPipe31
+    2300214: pPipe31 1
+    2300216: pPipe32
+    2300218: pPipe32 1
+    2300220: pPipe33
+    2300222: pPipe33 1
+    2300224: pPipe34
+    2300226: pPipe34 1
+    2300228: pPipe35
+    2300230: pPipe35 1
+    2300232: pPipe36
+    2300234: pPipe36 1
+    2300236: pPipe4
+    2300238: pPipe4 1
+    2300240: pPipe5
+    2300242: pPipe5 1
+    2300244: pPipe6
+    2300246: pPipe6 1
+    2300248: pPipe8
+    2300250: pPipe8 1
+    2300252: pPipe9
+    2300254: pPipe9 1
+    2300256: roscaaaa
+    2300258: roscaaaa 1
+    2300260: Screw_Threads_L1
+    2300262: Screw_Threads_L1 1
+    2300264: Screw_Threads_L13
+    2300266: Screw_Threads_L13 1
+    2300268: Screw_Threads_L27
+    2300270: Screw_Threads_L27 1
+    2300272: Screw_Threads_L29
+    2300274: Screw_Threads_L29 1
+    2300276: Screw_Threads_S
+    2300278: Screw_Threads_S 1
+    2300280: Screw_Threads_S1
+    2300282: Screw_Threads_S1 1
+    2300284: Screw_Threads_S10
+    2300286: Screw_Threads_S10 1
+    2300288: Screw_Threads_S11
+    2300290: Screw_Threads_S11 1
+    2300292: Screw_Threads_S12
+    2300294: Screw_Threads_S12 1
+    2300296: Screw_Threads_S13
+    2300298: Screw_Threads_S13 1
+    2300300: Screw_Threads_S14
+    2300302: Screw_Threads_S14 1
+    2300304: Screw_Threads_S15
+    2300306: Screw_Threads_S15 1
+    2300308: Screw_Threads_S16
+    2300310: Screw_Threads_S16 1
+    2300312: Screw_Threads_S2
+    2300314: Screw_Threads_S2 1
+    2300316: Screw_Threads_S3
+    2300318: Screw_Threads_S3 1
+    2300320: Screw_Threads_S4
+    2300322: Screw_Threads_S4 1
+    2300324: Screw_Threads_S5
+    2300326: Screw_Threads_S5 1
+    2300328: Screw_Threads_S7
+    2300330: Screw_Threads_S7 1
+    2300332: Screw_Threads_S8
+    2300334: Screw_Threads_S8 1
+    2300336: Screw_Threads_S9
+    2300338: Screw_Threads_S9 1
+    2300340: tapa1
+    2300342: tapa1 1
+    2300344: Trlaxel_Axis
+    2300346: Trlaxl_Screws
+    3300000: coso1
+    3300002: coso1 1
+    3300004: coso2
+    3300006: coso2 1
+    3300008: coso3
+    3300010: coso3 1
+    3300012: H
+    3300014: H 1
+    3300016: pCube1
+    3300018: pCube1 1
+    3300020: pCube2
+    3300022: pCube2 1
+    3300024: pCube3
+    3300026: pCube3 1
+    3300028: pCube4
+    3300030: pCube4 1
+    3300032: pCylinder17
+    3300034: pCylinder17 1
+    3300036: pCylinder18
+    3300038: pCylinder18 1
+    3300040: pCylinder19
+    3300042: pCylinder19 1
+    3300044: pCylinder2
+    3300046: pCylinder2 1
+    3300048: pCylinder20
+    3300050: pCylinder20 1
+    3300052: pCylinder22
+    3300054: pCylinder22 1
+    3300056: pCylinder29
+    3300058: pCylinder29 1
+    3300060: pCylinder3
+    3300062: pCylinder3 1
+    3300064: pCylinder4
+    3300066: pCylinder4 1
+    3300068: pCylinder41
+    3300070: pCylinder41 1
+    3300072: pCylinder47
+    3300074: pCylinder47 1
+    3300076: pCylinder48
+    3300078: pCylinder48 1
+    3300080: pCylinder49
+    3300082: pCylinder49 1
+    3300084: pCylinder5
+    3300086: pCylinder5 1
+    3300088: pCylinder50
+    3300090: pCylinder50 1
+    3300092: pCylinder51
+    3300094: pCylinder51 1
+    3300096: pCylinder6
+    3300098: pCylinder6 1
+    3300100: polySurface744
+    3300102: polySurface744 1
+    3300104: polySurface745
+    3300106: polySurface745 1
+    3300108: polySurface763
+    3300110: polySurface763 1
+    3300112: polySurface764
+    3300114: polySurface764 1
+    3300116: polySurface8
+    3300118: polySurface8 1
+    3300120: pPipe1
+    3300122: pPipe1 1
+    3300124: pPipe10
+    3300126: pPipe10 1
+    3300128: pPipe11
+    3300130: pPipe11 1
+    3300132: pPipe12
+    3300134: pPipe12 1
+    3300136: pPipe13
+    3300138: pPipe13 1
+    3300140: pPipe14
+    3300142: pPipe14 1
+    3300144: pPipe15
+    3300146: pPipe15 1
+    3300148: pPipe16
+    3300150: pPipe16 1
+    3300152: pPipe17
+    3300154: pPipe17 1
+    3300156: pPipe18
+    3300158: pPipe18 1
+    3300160: pPipe19
+    3300162: pPipe19 1
+    3300164: pPipe2
+    3300166: pPipe2 1
+    3300168: pPipe20
+    3300170: pPipe20 1
+    3300172: pPipe21
+    3300174: pPipe21 1
+    3300176: pPipe22
+    3300178: pPipe22 1
+    3300180: pPipe23
+    3300182: pPipe23 1
+    3300184: pPipe24
+    3300186: pPipe24 1
+    3300188: pPipe25
+    3300190: pPipe25 1
+    3300192: pPipe26
+    3300194: pPipe26 1
+    3300196: pPipe27
+    3300198: pPipe27 1
+    3300200: pPipe28
+    3300202: pPipe28 1
+    3300204: pPipe29
+    3300206: pPipe29 1
+    3300208: pPipe30
+    3300210: pPipe30 1
+    3300212: pPipe31
+    3300214: pPipe31 1
+    3300216: pPipe32
+    3300218: pPipe32 1
+    3300220: pPipe33
+    3300222: pPipe33 1
+    3300224: pPipe34
+    3300226: pPipe34 1
+    3300228: pPipe35
+    3300230: pPipe35 1
+    3300232: pPipe36
+    3300234: pPipe36 1
+    3300236: pPipe4
+    3300238: pPipe4 1
+    3300240: pPipe5
+    3300242: pPipe5 1
+    3300244: pPipe6
+    3300246: pPipe6 1
+    3300248: pPipe8
+    3300250: pPipe8 1
+    3300252: pPipe9
+    3300254: pPipe9 1
+    3300256: roscaaaa
+    3300258: roscaaaa 1
+    3300260: Screw_Threads_L1
+    3300262: Screw_Threads_L1 1
+    3300264: Screw_Threads_L13
+    3300266: Screw_Threads_L13 1
+    3300268: Screw_Threads_L27
+    3300270: Screw_Threads_L27 1
+    3300272: Screw_Threads_L29
+    3300274: Screw_Threads_L29 1
+    3300276: Screw_Threads_S
+    3300278: Screw_Threads_S 1
+    3300280: Screw_Threads_S1
+    3300282: Screw_Threads_S1 1
+    3300284: Screw_Threads_S10
+    3300286: Screw_Threads_S10 1
+    3300288: Screw_Threads_S11
+    3300290: Screw_Threads_S11 1
+    3300292: Screw_Threads_S12
+    3300294: Screw_Threads_S12 1
+    3300296: Screw_Threads_S13
+    3300298: Screw_Threads_S13 1
+    3300300: Screw_Threads_S14
+    3300302: Screw_Threads_S14 1
+    3300304: Screw_Threads_S15
+    3300306: Screw_Threads_S15 1
+    3300308: Screw_Threads_S16
+    3300310: Screw_Threads_S16 1
+    3300312: Screw_Threads_S2
+    3300314: Screw_Threads_S2 1
+    3300316: Screw_Threads_S3
+    3300318: Screw_Threads_S3 1
+    3300320: Screw_Threads_S4
+    3300322: Screw_Threads_S4 1
+    3300324: Screw_Threads_S5
+    3300326: Screw_Threads_S5 1
+    3300328: Screw_Threads_S7
+    3300330: Screw_Threads_S7 1
+    3300332: Screw_Threads_S8
+    3300334: Screw_Threads_S8 1
+    3300336: Screw_Threads_S9
+    3300338: Screw_Threads_S9 1
+    3300340: tapa1
+    3300342: tapa1 1
+    3300344: Trlaxel_Axis
+    3300346: Trlaxl_Screws
+    4300000: coso2
+    4300002: tapa1
+    4300004: pPipe1
+    4300006: pCylinder20
+    4300008: pPipe29
+    4300010: pPipe28
+    4300012: pCylinder29
+    4300014: pCylinder22
+    4300016: Screw_Threads_S
+    4300018: Screw_Threads_S1
+    4300020: Screw_Threads_S2
+    4300022: Screw_Threads_S3
+    4300024: Screw_Threads_S4
+    4300026: Screw_Threads_S5
+    4300028: pCylinder47
+    4300030: Screw_Threads_L27
+    4300032: Screw_Threads_S7
+    4300034: Screw_Threads_S8
+    4300036: Screw_Threads_S9
+    4300038: Screw_Threads_S10
+    4300040: Screw_Threads_S11
+    4300042: Screw_Threads_S12
+    4300044: Screw_Threads_S13
+    4300046: Screw_Threads_S14
+    4300048: Screw_Threads_S15
+    4300050: Screw_Threads_S16
+    4300052: Screw_Threads_L13
+    4300054: pPipe13
+    4300056: pPipe12
+    4300058: pPipe10
+    4300060: pPipe6
+    4300062: pPipe8
+    4300064: pPipe5
+    4300066: pPipe31
+    4300068: polySurface764
+    4300070: pCylinder41
+    4300072: pPipe19
+    4300074: pPipe18
+    4300076: pPipe20
+    4300078: pPipe27
+    4300080: pPipe24
+    4300082: pPipe21
+    4300084: pPipe22
+    4300086: pPipe16
+    4300088: pPipe26
+    4300090: pPipe17
+    4300092: pPipe23
+    4300094: pPipe9
+    4300096: polySurface763
+    4300098: pPipe11
+    4300100: pPipe36
+    4300102: pPipe30
+    4300104: H
+    4300106: pCylinder5
+    4300108: pPipe4
+    4300110: pCylinder4
+    4300112: pCylinder3
+    4300114: pCylinder2
+    4300116: Screw_Threads_L29
+    4300118: pCylinder6
+    4300120: Screw_Threads_L1
+    4300122: pCylinder17
+    4300124: pCylinder19
+    4300126: pCylinder18
+    4300128: coso1
+    4300130: pCube4
+    4300132: pCube1
+    4300134: pCube2
+    4300136: pCube3
+    4300138: polySurface745
+    4300140: polySurface744
+    4300142: polySurface8
+    4300144: pPipe25
+    4300146: pPipe14
+    4300148: coso3
+    4300150: pPipe15
+    4300152: pPipe2
+    4300154: roscaaaa
+    4300156: pPipe35
+    4300158: pCylinder49
+    4300160: pPipe34
+    4300162: pCylinder48
+    4300164: pPipe33
+    4300166: pPipe32
+    4300168: pCylinder51
+    4300170: pCylinder50
+    4300172: Trlaxl_Screws
+    4300174: Trlaxel_Axis
+    4300176: roscaaaa
+    4300178: coso2
+    4300180: tapa1
+    4300182: pPipe1
+    4300184: pCylinder20
+    4300186: pPipe29
+    4300188: pPipe28
+    4300190: pCylinder29
+    4300192: pCylinder22
+    4300194: Screw_Threads_S
+    4300196: Screw_Threads_S1
+    4300198: Screw_Threads_S2
+    4300200: Screw_Threads_S3
+    4300202: Screw_Threads_S4
+    4300204: Screw_Threads_S5
+    4300206: pCylinder47
+    4300208: Screw_Threads_L27
+    4300210: Screw_Threads_S7
+    4300212: Screw_Threads_S8
+    4300214: Screw_Threads_S9
+    4300216: Screw_Threads_S10
+    4300218: Screw_Threads_S11
+    4300220: Screw_Threads_S12
+    4300222: Screw_Threads_S13
+    4300224: Screw_Threads_S14
+    4300226: Screw_Threads_S15
+    4300228: Screw_Threads_S16
+    4300230: Screw_Threads_L13
+    4300232: pPipe13
+    4300234: pPipe12
+    4300236: pPipe10
+    4300238: pPipe6
+    4300240: pPipe8
+    4300242: pPipe5
+    4300244: pPipe31
+    4300246: polySurface764
+    4300248: pCylinder41
+    4300250: pPipe19
+    4300252: pPipe18
+    4300254: pPipe20
+    4300256: pPipe27
+    4300258: pPipe24
+    4300260: pPipe21
+    4300262: pPipe22
+    4300264: pPipe16
+    4300266: pPipe26
+    4300268: pPipe17
+    4300270: pPipe23
+    4300272: pPipe9
+    4300274: polySurface763
+    4300276: pPipe11
+    4300278: pPipe36
+    4300280: pPipe30
+    4300282: H
+    4300284: pCylinder5
+    4300286: pPipe4
+    4300288: pCylinder4
+    4300290: pCylinder3
+    4300292: pCylinder2
+    4300294: Screw_Threads_L29
+    4300296: pCylinder6
+    4300298: Screw_Threads_L1
+    4300300: pCylinder17
+    4300302: pCylinder19
+    4300304: pCylinder18
+    4300306: coso1
+    4300308: pCube4
+    4300310: pCube1
+    4300312: pCube2
+    4300314: pCube3
+    4300316: polySurface745
+    4300318: polySurface744
+    4300320: polySurface8
+    4300322: pPipe25
+    4300324: pPipe14
+    4300326: coso3
+    4300328: pPipe15
+    4300330: pPipe2
+    4300332: pPipe35
+    4300334: pCylinder49
+    4300336: pPipe34
+    4300338: pCylinder48
+    4300340: pPipe33
+    4300342: pPipe32
+    4300344: pCylinder51
+    4300346: pCylinder50
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Axis_Threads
+    second: {fileID: 2100000, guid: 4a5466706755af34498a7f529146a7bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Dark_Mat
+    second: {fileID: 2100000, guid: 41351b7c3d340a3489093eb21201dbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Mat
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Golden_Mat_1
+    second: {fileID: 2100000, guid: ee26f606fa0d1f1409e5e64089129c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Red_Mat
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black_1_Mat
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws_Threads
+    second: {fileID: 2100000, guid: 99aa1f96931c82b4e94bddd74e8a7c5f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

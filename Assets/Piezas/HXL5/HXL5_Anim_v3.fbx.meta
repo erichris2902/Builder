@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: de9c3ef4db6f848409d8a59da92beebd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: argolla
+    100002: balines
+    100004: balines 1
+    100006: Base
+    100008: Brake
+    100010: cilindros
+    100012: empaque
+    100014: group11
+    100016: group8
+    100018: group8 1
+    100020: H
+    100022: HXL5 1
+    100024: //RootNode
+    100026: int1
+    100028: masa
+    100030: masa1
+    100032: pase2
+    100034: pCube13
+    100036: pCube14
+    100038: pCylinder27
+    100040: pCylinder28
+    100042: pCylinder30
+    100044: pCylinder31
+    100046: pCylinder32
+    100048: pCylinder35
+    100050: pCylinder41
+    100052: pCylinder42
+    100054: pHelix3
+    100056: pieza
+    100058: placas_freno
+    100060: polySurface2580
+    100062: polySurface2581
+    100064: polySurface2582
+    100066: polySurface2583
+    100068: polySurface2584
+    100070: polySurface2585
+    100072: polySurface2586
+    100074: polySurface2587
+    100076: polySurface2588
+    100078: polySurface2589
+    100080: polySurface980
+    100082: polySurface981
+    100084: polySurface982
+    100086: polySurface983
+    100088: polySurface984
+    100090: polySurface985
+    100092: polySurface986
+    100094: polySurface987
+    100096: polySurface988
+    100098: polySurface989
+    100100: polySurface992
+    100102: polySurface994
+    100104: pPipe10
+    100106: pPipe11
+    100108: pPipe2
+    100110: pPipe3
+    100112: pPipe3 1
+    100114: pPipe4
+    100116: pPipe5
+    100118: pPipe9
+    100120: remaches
+    100122: resortes
+    100124: rondana
+    100126: seguro
+    100128: Tapa
+    100130: TornillosHXL5
+    400000: argolla
+    400002: balines
+    400004: balines 1
+    400006: Base
+    400008: Brake
+    400010: cilindros
+    400012: empaque
+    400014: group11
+    400016: group8
+    400018: group8 1
+    400020: H
+    400022: HXL5 1
+    400024: //RootNode
+    400026: int1
+    400028: masa
+    400030: masa1
+    400032: pase2
+    400034: pCube13
+    400036: pCube14
+    400038: pCylinder27
+    400040: pCylinder28
+    400042: pCylinder30
+    400044: pCylinder31
+    400046: pCylinder32
+    400048: pCylinder35
+    400050: pCylinder41
+    400052: pCylinder42
+    400054: pHelix3
+    400056: pieza
+    400058: placas_freno
+    400060: polySurface2580
+    400062: polySurface2581
+    400064: polySurface2582
+    400066: polySurface2583
+    400068: polySurface2584
+    400070: polySurface2585
+    400072: polySurface2586
+    400074: polySurface2587
+    400076: polySurface2588
+    400078: polySurface2589
+    400080: polySurface980
+    400082: polySurface981
+    400084: polySurface982
+    400086: polySurface983
+    400088: polySurface984
+    400090: polySurface985
+    400092: polySurface986
+    400094: polySurface987
+    400096: polySurface988
+    400098: polySurface989
+    400100: polySurface992
+    400102: polySurface994
+    400104: pPipe10
+    400106: pPipe11
+    400108: pPipe2
+    400110: pPipe3
+    400112: pPipe3 1
+    400114: pPipe4
+    400116: pPipe5
+    400118: pPipe9
+    400120: remaches
+    400122: resortes
+    400124: rondana
+    400126: seguro
+    400128: Tapa
+    400130: TornillosHXL5
+    2100000: MetalGS_Aluminiun_Dark_Mat
+    2100002: Brake_Mat
+    2100004: MetalGS_Golden_Mat_1
+    2100006: Plastic_Black_1_Mat
+    2100008: MetalGS_Aluminiun_Mat
+    2100010: MetalGS_Red_Mat
+    2300000: argolla
+    2300002: balines
+    2300004: balines 1
+    2300006: Base
+    2300008: empaque
+    2300010: group8
+    2300012: group8 1
+    2300014: H
+    2300016: pase2
+    2300018: pCube13
+    2300020: pCube14
+    2300022: pCylinder27
+    2300024: pCylinder28
+    2300026: pCylinder30
+    2300028: pCylinder31
+    2300030: pCylinder32
+    2300032: pCylinder35
+    2300034: pCylinder41
+    2300036: pCylinder42
+    2300038: pHelix3
+    2300040: polySurface2580
+    2300042: polySurface2581
+    2300044: polySurface2582
+    2300046: polySurface2583
+    2300048: polySurface2584
+    2300050: polySurface2585
+    2300052: polySurface2586
+    2300054: polySurface2587
+    2300056: polySurface2588
+    2300058: polySurface2589
+    2300060: polySurface980
+    2300062: polySurface981
+    2300064: polySurface982
+    2300066: polySurface983
+    2300068: polySurface984
+    2300070: polySurface985
+    2300072: polySurface986
+    2300074: polySurface987
+    2300076: polySurface988
+    2300078: polySurface989
+    2300080: polySurface992
+    2300082: polySurface994
+    2300084: pPipe10
+    2300086: pPipe11
+    2300088: pPipe2
+    2300090: pPipe3
+    2300092: pPipe3 1
+    2300094: pPipe4
+    2300096: pPipe5
+    2300098: pPipe9
+    2300100: rondana
+    2300102: Tapa
+    3300000: argolla
+    3300002: balines
+    3300004: balines 1
+    3300006: Base
+    3300008: empaque
+    3300010: group8
+    3300012: group8 1
+    3300014: H
+    3300016: pase2
+    3300018: pCube13
+    3300020: pCube14
+    3300022: pCylinder27
+    3300024: pCylinder28
+    3300026: pCylinder30
+    3300028: pCylinder31
+    3300030: pCylinder32
+    3300032: pCylinder35
+    3300034: pCylinder41
+    3300036: pCylinder42
+    3300038: pHelix3
+    3300040: polySurface2580
+    3300042: polySurface2581
+    3300044: polySurface2582
+    3300046: polySurface2583
+    3300048: polySurface2584
+    3300050: polySurface2585
+    3300052: polySurface2586
+    3300054: polySurface2587
+    3300056: polySurface2588
+    3300058: polySurface2589
+    3300060: polySurface980
+    3300062: polySurface981
+    3300064: polySurface982
+    3300066: polySurface983
+    3300068: polySurface984
+    3300070: polySurface985
+    3300072: polySurface986
+    3300074: polySurface987
+    3300076: polySurface988
+    3300078: polySurface989
+    3300080: polySurface992
+    3300082: polySurface994
+    3300084: pPipe10
+    3300086: pPipe11
+    3300088: pPipe2
+    3300090: pPipe3
+    3300092: pPipe3 1
+    3300094: pPipe4
+    3300096: pPipe5
+    3300098: pPipe9
+    3300100: rondana
+    3300102: Tapa
+    4300000: pCylinder35
+    4300002: pCylinder41
+    4300004: pCylinder42
+    4300006: argolla
+    4300008: empaque
+    4300010: pPipe4
+    4300012: pPipe5
+    4300014: rondana
+    4300016: pPipe3
+    4300018: balines
+    4300020: group8
+    4300022: pPipe10
+    4300024: pPipe2
+    4300026: pPipe3
+    4300028: balines
+    4300030: group8
+    4300032: polySurface2585
+    4300034: polySurface2587
+    4300036: polySurface2588
+    4300038: polySurface2589
+    4300040: polySurface2580
+    4300042: polySurface2581
+    4300044: polySurface2586
+    4300046: polySurface2582
+    4300048: polySurface2584
+    4300050: polySurface2583
+    4300052: pCylinder31
+    4300054: pCylinder30
+    4300056: pCylinder28
+    4300058: pCylinder27
+    4300060: pHelix3
+    4300062: polySurface994
+    4300064: polySurface992
+    4300066: pCube14
+    4300068: pCube13
+    4300070: Base
+    4300072: Tapa
+    4300074: pCylinder32
+    4300076: pase2
+    4300078: polySurface984
+    4300080: polySurface982
+    4300082: polySurface980
+    4300084: polySurface986
+    4300086: polySurface988
+    4300088: polySurface989
+    4300090: polySurface987
+    4300092: polySurface985
+    4300094: polySurface983
+    4300096: polySurface981
+    4300098: pPipe9
+    4300100: pPipe11
+    4300102: H
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake_Mat
+    second: {fileID: 2100000, guid: f3ee2cd0fd9857b4ea41548a8db6cb53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Dark_Mat
+    second: {fileID: 2100000, guid: 41351b7c3d340a3489093eb21201dbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Aluminiun_Mat
+    second: {fileID: 2100000, guid: f80c5933e45f04849a3a9b89973ecd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Golden_Mat_1
+    second: {fileID: 2100000, guid: ee26f606fa0d1f1409e5e64089129c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalGS_Red_Mat
+    second: {fileID: 2100000, guid: 4f09793278e3a93469b8da3af67ab904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black_1_Mat
+    second: {fileID: 2100000, guid: 6f736f762d745594dbe3193a3dce7cb1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
